@@ -1,18 +1,18 @@
 <?php
 namespace GDO\Diary;
 
-use GDO\Core\GDO_Module;
-use GDO\UI\GDT_Page;
-use GDO\UI\GDT_Link;
 use GDO\Birthday\Module_Birthday;
+use GDO\Core\GDO_Module;
+use GDO\UI\GDT_Link;
+use GDO\UI\GDT_Page;
 
 /**
  * The gizmore diaries.
  *
- * @author gizmore
- * @license property of gizmore@wechall.net
  * @version 7.0.2
  * @since 6.10.4 - 09/11/2014
+ * @author gizmore
+ * @license property of gizmore@wechall.net
  */
 final class Module_Diary extends GDO_Module
 {
@@ -51,7 +51,7 @@ final class Module_Diary extends GDO_Module
 	public function onInitSidebar(): void
 	{
 		$page = GDT_Page::instance();
-		
+
 		# Top nav
 		$header = GDT_Link::make('link_diary')->href(href('Diary', 'Welcome'));
 		$page->topBar()->addField($header);
@@ -70,5 +70,5 @@ final class Module_Diary extends GDO_Module
 		$link = GDT_Link::make('link_diary_scans_diary')->href(href('Diary', 'Scans2014'));
 		$left->addField($link);
 	}
-	
+
 }
