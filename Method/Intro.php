@@ -1,6 +1,7 @@
 <?php
 namespace GDO\Diary\Method;
 
+use GDO\Core\GDT;
 use GDO\Core\GDT_Response;
 use GDO\UI\GDT_Bar;
 use GDO\UI\GDT_Link;
@@ -14,7 +15,7 @@ use GDO\UI\MethodPage;
 final class Intro extends MethodPage
 {
 
-	public function execute()
+	public function execute(): GDT
 	{
 		$response = GDT_Response::makeWith(parent::execute());
 		$btn0 = GDT_Link::make('link_diary_scans_intro')->href($this->getModule()->wwwPath('scans/00_Introduction'));

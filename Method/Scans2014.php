@@ -2,6 +2,7 @@
 namespace GDO\Diary\Method;
 
 use GDO\Birthday\WithAgeCheck;
+use GDO\Core\GDT;
 use GDO\Core\GDT_Response;
 use GDO\UI\GDT_Link;
 use GDO\UI\MethodPage;
@@ -11,7 +12,7 @@ final class Scans2014 extends MethodPage
 
 	use WithAgeCheck;
 
-	public function execute()
+	public function execute(): GDT
 	{
 		$response = GDT_Response::makeWith(parent::execute());
 		$button = GDT_Link::make('link_diary_scans_diary')->href($this->getModule()
