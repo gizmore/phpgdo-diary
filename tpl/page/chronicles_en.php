@@ -822,4 +822,7 @@ Wir planen für morgen Schweinemedallions, die Mutti kochen will.
 Wir quatschen zu dritt. Lazer ist immer negativ und vernichtend, wie ein richtiger Hacker ^^
 Ich meine "Falls ich nicht schaffe, dass ihr euch vertragt gebe ich Projekt Weltfrieden auf!,
 Aber Mutti und er scheinen sich gut zu vertragen.
+
+
+
 </pre>
