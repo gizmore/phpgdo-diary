@@ -69,6 +69,9 @@ final class Module_Diary extends GDO_Module
 
 		$link = GDT_Link::make('link_diary_scans_diary')->href(href('Diary', 'Scans2014'));
 		$left->addField($link);
+
+        $link = GDT_Link::make('link_gizmore_chronicles')->href(href('Diary', 'Chronicles'));
+        $left->addField($link);
 	}
 
 }
