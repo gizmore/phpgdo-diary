@@ -879,6 +879,15 @@ Thu, 7.Dec.2023
         Sie lacht und holt Eier vom Schneebedecktem Balkon.
         Die Zeit vergeht wie im Flug, nur gelegentlich ein wenig Suchtdruck.
 
+12:00 - Ivan kommt vorbei.
+        Er sagt, er wisse schon das ich wieder im Lande bin, und ich wundere mich von wem er das weiss.
+        Er bleibt nur kurz und meint ich sehe gut aus, und das es höchste Eisenbahn war, dass ich vom Alk wegkomme.
+        Ich zeige ihm ESL und er findet es gut. Juhu
+
+        Ich telefoniere mit Chefchen und zeige ihm diese Chroniken.
+        Ich hoffe er amüsiert sich ein wenig :)
+        Auch er sollte bemerken das ich schon wieder ganz schön fit bin.
+
 13:00 - Lazer hat noch nicht geantwortet auf die Frage ob wir heute zu 3. essen wollen.
         Wir schreiben einen kurzen Einkaufszettel, und wollen dann bald los.
         Mein Hausarzt braucht auch noch ein paar Papiere.
