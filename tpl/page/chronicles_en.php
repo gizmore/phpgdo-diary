@@ -823,6 +823,65 @@ Wir quatschen zu dritt. Lazer ist immer negativ und vernichtend, wie ein richtig
 Ich meine "Falls ich nicht schaffe, dass ihr euch vertragt gebe ich Projekt Weltfrieden auf!,
 Aber Mutti und er scheinen sich gut zu vertragen.
 
+17:00 - Ich repariere https://diary.gizmore.org.
+        Immerhin Eitel Bauer ist sehr interessiert daran.
+        Ich übertrage heutige ESL Notizen in meine Mappe, und mache mich wieder an die BörsenApp.
+        Mutti will Forelle braten.
+        Ich rufe Ihren Freund an, und sage wenn er keine Angst vor Corona hat, kann er auch vorbeikommen.
+        Auch er ist Erkältet, aber vielleicht besuche er uns mal mit Masken und vorher durchlüften.
+        Er heisst Hotti mit Spitznamen und ist ein sehr netter Kerl.
+        Zu Weihnachten haben wir letztes Jahr bissel Vodka zusammen getrunken ^^
+        Alkohol ist echt eine Volksdroge in Deutschland.
+
+19:00 - Ich arbeite ein wenig an der Börsen-App und langsam gibt es gute Ergebnisse.
+        Mutti brät Forelle, wir essen zu Abend.
+        Ich lasse mir ein Erkältungsbad ein und entspanne.
+        Leider darf ich nicht mehr in der Badewanne rauchen ^^
+        Ich befolge alle Ihre Regeln oder diskutiere auch.
+        Läuft alles.
+        Ich gehe Baden und dann um 22:00 in's Bett.
+        Schlafmittel lasse ich weg.
+
+===========================================================================================================
+
+Thu, 7.Dec.2023
+
+04:00 - Ich werde wach, und ich habe fast genau 6 Stunden durchgeschlafen.
+        Wieder gut geträumt, aber dieses mal kann ich mich nicht recht erinnern.
+        Ich lege mich wieder hin, aber nur 5 Minuten.
+        Lieber aufstehen und weiter werkeln.
+        USA geht leider grad zu Bett.
+        Mal gucken ob schon jemand wach ist. DejaVu müsste bald aufstehen.
+
+        Mein Onkel, Spitzname DonNoth, meint ich werde die Abstinenz nicht schaffen.
+        Er höre schon die Dämonen lachen. Ich glaube aber, dass selbst die auf meiner Seite sind.
+        Wenn ich bock hab kann ich ja nen Rückfall haben :]
+        Ein gutes Gefühl zu wissen, dass man könnte wenn man wollte.
+        Man darf nur niemals aufgeben.
+        Ich weiss jetzt endlich wieder warum ich aufstehe; Für eine bessere Welt!
+
+05:30 - Mutti wird wach und kommt in's Wohnzimmer.
+        "Was machst Du denn da?!", fragt sie.
+        Ich frage ob sie mich hört und sie verneint.
+        Sie fragt wie spät und ist erstaunt das es "schon sooo spät?!" ist.
+        "Kann ich ja fast wach bleiben!", meint sie fröhlich und freut sich, das wir beide so gut geschlafen haben.
+        Sie macht sich auch einen Kaffee...
+
+06:00 - DejaVu ist wach und wir schreiben kurz.
+        Ich erzähle das der Manowar Sänger kürzlich 70 geworden ist, aber man schon Tickets für 2025 kaufen kann.
+        Er fragt ob wir beide hinwollen und ich sage ja.
+        Der Blödmann hat doch dann sofort Tickets bestellt... ^^
+        Mutti meint er hat Kaufsucht.
+        DejaVu lacht. Wir beide freuen uns sehr.
+
+07:30 - Mutti bereitet das Frühstück vor.
+        "Danke sehr, Frau Moneypenny" - so nenne ich sie jetzt ab und zu - "Ich rocke das Internet noch ein wenig.".
+        Sie lacht und holt Eier vom Schneebedecktem Balkon.
+        Die Zeit vergeht wie im Flug, nur gelegentlich ein wenig Suchtdruck.
+
+13:00 - Lazer hat noch nicht geantwortet auf die Frage ob wir heute zu 3. essen wollen.
+        Wir schreiben einen kurzen Einkaufszettel, und wollen dann bald los.
+        Mein Hausarzt braucht auch noch ein paar Papiere.
 
 
 </pre>
