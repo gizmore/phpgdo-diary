@@ -936,7 +936,8 @@ Fr, 8.Dec.2023
         Mutti bleibt diesmal zu Hause, und Marvin kommt leider auch nicht mit.
         Auf geht's!
 
-
-
+12:00 - Die Zurück-Grüß-Quote im Realleben betrug heute nur 10%. Jämmerlich.
+        Ich werkel weiter an Projekt ESL. Die Flagge steht erstmal provisorisch. Einfach blank weiss.
+        Jetzt baue ich die Landesauswahl.
 
 </pre>
