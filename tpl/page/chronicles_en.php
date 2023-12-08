@@ -892,5 +892,35 @@ Thu, 7.Dec.2023
         Wir schreiben einen kurzen Einkaufszettel, und wollen dann bald los.
         Mein Hausarzt braucht auch noch ein paar Papiere.
 
+14:30 - Wir gehen zu 3. in die Stadt.
+        Auf dem Rückweg löscht Lazer ein gelegtes Feuer an einem Stromkasten.
+        100 Meter weiter löscht ein anderer Passant eine brennende Mülltonne.
+
+16:30 - Wieder daheim. Mutti fängt langsam an zu kochen,
+        Lazer und ich quatschen und schauen eine Doku über Fentanyl in den USA.
+        Er meint das viele Menschen Drogen nehmen um Probleme zu verdrängen, und nicht aus langeweile,
+        zumindest wenn man stark abhängig ist.
+        Ich denke ich schaffe es clean zu bleiben, aber auch nur weil ich soziale Kontakte habe.
+        Manche Menschen stehen vor dem Nichts.
+
+18:00 - Wir essen und quatschen danach. Mutti ist wohl doch etwas erstaunt über lazer,
+        wie klug er doch ist. Er hat aber auch ein paar Macken. Soziale Kompetenz ist nicht so,
+        und er lässt sich nichts sagen, wenn er eine Meinung hat.
+        Ich lade ihm eine Serie runter und gehe früh zu Bett.
+
+========================================================================================================
+
+Fr, 8.Dec.2023
+
+06:00 - Habe gut 8 Stunden geschlafen. Einmal aufgewacht und schön geträumt.
+        Meine Oma väterlicherseits, Lazer's Mom und ein wenig aggressiven Katzen.
+        Ich hoffe Lazer's Mom geht's noch gut. Sie hat mich behandelt wie ihren eigenen Sohn.
+        Ich sage einigen Leuten virtuell guten Morgen und mache mich an die Arbeit.
+        Mutti schläft noch :)
+
+    
+
+
+
 
 </pre>
