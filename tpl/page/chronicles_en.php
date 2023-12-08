@@ -940,4 +940,26 @@ Fr, 8.Dec.2023
         Ich werkel weiter an Projekt ESL. Die Flagge steht erstmal provisorisch. Einfach blank weiss.
         Jetzt baue ich die Landesauswahl.
 
+14:00 - Lazer kommt von der Arbeit.
+        Wir gehen einkaufen. Er will heute Nudeln Bolognese für uns kochen.
+        Nach dem einkaufen bestellen wir ein Deutschland-Ticket für ihn, auf meine Kontonummer, da er immer erst am 10. Gehalt bekommt.
+        WAS. FÜR. EIN. SCHEISS!
+        Hier ein grober Ablauf.
+        1. Lazer lädt die DB-Navigator App herunter.
+        2. Er registriert sich mit E-Mail und Passwort. (komisch, es kommt keine Mail an, aber er ist sofort eingeloggt.)
+        3. Er klickt in der App auf Deutschland Ticket buchen.
+        4. Er gibt seine Personalien ein.
+        5. Er gibt meine Kontonummer an. SEPA-Lastschrift ist Pflicht.
+        6. Es muss meine Identität geprüft werden, via Drittanbieter. Name und Konto passen leider nicht zusammen.
+        7. Ich mache das auf dem DB Portal (Meine Personalien, dann seine als Reisende Person, meine Kontodaten, passt)
+        8. Ich muss meine Identät für mein Konto beweisen, via Drittanbieter. (Entweder via Online Banking oder Fotos)
+        9. Ich muss einen QR-Code-Scanner installieren.
+        10. Foto vom Ausweis machen. (Die Website und die Kamera sind unscharf, dauert bestimmt 15 min)
+        11. Foto von mir selbst machen
+        12. "Schon Fertig"
+
+16:00 - Lazer fängt an zu kochen.
+        Ich sitz am Rechner und bastel ESL weiter.
+
+
 </pre>
