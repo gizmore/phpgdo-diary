@@ -918,7 +918,23 @@ Fr, 8.Dec.2023
         Ich sage einigen Leuten virtuell guten Morgen und mache mich an die Arbeit.
         Mutti schläft noch :)
 
-    
+07:00 - DejaVu, mein jüngerer Bruder, ist der ESL WhatsApp Gruppe beigetreten. Wir sind jetzt zu 3. :)
+
+07:30 - Mutti steht auf. Wir quackeln ein bisschen. Unsere WG wird super toll :)
+        Auch im Internet und WhatsApp und Telegram bin ich aktiv.
+        Im german-elite IRC chat besucht uns ein stolzer Amerikaner.
+        Er scheint high zu sein und hat Mittelungsbedarf.
+        Ich versuche ihn ein bisschen runter zu bringen, aber das klappt nur kurz. ^^
+
+        Mutti sagt ich muss noch meine Wäsche aufhängen, das erledige ich prompt.
+
+09:30 - Wir frühstücken.
+        Marvin will vorbeikommen, Mutti erlaubt es.
+        Wird dann aber doch später.
+
+10:30 - Ich gehe erstmal zum Arzt, einen Zettel einwerfen und dann einkaufen.
+        Mutti bleibt diesmal zu Hause, und Marvin kommt leider auch nicht mit.
+        Auf geht's!
 
 
 

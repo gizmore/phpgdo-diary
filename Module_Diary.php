@@ -3,6 +3,8 @@ namespace GDO\Diary;
 
 use GDO\Birthday\Module_Birthday;
 use GDO\Core\GDO_Module;
+use GDO\Core\Method;
+use GDO\Diary\Method\Welcome;
 use GDO\UI\GDT_Link;
 use GDO\UI\GDT_Page;
 
@@ -19,7 +21,12 @@ final class Module_Diary extends GDO_Module
 
 	public int $priority = 100;
 
-	public function onLoadLanguage(): void
+    public function defaultMethod(): Method
+    {
+        return Welcome::make();
+    }
+
+    public function onLoadLanguage(): void
 	{
 		$this->loadLanguage('lang/diary');
 	}
