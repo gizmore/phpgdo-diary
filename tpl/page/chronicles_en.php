@@ -988,6 +988,10 @@ Sat, 9.Dec.2023
         Sein Wort in Gottes Ohr.
         Saudi-Arabien ist auf WeChall kaum vertreten. Nur ein einziger Nutzer bekennt sich zu diesem Land.
 
+07:30 - Ein Freund im IRC namens "ferret" will das Kollektiv "Anonymous" aktivieren für unser ESL Projekt.
+        Leider muss das noch warten, bis ich die Website online hab'.
+        Ich lade ein wenig Friedensmusik herunter. Die kommen dann auch auf den Server, vllt nur als YouTube link.
+        Musik bringt die Menschen auch zusammen.
 
 
 </pre>
