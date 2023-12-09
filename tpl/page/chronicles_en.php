@@ -960,6 +960,34 @@ Fr, 8.Dec.2023
 
 16:00 - Lazer fängt an zu kochen.
         Ich sitz am Rechner und bastel ESL weiter.
+        Wir futtern und sehen danach NDR Fernsehen.
+
+20:00 - Mein Onkel Uwe ruft an.
+        Er hat von Markus erfahren, dass ich Therapie mache und kurzzeitig wieder zu Hause bin.
+        Ich hatte Markus zum Geburtstag gratuliert.
+        5.12. ... einer der wenigen Geburtstage, an die ich mich erinnere.
+        2 hoch 9 ist 512 :)
+        Uwe und seine Frau schnacken mit Mutti, ich liege kaputt daneben und lausche mit.
+        Wir grüßen uns, und auch mich will er noch einmal sprechen.
+        Er findet es nicht gut, dass mein anderer Onkel - DonNoth - nichts erzählt hat.
+        Ich lade ihn morgen mal in die WhatsApp Familiengruppe ein.
+        Wir schauen noch Nachrichten und dann ab ins Bett.
+
+=========================================================================================================
+
+Sat, 9.Dec.2023
+
+03:30 - 6 Stunden durchgeschlafen. Träumen war gut, aber ich kann mich nicht erinnern.
+        Mutti hatte gestern etwas Kopfschmerzen, sie hat sich bestimmt angesteckt
+        Ich stehe auf, mache nen Kaffee und gehe an die Arbeit; ESL.
+
+06:00 - Im IRC Chat treffe ich einen Araber aus Saudi Arabien.
+        Ich erzähle ihm von WeChall und das ich die Welt vereinen will.
+        Meine Sorge, dass ich mir eventuell mächtige Feinde mache schmettert er ab.
+        Nette und freundliche Menschen haben keine echten Feinde.
+        Sein Wort in Gottes Ohr.
+        Saudi-Arabien ist auf WeChall kaum vertreten. Nur ein einziger Nutzer bekennt sich zu diesem Land.
+
 
 
 </pre>
