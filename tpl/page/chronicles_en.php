@@ -994,7 +994,9 @@ Sat, 9.Dec.2023
         Musik bringt die Menschen auch zusammen.
         Mutti wird wach.
 
-10:00 - Wir frühstücken.
+10:00 - Wir frühstücken und beraten uns.
+        Einkaufszettel, und was wir heute noch von Mutti abholen wollen.
+        Ich putze Zähne und mache mich fertig.
 
 
 </pre>
