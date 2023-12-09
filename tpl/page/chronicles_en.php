@@ -992,6 +992,9 @@ Sat, 9.Dec.2023
         Leider muss das noch warten, bis ich die Website online hab'.
         Ich lade ein wenig Friedensmusik herunter. Die kommen dann auch auf den Server, vllt nur als YouTube link.
         Musik bringt die Menschen auch zusammen.
+        Mutti wird wach.
+
+10:00 - Wir frühstücken.
 
 
 </pre>
