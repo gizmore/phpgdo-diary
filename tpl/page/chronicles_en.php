@@ -1025,4 +1025,7 @@ Sun, 10.Dec.2023
         2 Eier, 3 Toast.
         Ein kleiner Plausch mit Mrs. Moneypenny - sehr friedvoll.
 
+10:00 - Internetradio "Radio Thirty" - Zum Glück keine Schlager.
+        Für den Sender muss ich mal ein wenig Werbung machen.
+
 </pre>
