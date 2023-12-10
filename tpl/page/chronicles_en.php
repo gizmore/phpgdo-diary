@@ -998,5 +998,24 @@ Sat, 9.Dec.2023
         Einkaufszettel, und was wir heute noch von Mutti abholen wollen.
         Ich putze Zähne und mache mich fertig.
 
+14:00 - Zurück vom einkaufen, Lazer kommt vorbei für einen Plausch und ein paar Serien herunterladen.
+        Ich habe https://es-land.net nun Online, ist aber noch ganz schön Baustelle.
+
+17:00 - Ich esse die Rest-Nudeln von gestern.
+        Marvin kommt vorbei, er braucht vier MP3... wie Lazer; Kein Internet.
+        Ich mache Feierabend für heute und den Fernseher an.
+
+19:00 - Ab in's Bett.
+
+=========================================================================================================
+
+Sun, 10.Dec.2023
+
+03:30 - Ich werde wach. Ich habe geträumt ich arbeite auf dem Rummelplatz und finde eine Schachtel Zigaretten sowie 20 Euro.
+        Ich nehme Schlafmittel und lege mich wieder hin.
+
+06:30 - Ich werde wach und stehe auf. Manowar, Kaffee.
+        Ich wünsche im Internet vielen einen guten Morgen.
+        Mutti wird auch wach.
 
 </pre>
