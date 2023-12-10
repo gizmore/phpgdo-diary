@@ -1017,5 +1017,8 @@ Sun, 10.Dec.2023
 06:30 - Ich werde wach und stehe auf. Manowar, Kaffee.
         Ich wünsche im Internet vielen einen guten Morgen.
         Mutti wird auch wach.
+        Ich erledige etwas Zettel-Wirtschaft.
+        Mutti sitzt in der Küche und meint sie kann Manowar am morgen nicht ab ^^ - How pathetic!
+        Zettel fertig. Ab ans Werk; ESL!
 
 </pre>
