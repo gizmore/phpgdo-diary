@@ -1028,4 +1028,17 @@ Sun, 10.Dec.2023
 10:00 - Internetradio "Radio Thirty" - Zum Glück keine Schlager.
         Für den Sender muss ich mal ein wenig Werbung machen.
 
+12:00 - Ich werkel fleißig an ESL.
+        Es gibt jetzt auch eine "Signal" Gruppe, und das erste Thema habe ich per installer eingepflegt.
+        Jetzt geht es an's Bearbeiten, Anzeigen und Ankündigen von Themen.
+        Marvin kommt vorbei, Olli, und Muttis Freund Hotti kommt später zum Essen.
+
+17:00 - Hotti kommt. Wir essen zusammen und Hotti erzält einige Geschichten von sich.
+        Er ist so eine Art Lebenskünstler, und hat auch ein Alkoholproblem.
+        Früher war er auch mal im Entzug, aber damals war es noch deutlich härter als heute.
+        Z.B. die erste Woche kein Telefon.
+        Ich habe ganz schön Suchtdruck...
+        Alkohol ist echt ein Teufelszeug!
+    
+
 </pre>
