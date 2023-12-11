@@ -1040,5 +1040,29 @@ Sun, 10.Dec.2023
         Ich habe ganz schön Suchtdruck...
         Alkohol ist echt ein Teufelszeug!
 
+20:00 - Ein wenig NDR Fernsehen mit Mutti.
+        Sie macht bei sich einen Corona Test, der negativ ausfällt.
+        Um 21:30 gehen wir beide in's Bett.
+
+=======================================================================================================
+
+Mon, 11.Dec.2023
+
+05:00 - Bin 3 mal aufgewacht und habe geträumt.
+        Ich glaube ich habe mit Chan in einem Keller Tischtennis gespielt.
+        Es war immer voller Gerümpel, und mein Schläger ist abgeblättert.
+        Katzen kamen in dem Traum auch vor. Sie sind in letzter Zeit immer etwas aggressiv.
+
+07:30 - Mutti wird wach und wir machen meinen Corona-Test; Negativ! \o/
+        Ich telefoniere mit der Fachklinik Erlengrund, und morgen gegen 8:30 soll ich dort aufschlagen.
+        Mutti wird mich hinfahren
+
+08:00 - Ich fülle einige - eher haufenweise - Zettel für meine Therapie aus.
+        Nur zwei Dinge beunruhigen mich.
+        1) Schweigepflicht - Ich darf nichts über andere Patienten schreiben.
+        2) Internetsucht könnte ein Problem werden, aber ich kann ja auch ohne Internet programmieren.
+        Notfalls mache ich ESL Themen mit Zettel und Stift ^^
+
+10:00 - Frühstück
 
 </pre>
