@@ -1055,7 +1055,7 @@ Mon, 11.Dec.2023
 
 07:30 - Mutti wird wach und wir machen meinen Corona-Test; Negativ! \o/
         Ich telefoniere mit der Fachklinik Erlengrund, und morgen gegen 8:30 soll ich dort aufschlagen.
-        Mutti wird mich hinfahren
+        Mutti wird mich hinfahren.
 
 08:00 - Ich fülle einige - eher haufenweise - Zettel für meine Therapie aus.
         Nur zwei Dinge beunruhigen mich.
@@ -1063,6 +1063,18 @@ Mon, 11.Dec.2023
         2) Internetsucht könnte ein Problem werden, aber ich kann ja auch ohne Internet programmieren.
         Notfalls mache ich ESL Themen mit Zettel und Stift ^^
 
-10:00 - Frühstück
+10:00 - Frühstück, Arbeit, Mittag... 19:00 in's Bett.
+        War mit Lazer einkaufen und habe Kartoffeln geschält.
+        Voll kaputt heute.
+
+=========================================================================================================
+
+Di, 12.Dec.2023
+
+06:00 - Aufstehen und ein paar Sachen packen.
+        Wenn ich Mutti nicht hätte... :)
+        Marvin ist auch schon wach und will noch schnell vorbeikommen, 'nen Song runterladen.
+        Das haben wir gestern nicht mehr geschafft.
+
 
 </pre>
