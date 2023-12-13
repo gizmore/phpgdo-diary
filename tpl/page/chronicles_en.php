@@ -1076,5 +1076,77 @@ Di, 12.Dec.2023
         Marvin ist auch schon wach und will noch schnell vorbeikommen, 'nen Song runterladen.
         Das haben wir gestern nicht mehr geschafft.
 
+10:00 - Wir sind in Erlengrund angekommen.
+		Medizinische Aufnhahme ist relativ Schmerzfrei.
+		Es werden Medikamente besprochen.
+		Es wird ein Zahnarzttermin gemacht.
+		Sport soll ich vorerst nicht so viel machen, weil meine Gelenke schaden nehmen könnten.
+		Das glaube ich nicht so recht, aber ich überanstrenge mich sicherlich nicht.
+		Neulinge erhalten einen Paten, der einen erstmal alles zeigt.
+		Beim essen sagt sie, wo ich sitzen soll.
+		Es gibt Brat-Fisch mit Reis und Brokolli.
+		Meine Patentante scheint nett. Ich hoffe sie zeigt mir auch den NP,
+		und fährt mit mir schnell nach Salzgitter oder Braunschweig.
+		Ich brauche unbedingt mobiles Internet.
+		Ich war kurz Duschen und habe mich eingerichtet.
+		Ich habe ein Doppelzimmer, aber noch keinen Zimmerkumpel.
+		Ich hoffe mein baldiger Genosse ist in Ordnung.
+		Ich packe meine Sachen aus, dusche und versuche mal Internet zu bekommen.
+		Internet hat man hier angeblich im Foyer, aber ich kann den Hotspot nicht finden.
+		Das ist dumm, denn ich muss noch meine Projekte über Internet synchronisieren.
+		Ich bringe meinen Laptop enttäuscht nach oben in den 2. Stock.
+		Langweilig hier!
+
+14:00 - Meine Patentante vertröstet mich auf 15:00.
+		Ich helfe einem Patienten mit dem Internet-Zugang, und wir bekommen es gemeinsam hin.
+		Hier stehen auch 2 Rechner rum, mit alten 4:3 Flachbild-Monitoren
+		Er ist Nichtraucher, wie einige hier.
+		Im Entzug war die Raucherquote 100%.
+		Die Therapie zielt darauf ab, die Suchterkrankung zu bekämpfen.
+		Das heisst, mit allem aufhören.
+		Auch wenn dieses Ziel weit weg ist.. Meinen Nikotinbedarf zu reduzieren täte mir gut.
+
+
+15:00 - Ich gehe mit meiner Patentante einkaufen.
+		Der günstige Krümelkaffee ist alle, und Nescafe kostet 12 Euro... was solls -.-
+		Noch eine Seife, Rasierkram, und Zahnpflege...
+		Jetzt ist Zeit meinen Laptop auf den neuesten Stand zu bringen.
+		Internet im Foyer streikt gerade etwas, aber ein Patient macht mir einen Hotspot.
+		Nach einer Stunde sind meine Projekte endlich synchronisiert, und ich könnte weiter arbeiten.
+		Meine Patin zeigt mir die Räumlichkeiten. Gar nicht so einfach sich hier zurecht zu finden.
+		Ich habe wieder Kontakt mit Paulinchen aufgenommen, einer Ex-Freundin von mir.
+		Sie ist etwas bestürzt, dass ich so ein Alkohol-Problem habe.
+		Ich hätte doch einen guten Job gehabt.
+
+18:00 - Abendessen.
+		Die Butter zu hart, Salatbuffet. Wurstauswahl nicht besonders.
+		Keine Schmelzkäse wie in Liebenburg, aber verhungern werde ich nicht.
+		Ich esse 3 Scheiben Brot und ein wenig Salat.
+		Rauchen darf man nur in einem kleinen Raucherbereich, ca. 400 Meter vom Gebäude entfernt.
+		Ich warte auf 19:30, dann soll ich eine Urinprobe abgeben.
+
+19:30 - Urinprobe abgegeben, Medis geholt.
+        Früh zu Bett.
+        Ich liege noch etwas wach.
+        Kein Internet zum einschlafen, kein Video, aber nach einer halben Stunde schlafe ich ein.
+
+=======================================================================================================
+
+We, 13.Dec.2023
+
+04:00 - Ich werde um Mitternacht und 04:00 wach.
+        Ich träume, wie ich ein Kartenspiel sortiere.
+        Die Karten sind etwas zerknickt, und ich prüfe, ob alle vorhanden sind.
+        Sicher bin ich mir nicht.
+        Ich stehe auf, gehe eine Rauchen und mache mir einen Kaffee.
+
+05:00 - Ich gehe mit dem Laptop in's Foyer.
+        Kopfhöhrer dabei, für meine tägliche Dosis ManOwaR :]
+        Ich rauche noch zwei Zigaretten mit einem anderen Patienten.
+        Samstags ist hier ebenfalls Suppentag, und meine Gruppe "Braunschweig" soll nett sein.
+        Vielleicht können wir Samstags ja in ein Restaurant fahren.
+        Ich gehe durch die vielen Gänge Richtung Forey und mache mich an ESL.
+    
+
 
 </pre>
