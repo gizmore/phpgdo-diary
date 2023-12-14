@@ -1146,7 +1146,96 @@ We, 13.Dec.2023
         Samstags ist hier ebenfalls Suppentag, und meine Gruppe "Braunschweig" soll nett sein.
         Vielleicht können wir Samstags ja in ein Restaurant fahren.
         Ich gehe durch die vielen Gänge Richtung Forey und mache mich an ESL.
-    
+
+05:30 - Erstmal E-Mails checken und den Rechner ein wenig aufräumen.
+        Ich habe eine kleine Spende für WeChall erhalten. Läuft bei mir!
+
+06:30 - Wiegen und Blutentnahme.
+        Danach Frühstück.
+
+08:00 - Am Mittwoch ist immer Zimmerkontrolle, aber ich bin ja gestern erst eingezogen.
+        Ich rasiere mich und wische den Fußboden mit einem nassen Handtuch und Lüfte.
+        Das sollte reichen.
+        Dusche, noch einen Kaffee, und dann geht es zur Vollversammlung in der Mehrzweckhalle.
+
+09:00 - Vollversammlung.
+        Die Teilnahme wird abgezeichnet.
+        Ca. 40 oder 50 Menschen sitzen auf Stühlen.
+        Vorne sitzen der Oberarzt und Gruppensprecher und Therapeuten der 4 "Häuser" oder Gruppen.
+        Zuerst werden einige Patienten verabschiedet, die auch einige Worte zum Abschied sagen.
+        Unglaublich, wie schön einige der Reden sind. Ich bin gerührt.
+        Suchtkranke Menschen sind wirklich besonders.
+        Alles ist sehr freundlich, teils auch etwas persönlich und christlich angehaucht.
+        Christ sein muss man allerdings nicht, aber die Patienten werden mit Vornamen genannt.
+        Es wird die Ämterverteilung geplant. Z.B. Blumendienst, Freizeitgruppen und mehr.
+        Es kommt zu einer art Volksabstimmung, ob das Frühstück an den kommenden Feiertagen um eine halbe Stunde verlängert wird.
+        Abstimmungen sind Klasse; Es erfreut mich.
+        Die entlassenen Patienten wurden teilweise zu Nichtrauchern.
+        Diese erhalten als Belohnung eine Urkunde sowie ein Sparschwein.
+        Hut ab vor Menschen welche ihre Nikotinsucht erfolgreich bekämpft haben.
+
+10:30 - Mein Zimmer wird inspiziert. Etwas zu spät laut Plan, aber ich bin ja nicht so ;)
+        Inspiziert wird es von meiner Bezugstherapeutin.
+        Diese ist noch sehr jung und nett.
+        Knallroter Kopf, und wir sehen uns morgen zum Einzelgespräch.
+        Ich mache noch 15 Minuten ESL und gehe dann zum Rauchen und zur "Testung" im Schulungsraum,
+        was auch immer das sein mag...
+
+11:30 - Die Testung war ein kurzer IQ Test.
+        3 mal 20 Aufgaben; 20 Wortverwandtschaften in 6 Minuten,
+        20 einfache Zahlenreihen und 20 Formenfolgen in je 10 Minuten.
+        Ich hoffe ich habe 95% richtig und erstaune meine Psychologin ein wenig.
+        Danach ab zum Essen, und dann einkaufen. Zigaretten, was zu trinken und ein Nasenspray von der Apotheke.
+        Mein linkes Ohr ist dicht und ich hoffe das geht bald wieder weg.
+        Die Codinggeex sind auch sehr motiviert.
+        Es war Xaav, der etwas gespendet hat, und seinen wahren Namen damit Preis gab.
+        Ich glaube ich mache einigen Menschen etwas mut.
+        Der Psychologin erzählte ich von diesen "Chronicles", und fragte ob das in Ordnung ist.
+        Morgen will sie einmal drüberschauen. Ich freue mich :)
+
+13:30 - Ich werkel ein wenig an ESL/phpgdo.
+        Neue Kommentare sollen eine Mail auslösen, an den Ersteller eines Themas,
+        sowie an alle die bereits kommentiert hatten.
+
+15:00 - Ich habe "BIS" Gruppe. "Basis Information Sucht".
+        In dieser Lektion Nr.4 besprechen wir Tabaksucht.
+        Wir haben dort allerdings mehr Nichtraucher als Raucher.
+        Ich versuche hier meinen Zigarettenkonsum etwas einzuschränken.
+        Weniger rauchen spart nicht nur Geld, sondern vor allem auch Zeit.
+        Langeweile kenne ich ja eigentlich nicht, und kann mich gut ablenken. :)
+
+
+16:00 - Eine Rauchen und weiter ESL.
+        Einen Kaffee dazu. Leider kein Internet, ich erwische mich wie ich intuitiv immer den Chat öffnen will.
+        Auch das ist eine kleine Sucht von mir, aber ich spare auch viel Zeit, wenn ich von der Außenwelt ein wenig abgeschnitten bin.
+        Einzig die italienische Übersetzung leidet nun unter einem ekeligen "ToDo", da ich gTranslate nicht nutzen kann.
+        Ich telefoniere kurz mit Lazer, wir verabreden uns für Samstag zum Essen.
+
+18:00 - Abendessen. 3 Scheiben Brot. Diesmal gabs auch Mettwurst.
+        Beim Rauchen verabreden wir uns zum Tischtennis in der Mehrzweckhalle.
+
+19:00 - Ich sage Luca ab, wir wollten ein wenig zusammen die Börsenapp besprechen,
+        und spiele lieber Tischtennis.
+        Zuerst mit 2 älteren Herren, dann auch mit Menschen in meinem Alter.
+        2,5 Stunden Sport sind ganz schön anstrengend.
+        Nebenbei hole ich Medis und gehe um 22:00 in's Bett.
+        2 talentierte Spieler unterhalten sich mit mir.
+        Nächsten Dienstag wollen wir ein kleines Turnier machen.
+        Zum einschlafen höre ich ein wenig Braveheart; Der einzige Film auf meinem Handy.
+
+==========================================================================================
+
+Thu, 14.12.2023
+
+02:00 - Ich werde kurz wach und schleppe mich mit einem Muskelkater zur Raucherecke.
+
+05:00 - Ich träumte von meinem alten Job im Obi Gartencenter, der jetzt "Hammer" heisst.
+        Ich kann in virtuelle Realitäten eintauchen. Ziemlich cooler Traum.
+        Unser Chef zieht sich ein weisses Pulver in die Nase.
+        Ein Kollege spielt mit mir Tischtennis.
+        Ich stehe auf, packe meinen Laptop, gehe eine Rauchen und dann in's Foyer.
+        Ich will Internet und ManOwaR, aber Internet ist gerade nicht verfügbar -.-
+
 
 
 </pre>
