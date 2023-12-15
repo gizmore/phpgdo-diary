@@ -1236,6 +1236,90 @@ Thu, 14.12.2023
         Ich stehe auf, packe meinen Laptop, gehe eine Rauchen und dann in's Foyer.
         Ich will Internet und ManOwaR, aber Internet ist gerade nicht verfügbar -.-
 
+07:00 - Frühstück, weitere ESL arbeiten, um 08:30 eine Gruppentherapie.
+        Wir reden über Suchtdruck, bei welchen Gelegenheiten dieser Auftritt,
+        und was wir dagegen machen können.
+        Ich tippe dann immer auf die Tastatur ein, grüße viele Menschen über Internet,
+        und meistens findet sich einer mit dem man kurz reden kann.
+
+10:00 - Ich informiere mich im Netz über die Öffnungszeiten vom CopyShop Peine,
+        da ich gerne zu Samstag Visitenkarten drucken und abholen würde.
+        Samstag ist dort geschlossen.
+        Ich rufe bei der Druckertankstelle an, die haben geöffnet, aber bis Samstag bekommen die das nicht hin.
+        Ich werde also mal Online nachsehen, wo ich welche bestellen kann.
+        Zuerst brauche ich aber eine Vorlage...
+
+11:00 - Ich werde beim Arbeiten von der Pflege gestört.
+        Ich erhalte heute "endlich" einen Zimmerkumpel, er ist ca. 50 Jahre alt.
+        Es wird schon ein freundlicher Mensch sein :)
+
+12:00 - Zum Mittagessen vegetarische Linsensuppe, Salat und einen Grießpudding.
+        Mein neuer Zimmerkumpel ist noch bei der Aufnahme.
+        Ich schaue einen Film/Serie: "The Queens Gambit", auf Empfehlung eines Chatkameraden.
+        Es geht um eine Schachspielerin, die ebenfalls Suchtkrank ist.
+        Etwas düster und schräg, aber recht gut.
+        Danach habe ich ein psychologisches Einzelgespräch.
+
+14:00 - Das Einzelgespräch ist recht langweilig.
+        Zuerst das Ergebnis von meinem IQ Test...
+        Anscheinend bis auf eine Aufgabe alles richtig, aber nur einen IQ von 129.
+        Maximalwert war 140, wie soll das denn gehen?
+        Wieder einmal werde ich zu meinem Konsum und den sozialen Umständen befragt.
+        Erstaunlicherweise werde ich nicht zu meiner Kindheit befragt.
+        Liegt da eventuell der Hund begraben?
+
+16:00 - Ein kleiner Plausch mit einem Patienten und Kaffee.
+        Ab zum Abendbrot. Ein wenig ESL... und um 18:30 lege ich mich etwas hin.
+        Ich schlafe ein.
+        Ein wilder Traum von "Quirl", dem Punk Rocker, Döner, und Knorpel im Fleisch die wie ein Alien aussehen...
+
+21:45 - Ich werde wach. Tischtennis verpasst.
+        Ich gehe meine Medis holen und schaue nochmal in die Halle.
+        Einige spielen noch immer. Ich erkläre ich habe verpennt, und man lädt mich zu einem Spiel ein.
+        Ich hole meinen Schläger und spiele 3 Sätze gegen einen starken Gegner und verliere alle.
+        Ich war ja auch noch nicht warm, aber ich denke er ist mir etwas überlegen.
+        Mit meinen Angaben hat er keine Probleme.
+        Ich hole noch Schlafmedis und ab in's Bett.
+
+=========================================================================================================
+
+Fr, 15.Dec.2023
+
+04:00 - Schon wieder geträumt.
+        Ich bin mit dem Regionalexpress nach Schweden gefahren.
+        Ich will einen WeChall Nutzer besuchen, verlaufe mich aber in einem kleinen Bahnhof.
+        Im Traum ist Schwedisch so ähnlich wie Plattdeutsch, und nicht weit von Hannover entfernt.
+        So ein geographischer Unsinn. :)
+        Ich drehe mich nochmal um und schlafe weiter.
+
+05:15 - Ich stehe auf, gehe eine Rauchen und mache mir nen Kaffee.
+        Als ich zurück in's Zimmer komme ist mein Kollege schon wach und macht sich frisch.
+        Er darf etwas von meinem Kaffee nehmen, ich trage meinen Reisebericht nach und bereite mich auf den Tag vor.
+
+06:00 - Die Erkältung macht mir noch ganz schön zu schaffen.
+        Mein linkes Ohr ist dicht. Bissel Kopf- und Gliederschmerzen.
+        Fester Husten und Schnupfen der sich nicht lösen will.
+    
+06:50 - Ich frühstücke nur 2 Brötchen.
+        Danach Begrüßung für Neulinge durch den Oberarzt.
+        Dann weiter zur Organisationsgruppe.
+
+10:00 - Ich habe eine Stunde Pause. Mein Ex-Azubi hat ein Problem,
+        also packe ich meinen Laptop und gehe zum Internet in die Lobby.
+        Das Internet ist eine Katastrophe und funktioniert nicht.
+        Zum Glück kann ich über Telefon weiterhelfen und kann auch wieder 0,5 Stunden aufschreiben.
+        Ich treffe noch 2 Patienten am PC, und biete meine Hilfe und Telefonnummer an.
+
+11:15 - Medizinische Info in der Mehrzweckhalle.
+        Es ist ein Vortrag mit Powerpoint; "Die Neurobiologie der Sucht".
+        Sehr gut vorgetragen, lustig und freundlich.
+        Der Oberarzt betitelt uns als Suchtexperten.
+        Dabei ein Kurzfilm: "The Monkey Business Illusion".
+        Es geht um Stammhirn (Instinkte), Kleinhirn (Motorik) und mehr.
+        Danach Mittagessen; Heringsfilet mit Pellkartoffeln, dazu ein Salat.
+
+13:00 - Ich erhalte die erste Akkupunktur in meinem Leben.
+
 
 
 </pre>
