@@ -1319,6 +1319,34 @@ Fr, 15.Dec.2023
         Danach Mittagessen; Heringsfilet mit Pellkartoffeln, dazu ein Salat.
 
 13:00 - Ich erhalte die erste Akkupunktur in meinem Leben.
+        Jeweils 5 Nadeln in die Ohrmuscheln für Leber, Niere und Entspannung.
+        Es ist vllt etwas entspannend, aber eine Nadel tut sehr weh, die wir weglassen.
+        Mein rechtes Ohr ist deutlich empfindlicher als mein Linkes.
+        Ich erzähle der Pflegekraft, das mein eines Ohr anliegt, und das andere nicht absteht, wie Lazer mal bemerkte.
+        Eine halbe Stunde mit Nadeln entspannen, tut eigentlich ganz gut,
+        aber danach bluten bei mir beide Ohren.
+        Leider nicht durch Gespräche :P
+
+14:00 - Ich habe ein Einzelgespräch mit meiner Bezugstherapeutin.
+        Sie ist Psychologin und es geht sich um diesen Reisebericht,
+        und ob ich Heiligabend zu Hause schlafen darf.
+        Meinen Reisebericht darf ich so fortführen, und sie fragt,
+        ob sie es anderen Kollegen zeigen dürfe. Natürlich.
+        Meine "Belastungserprobung" für die Feiertage, man darf dann zu Hause nächtigen,
+        wird am Montag nochmal von einer anderen Kollegin entschieden.
+        Ich sage es ist auch nicht schlimm wenn es nicht geht,
+        und gebe ihr noch die Links zu wanda.gizmore.org und wechall.net
+
+15:00 - Ein wenig ESL und dann gehe ich einkaufen, auch für meinen Zimmerkumpel.
+        Ich brauche Waschpulver und Zigaretten, kaufe noch ein wenig Joghurt und Milch.
+
+16:10 - Zurück vom einkaufen. Der Zimmerkumpel bedankt sich, und macht mir einen Hotspot auf.
+        Endlich mal wieder IRC chat ohne Verbindungsabbrüche. Tausend Dank!
+        Wir quatschen ein wenig und tippern beide leise am Laptop.
+    
+
+
+
 
 
 
