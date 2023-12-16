@@ -1308,7 +1308,8 @@ Fr, 15.Dec.2023
         also packe ich meinen Laptop und gehe zum Internet in die Lobby.
         Das Internet ist eine Katastrophe und funktioniert nicht.
         Zum Glück kann ich über Telefon weiterhelfen und kann auch wieder 0,5 Stunden aufschreiben.
-        Ich treffe noch 2 Patienten am PC, und biete meine Hilfe und Telefonnummer an.
+        Der Chef will mir einen USB Stick für Internet zukommen lassen. Ich bräuchte dann nur eine SIM Karte.
+        Ich treffe dann noch 2 Patienten am PC, und biete meine Hilfe und Telefonnummer an.
 
 11:15 - Medizinische Info in der Mehrzweckhalle.
         Es ist ein Vortrag mit Powerpoint; "Die Neurobiologie der Sucht".
@@ -1343,7 +1344,45 @@ Fr, 15.Dec.2023
 16:10 - Zurück vom einkaufen. Der Zimmerkumpel bedankt sich, und macht mir einen Hotspot auf.
         Endlich mal wieder IRC chat ohne Verbindungsabbrüche. Tausend Dank!
         Wir quatschen ein wenig und tippern beide leise am Laptop.
+
+17:50 - Zum Abendessen nur 2 Scheiben Brot, weil ich etwas Sodbrennen habe.
+        Schaue meine Serie weiter und dann ab zum Tischtennis.
+
+20:00 - Mein Tischtennispartner kommt etwas später, ich mache mich derweil mit einem Anfänger warm
+        Dann kommen mein Partner und noch ein Profi.
+        Ich bin gut in Form und gewinne meist.
+
+22:00 - Medis und ab in's Bett.
+        Morgen geht es nach dem Frühstück nach Peine.
+        Mit DejaVu treffen um einen Mobilfunkvertrag zu machen,
+        und Lazer und ich wollen zum Griechen.
+        Gute Nacht!
+
+====================================================================================================
+
+Sat, 16.Dec.2023
+
+04:30 - Ich werde nach 6 Stunden durchschlafen wach, und habe gut geträumt.
+        Leider weiss ich nicht mehr was.
+        Zuerst eine Zigaretten, dann einen Kaffee.
+        Das wiederholt sich noch einmal, dann gehe ich an den Laptop.
+        Ich warte darauf, dass mein Zimmerkumpel wach wird.
+
+05:30 - Mein Zimmerkumpel wird wach.
+        Er kocht Kaffee, mit Pulver anstatt Instant-Kaffee.
+        Wir probieren... Der Kaffee ist nur lauwarm und schmeckt nicht.
+        Etwas enttäuschend. Wir werden das mal ansprechen.
+        Wir gehen rauchen... Er raucht 3 Zigaretten hintereinander, mir reichen 2.
+        Etwas ESL, Musik, und dann ab zum Frühstück.
+
+08:00 - 2 Brötchen zum Frühstück und ein wenig Cornflakes.
+        Noch ein paar Rauchen mit dem Zimmerkumpel,
+        danach macht er wieder den Hotspot auf.
+        Ich kontaktiere Lazer.
     
+
+
+
 
 
 
