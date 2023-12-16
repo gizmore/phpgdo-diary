@@ -1379,7 +1379,7 @@ Sat, 16.Dec.2023
         Noch ein paar Rauchen mit dem Zimmerkumpel,
         danach macht er wieder den Hotspot auf.
         Ich kontaktiere Lazer.
-    
+
 
 
 
