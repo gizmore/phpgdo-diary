@@ -1380,6 +1380,149 @@ Sat, 16.Dec.2023
         danach macht er wieder den Hotspot auf.
         Ich kontaktiere Lazer.
 
+09:00 - Ich fahre nach Peine.
+        Um 11 ist Lazer am Bahnhof, wir gehen nach Edeka auf ein Brötchen und einen Donut.
+        Er trinkt einen kleinen Schnaps, ich einen Energie Drink,
+        zur Erinnerung an unsere Lieblingssportart: "Banken"
+        Das bedeutet einen oder zwei Schnaps zu trinken und dann zu entspannen und reden.
+        Ich habe das auch viel alleine getan, aber auf Alkohol habe ich wirklich keine Lust mehr.
+        Scherzhaft frage ich ob er mir einen Schluck abgibt.
+        Das findet er garnicht lustig.
+        Um 12:00 treffen wir DejaVu, meinen Bruder, und organisieren mir einen neuen Handy Vertrag.
+        Mit etwas Glück bekomme ich eine mobile Internet Flatrate für €20... mit Pech werden es nur 20GB im Monat.
+        Ein neues Handy für einmalig 50 Euro ist auch dabei.
+        Um 14:00 kurz nach Hause, dann weiter in die City, Lazer braucht mehr Schnaps.
+        Wir treffen noch zwei Freunde, und ich frage weiter scherzhaft nach ein wenig Alkohol.
+        Alle sind etwas bestürzt und lehnen ab.
+        Dies war auch ne Art Probe für die Jungs, aber alle sind dagegen das ich trinke.
+        Gut so.
+        Wir gehen durch die Stadt, laufen ein wenig durch die Gegend, und warten bis der Grieche aufmacht.
+        Noch einen Schnaps kaufen sich die Jungs, und ich warte vor dem NP-Markt.
+        Dort treffe ich eine Bekannte die ganz schön betrunken ist.
+        Sie ist ganz schön bestürzt, dass ich aufhöre zu trinken.
+        Ich sage, wenn ich die Therapie hinter mir habe trinke ich ebenfalls nicht, vielleicht mal ein Tütchen.
+        Sie meint ich solle mir nicht reinreden lassen, und faselt irgendetwas von Gras besorgen.
+        Ich lehne dankend ab. Ich werde warten, bis es legal ist.
+
+17:00 - Ich gehe mit Lazer beim Griechen rein.
+        Er einen Grillteller, ich einen Gyrosteller.
+        Beim essen chatte ich mit S04L0N3, ein hacker aus Frankreich.
+        Das Thema ist eine alte Challenge Seite, wo wir uns 2004 kennenlernten,
+        und die wir am Leben halten wollten.
+        Wir hatten vor ein paar Jahren ein Projekt gestartet, um die Seite zu konservieren.
+        Ich kann mich nicht erinnern, ich war zu voll.
+        Wir kommen auf das Thema Drogen und Sucht, und das viele Hacker ein Drogenproblem haben.
+        Ich erfahre S04L0N3 arbeitet in einer Psychatrie.
+        Lazer nimmt mir das Handy weg: "Hör doch mal auf mit deiner Internet-Sucht"
+        Ich konzentriere mich auf Lazer und das Essen.
+        Meinen Ouzo lehne ich dankend ab, Lazer nimmt einen.
+        Ich hätte meinen auch nehmen sollen, und Lazer geben, aber ich bin zu ehrlich für diese Welt.
+        Um 18:00 bringt er mich zum Bahnhof.
+        Die Rückfahrt verläuft reibungslos in den vollen Zügen.
+
+19:15 - Ich komme wieder im Erlengrund an.
+        Ich puste 0,0 Promille, gehe hoch auf unser Zimmer und gebe meinem Zimmerkumpel eine echte Flasche Cola.
+        Die gibt es hier bei NP nicht.
+        Ich schaue ein wenig "The Queens Gambit", zwischendurch Medis und dann in's Bett.
+        Kein Tischtennis heute, ich habe 20.000 Schritte auf dem Schrittzähler.
+        Um 10:00 heisst es gute Nacht.
+
+================================================================================================================
+
+Sun, 17.Dec.2023
+
+04:00 - Ich werde wach, habe spannend geträumt, rauche eine und lege mich wieder hin.
+
+06:00 - Der Traum ging an der selben Stelle weiter.
+        Ich war in einer großen Wohngemeinschaft in einem riesigen alten Anwesen.
+        Wir alle haben verschiedene Drogen genommen.
+        Einer aus dieser Reha war auch mit dabei. (Mein Tischtennispartner)
+        Wir konnten Zeitreisen machen, uns verjüngen und die Erinnerungen behalten.
+        Dämonische Wesen griffen uns an, und wir machten eine Zeitreise nach 2004.
+        Leider hatten wir unsere Geldbörsen dabei, und dadurch sind alle Karten noch auf 2023 datiert.
+        In einer App prüfe ich, wie wir dieses Problem lösen können.
+        Ich wache auf.
+
+        Kaffee und Kippen mit meinem Zimmerkumpel. Dann diesen Bericht nachtragen und nun endlich 30 Minuten Zeit für ESL :)
+        Manchmal kommt mir das Projekt sinnlos vor... aber ich mache weiter.
+        Kalle ist gestern der WhatsApp-Gruppe gefolgt... jetzt sind wir zu 6.
+
+07:30 - Frühstück
+        Ich fühle mich total Schlapp und lege mich etwas hin.
+        Mittagessen, und wieder hinlegen.
+        Abendbrot, eine Stunde Serie schauen.
+        Dann etwas Tischtennis und nach den Medis ins Bett.
+        Ein recht erfolgloser Tag.
+    
+======================================================================================================
+    
+Mon, 18.Dec.2023
+    
+05:00 - Die Nacht ist vorbei, nur einmal um 01:00 Wach geworden.
+        Kaffee und Zigaretten.
+        Ich fülle einige Fragebögen für die Therapien aus.
+        Selbsteinschätzung, Therapiewünsche und Beschwerden-Bogen.
+        
+07:30 - Frühstück, danach Einweisung in den Abwaschdienst.
+        Ich dusche und trinke noch einen Kaffee.
+        Irgendwie bin ich grad nicht so motiviert.
+        Ich frage mich, ob diese Therapie etwas bringt,
+        und freue mich schon auf einen Rückfall.
+        Planen tue ich einen Freitag mit Marco, einem Arbeitskollegen,
+        eine einzige Cai-Pirinha in der Kneipe "Garage" zu trinken.
+        Lazer drohte mir letztens mit schlägen, wenn ich das umsetze.
+        Der Suchtdruck wird hoffentlich mit der Zeit weniger werden.
+
+08:30 - Termin beim Oberarzt.
+        Er meint es könnte sein, dass ich Polytoximan sein könnte, und wahnhaft,
+        weil ich ihm erzählte ich glaube das diese Welt eine Simulation sein könnte.
+        Er meint, dann wäre er ja garnicht echt.
+        Ich meine er sei dann genauso echt wie ich, und dass einige Menschen,
+        darunter auch renomierte Professoren, sich dieser Frage stellen.
+        Wie dem auch sei, es gibt physikalische Regeln hier, die man nicht ändern kann.
+        Wir haben nur dieses eine Leben, und müssen das beste daraus machen.
+
+09:30 - Termin bei der Psychologin.
+        Sie nimmt noch ein wenig meine Drogengeschichte auf.
+        Über die Weihnachtstage zu Hause schlafen (Belastungserprobung) darf ich nicht.
+        Dafür kann ich spontan entscheiden, ob ich am Mittagessen teilnehme oder nicht.
+        Ich kann also einige Tagesausflüge machen.
+        Sie meint ebenso, das ich mir ein wenig widerspreche.
+        Ich will aufhören zu trinken, aber gerne nochmal Fliegenpilz probieren.
+        Ich erkläre, dass mich nur der Alkohol stark geschädigt habe.
+        Auf meine Frage, ob sie schon einmal THC konsumiert hat meinte sie,
+        dass sie es in der Jugend einmal probiert hatte, aber nur einen trockenen Mund bekam.
+        "Keinen Lachflash?", meinte ich - sie verneint.
+
+        Drogen können auf jeden Fall eine interessante Erfahrung sein...
+        Ist halt nur nicht jedermanns Sache :)
+
+10:30 - Eine Stunde Zeit für ESL und WhatsApp.
+
+11:30 - Termin bei der Sozialberaterin.
+        Wir stellen einen Antrag auf Übergangsgeld.
+        Von Luft und Liebe allein kann man in dieser Gesellschaft nicht leben.
+        Morgen rufe ich nochmal bei der Krankenkasse an.
+
+11:50 - Zu Mittag gibt es "Pizzasuppe". Die war ganz OK.
+        Dazu zwei kleine Schälchen Salat und als Nachspeise Ananasquarkcreme.
+        Unsere "Gruppe Braunschweig" hat Abwaschdienst.
+        Ich helfe kurz, obwohl ich noch nicht eingeteilt bin.
+
+13:00 - Ernährungsberatung. War ganz ok.
+        Nich so viel Fett, und am besten viel bewegen.
+        BMI Formel... Kg / Körpergröße²...
+        188cm * 188cm mit Zettel und Stift ausrechnen bekomme ich nicht mehr hin.
+        Das interessanteste war, dass Rapsöl am besten zum braten geeignet ist.
+        Das werde ich mal an meinen Chefkoch Lazer weitergeben :)
+
+
+14:00 - Mein Ex-Azubi ruft an. Probleme im Login-Portal.
+        Wenn man das Passwort weglässt ist man angeblich trotzdem eingeloggt.
+        Das soll für beliebige Nutzer funktionieren... Das schauen wir uns mal an.
+
+    
+
 
 
 
