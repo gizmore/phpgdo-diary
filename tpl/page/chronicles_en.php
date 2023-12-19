@@ -1519,17 +1519,78 @@ Mon, 18.Dec.2023
 
 14:00 - Mein Ex-Azubi ruft an. Probleme im Login-Portal.
         Wenn man das Passwort weglässt ist man angeblich trotzdem eingeloggt.
-        Das soll für beliebige Nutzer funktionieren... Das schauen wir uns mal an.
+        Das soll für beliebige Nutzer funktionieren... Das schauen wir uns mal an...
 
-    
+        Tatsächlich... ldap_bind() mit leerem Passwort funktioniert.
+        Dies ist nicht unbedingt unser Fehler.
+        Chefchen ist zufrieden und ich schreibe 0,5 Stunden auf meinen Zettel.
+
+15:00 - Ich gehe für mich und meinen Zimmerkumpel einkaufen.
+        Kaffee, Filterhülsen, Milch und ein paar Süßigkeiten.
+        Sparsam und ausreichend.
+
+16:00 - Themenzentrierte Gruppe.
+        Das Thema heute ist "Selbsthilfegruppen".
+        Die Therapeutin verlässt uns für 40 Minuten.
+        Wir diskutieren ein wenig und tauschen Erfahrungen aus.
+        Das interessanteste war, das einer, nach 2,5 Jahren Abstinenz,
+        innerhalb von 3 Tagen auf dem Pegel von früher war.
+        Auslöser war ein gesellschaftliches Event.
+        Auch sollen die wöchentlichen Gespräche hilfreich sein,
+        sich seiner Sucht immer bewusst zu sein.
+
+17:00 - Eine Stunde Zeit für ESL. Mein Zimmerkumpel macht wieder einen Hotspot auf,
+        so dass ich auch chatten kann.
+
+18:00 - Abendbrot und Zigarette.
+        Zum Abendbrot 3 kleine Scheiben Vollkornbrot und ein Steak von gestern.
+        Dazu etwas Salat.
+        Ich helfe wieder freiwillig beim Abwasch.
+        Beim Essen erzähle ich von meinem Therapiegespräch heute.
+        Ich fragte ja ob sie schonmal gekifft hatte.
+        Meine Mitpatienten sind erstaunt... Tja so bin ich halt...
+        Dies bringt mir die Einladung zur WhatsApp Gruppe hier.
+        Beim Whatsapp erzähle ich einem Patienten von meinen ESL Plänen.
+        Etappenziel: Petition DDD - Direkte Demokratie Deutschland.
+
+19:00 - EDV Grundkurs.
+        Den Kurs gibt eine ältere externe Lehrkraft.
+        Sie ist über 70 Jahre alt und sehr nett.
+        Sie erzählt ein wenig über das WLAN hier, und über die Regeln des WLAN.
+        Dann über die Inhalte des Kurses.
+        Ich denke ich werde den Kurs wählen, und anderen Patienten ein wenig helfen.
+        Ich gebe ihr einige Adressen; wanda.gizmore.org, diary.gizmore.org und wechall.net
+        Hoffentlich schaut sie sich das an.
+
+20:00 - Tischtennis, Medis und ab in's Bett.
+        Ich telefoniere noch kurz mit Luca wegen unserem Börsenprojekt.
+        Wir werden dort hoffentlich auch bald weiter kommen.
+        Mit Mutti bespreche ich die kommenden Weihnachtstage.
+        Sie ist immer noch trocken, schon seit über einer Woche.
+        Ich bin kaputt und will in's Bett.
+        Gute Nacht!
+
+=============================================================================
+
+Tue, 19.Dec.2023
 
 
+03:00 - Ich werde zum zweiten mal wach.
+        Ich habe geträumt ich schreibe eine Mathearbeit.
+        Die Aufgabe war, die Kampfkraft von alten Schiffen aus der Karibik zu berechnen.
+        Dies geschah anhand des Computerspiels "Pirates!" von Microsoft.
+        Ich gehe zwei Zigaretten rauchen und entscheide wach zu bleiben.
+        Die Börsenapp programmiert sich nicht von alleine...
 
+04:00 - Ich chatte ein wenig mit einem Freund aus den USA.
+        Er meint sie haben dort ein Immigrationsproblem.
+        Viele Nutzen dort das Sozialsystem aus... ich dachte immer die haben gar keines.
+        Wir sind bestimmt nicht "rechts" oder "links" - Wir sind nur besorgt.
+        Es gibt halt Probleme, und Lösungen.
+        Diese müssen friedlich sein und gerecht.
 
-
-
-
-
+05:45 - Mein Zimmerkumpel wird wach.
+        Ich schreibe noch ein neues Thema für ESL auf, dann gehen wir rauchen.
 
 
 </pre>
