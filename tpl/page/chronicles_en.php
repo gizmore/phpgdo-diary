@@ -1592,5 +1592,29 @@ Tue, 19.Dec.2023
 05:45 - Mein Zimmerkumpel wird wach.
         Ich schreibe noch ein neues Thema für ESL auf, dann gehen wir rauchen.
 
+07:00 - Was für ein Tag.. Ich habe nur zu tun.
+        Nach dem Frühstück mache ich einen Termin beim Arzt.
+        Dann Gruppe, aufräumen, Gruppe, Mittagessen, Abwaschdienst, Gruppe, ...
+        Endlich um 15:00 eine Stunde Pause und ich lege mich etwas hin.
+        Neben dem Ohrenpiepen bekomme ich jetzt auch noch Zahnschmerzen.
+        Ich döse ein wenig und um 16:00 haben wir die letzte Gruppe heute.
+        Mein Zimmerkumpel und ich sind zu spät...
+        Gruppe verpasst, da schon ein "Bitte nicht stören" Schild vor dem Gruppenraum steht.
+        Das ist mir auch recht.
+        Bis zum Abendessen döse ich noch etwas, danach lege ich mich wieder etwas hin.
+        Mein Zimmerkumpel gibt mir eine Ibuprofen 600 gegen die Zahnschmerzen.
+        Ich wasche noch eine Maschine Wäsche, dann lege ich mich wieder hin.
+        Um 22:00 Medis und wieder ab in's Bett. Mir geht es nicht besonders gut.
+
+======================================================================================
+
+Wed, 20.Dec.2023
+
+06:00 - Ich habe lange und gut geschlafen. Das linke Ohr immer noch dicht und am piepen.
+        Zahnschmerzen sind erstmal vorüber, aber ich lasse mir später einen Termin beim Zahnarzt geben.
+        Wiegen und Frühstück war ereignislos.
+        Ich muss/will mein Bett heute neu beziehen, wie es hier Mittwochs üblich ist.
+
+
 
 </pre>
