@@ -1615,6 +1615,62 @@ Wed, 20.Dec.2023
         Wiegen und Frühstück war ereignislos.
         Ich muss/will mein Bett heute neu beziehen, wie es hier Mittwochs üblich ist.
 
+07:30 - Frühstück und dann ein Termin beim Med-Team wegen meiner Zahnschmerzen.
+        Ich kann gleich los zum Arzt, ca. 1km zu Fuß.
+        Ich habe meine Zahnpflege sehr vernachlässigt, aber es muss wohl nichts gezogen werden.
+        Mein Zahnstein wird entfernt, und im neuen Jahr lasse ich meinen Karies behandeln.
+        Komisch, dass ich von Zahnstein schmerzen hatte. So ganz glaube ich das nicht.
+
+09:45 - Zimmervisite. Gestern haben wir gesaugt und gewischt.
+        Es wird nach Alkohol kontrolliert, aber nicht sehr gründlich.
+        Keine Beanstandungen.
+
+11:15 - Entspannungstherapie.
+        Eine vorgelesene Traumreise an einem Bach entlang, zu einem Teich in eine Grotte.
+        Vögel flattern, blabla... ich langweile mich etwas, es ist aber entspannend.
+        Ab zum Essen, danach eine Stunde Abwaschdienst. Vertretung für einen Mitpatienten.
+
+13:30 - 1,5 Stunden Freizeit. Nachtragen im Reisebericht und GDO.
+        "Gizmore Data Objects" ist mein eigenes PHP-Framework, was auch bei ESL im Einsatz ist.
+
+15:00 - "Basis Information Sucht" - Eine Gruppe mit Info zu Suchterkrangungen.
+        Wir erarbeiten was man für eine Therapie alles benötigt.
+        Alle nehmen das ziemlich ernst, und ich denke die Therapie hilft schon ein wenig.
+        Ja, wir sind suchtkrank, und taten uns Dinge an, die an Folter grenzen.
+        Einen kiffen will ich trotzdem mal wieder. Das ist eigentlich Entspannung.
+        Saufen hingegen habe ich wohl tschüss gesagt...
+
+16:00 - Ich fahre mit dem Zug nach Braunschweig, um Lazer zu treffen.
+        Ein RedBull ist mein Wegproviant, was mich ans saufen erinnert.
+        Lust auf Alkohol habe ich nicht.
+        Lazer holt mich von Bahnsteig 4 ab.
+        Wir entscheiden uns für eine Sushi-Bar ca. 1km vom Bahnhof.
+        Einen Schnaps trinken will Lazer nicht. Er hatte schon zwei.
+        Wir essen, quatschen und gehen danach noch einmal einkaufen.
+        Ich finde sogar eine Pepsi für meinen Zimmerkollegen.
+        Dann nochmal bei McDonalds aufwärmen, etwas auf den Zug warten und wieder nach Hause.
+        Ich interviewe Lazer bezüglich künstlicher Intelligenz, wobei ich mir Notizen mache.
+        KI ist ein Thema für ESL. Noch gibt es glaube ich keine Gesetze.
+
+21:00 - Ich komme wieder im Erlengrund an.
+        Kurz pusten - 0,0 - Danach Tischtennis.
+        Gegen meinen Angstgegner gewinne ich 3:2. Es war wieder knapp und spannend.
+        Medis, und ab in's Bett.
+
+==========================================================================================================================
+
+Thu, 21.Dec.2023
+
+05:00 - Die Nacht ist vorbei.
+        Ich gehe eine Rauchen, auf Klo und mache mir einen Kaffee.
+        Mein Zimmernachbar ist ebenfalls schon wach jetzt.
+        Ich sage ihm er hat gestern gepiept.
+        Er meint, "Ja, mein Zucker war unten".
+        Auf die Frage, ob ich ihn nächste mal wecken soll antwortet er mit Nein.
+        Wir gehen eine Rauchen.
+
+
+
 
 
 </pre>
