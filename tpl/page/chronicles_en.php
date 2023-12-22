@@ -1696,7 +1696,37 @@ Fri, 22.Dec.2023
         Verstehe mich mit ihnen aber es sind irgendwie auch heikle Situationen.
         Ich stehe auf, rauche, und trinke Kaffee.
 
+07:30 - Nach dem Frühstück ein wenig GDO programmieren,
+        dann weiter zur Organisationsgruppe.
+        Ob ich Sylvester zu Hause schlafen kann zeigt sich im Laufe nächser Woche.
+        Abwaschdienst habe ich am 2. Weihnachtsfeiertag, ein Dienstag.
+        Wieder eine Stunde Freizeit für GDO.
+        
+11:15 - Ein weiterer Medizinvortrag. Thema diesmal; Das Leber- und Gallensystem.
+        Danach Mittagessen und wieder etwas Zeit für GDO.
+        Liken, Disliken und Unliken funktioniert nun gut, auch über Ajax.
 
+14:00 - Die erste offizielle Sportstunde hier.
+        Wir spielen eine Stunde Tischtennis/Rundlauf.
+        Nach der Stunde spielen wir noch bis 17:00 weiter.
+
+17:00 - Noch ein wenig GDO, dann Abendessen.
+        Ich esse reichlich, und habe etwas Angst, dass ich wieder stechende Schmerzen im Auge bekomme.
+        Danach widme ich mich dem Börsenprojekt.
+        Ich implementiere "Rollover" gebühren, dia anfallen, wenn man eine Position länger als 1 Tag hält.
+        Wir installieren die Anwendung bei Luca, aber es funktioniert noch nicht so richtig.
+
+20:00 - Wieder Tischtennis.
+        Ich bin gut in Form und gewinne wohl alles.
+        Dann Medis, und um 22:15 ab in's Bett.
+        Die Zahnschmerzen werden schlimmer -.-
+        Gute Nacht!
+
+=============================================================================
+
+Sat, 22.Dec.2023
+
+    
 
 
 
