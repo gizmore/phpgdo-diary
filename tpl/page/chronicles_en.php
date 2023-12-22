@@ -1669,6 +1669,34 @@ Thu, 21.Dec.2023
         Auf die Frage, ob ich ihn nächste mal wecken soll antwortet er mit Nein.
         Wir gehen eine Rauchen.
 
+07:30 - Frühstück.
+        Danach helfe ich einem Patienten das WLAN in der Lobby zu nutzen.
+        Dieses is natürlich wieder defekt.
+
+09:30 - Ergo und eine Gruppe. Mittagessen, danach Freizeit bis 16:00
+        Ich habe immer noch ein verstopftes Ohr und ein wenig Zahnschmerzen.
+        Um 13:00 lege ich mich hin und schlafe bis 16:00 durch.
+        Dann noch 2 Gruppen und Abendessen.
+
+        Beim Abendessen habe ich einen starken, stechenden Schmerz im und über dem Linken Auge.
+        Eine Patientin ruft das Med-Team.
+        Der Schmerz verschwindet so schnell wie er gekommen ist.
+        Blutdruck in Ordnung, Koordination funktioniert noch.
+        Ich kehre zurück zum Essen.
+        Danach warte ich auf Tischtennis, aber die Halle ist mit Badminton belegt.
+        Ich gehe früh zu Bett, verschlafe fast meine Medis... Kein schöner Tag.
+
+=====================================================================================================
+
+Fri, 22.Dec.2023
+
+05:40 - Ich habe durchgeschlafen und ein wenig geträumt.
+        Ich wohne mit Mutti zusammen, mein Zimmer hat offene Wände.
+        Obdachlose schlafen auf dem Sofa... Ich fühle mich etwas unsicher.
+        Verstehe mich mit ihnen aber es sind irgendwie auch heikle Situationen.
+        Ich stehe auf, rauche, und trinke Kaffee.
+
+
 
 
 
