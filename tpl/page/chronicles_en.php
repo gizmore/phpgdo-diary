@@ -1726,7 +1726,14 @@ Fri, 22.Dec.2023
 
 Sat, 22.Dec.2023
 
-    
+05:30 - Ich habe wieder wunderbar 7,5 Stunden durchgeschlafen.
+        Der Traum war wieder typisch für mich.
+        Ich habe eine Art "Alien Breed" gespielt.
+        Mein Zimmerkumpel brüht Kaffee, wir rauchen einige Zigaretten.
+        Heute fahre ich gegen 9:00 nach Hause für einen Tagesausflug.
+        Einkaufen und mit Lazer Hamburger braten.
+
+
 
 
 
