@@ -1780,6 +1780,45 @@ Sun, 24.Dec.2023
         bis der Zahnarzt wieder geöffnet hat. :(
         Eine Rauchen und dann ab zum Frühstück.
 
+09:00 - Ich mache mich auf den Weg zu Mutti, zum Weihnachtsessen.
+        Die Zugfahrt verläuft reibungslos.
+        Mutti holt mich am Bahnhof Hoheneggelsen ab.
+        Ich habe meine kleinen Geschenke für Morgen dabei,
+        aber Mutti hat gar kein Geschenkpapier mehr.
+        My evil plan is foiled!
+        Wir trinken Kaffee und quatschen vergnügt.
+        Ein wenig Fernsehen, und nebenbei kopiere ich meine Telefonkontakte in ein kleines Heft.
+        Falls das Handy mal verloren geht, und für mein neues Handy.
+        Ihr Freund Hotti kommt um 16:00 und auch mit ihm ist es lustig.
+        Er schenkt mir eine Taschenlampe, einen Stift und ein Feuerzeug.
+        Ich freue mich.
+        Ich biete ihm mein altes Handy an, sobald dieses frei ist, aber nur leihweise.
+        Auch er muss seine ganzen Kontakte abschreiben, aber es hat ja noch Zeit.
+        Wir essen lecker Weihnachtsgans, und um 18:00 muss ich los, zurück in die Therapie.
+        Die Rückfahrt ist ebenfalls angenehm. Fast niemand fährt diese Strecke an dem Tag um die Zeit.
+
+20:00 - Wieder zurück in Ringelheim.
+        Ich puste, 0,0 Promille, und lasse mir eine Ibuprofen geben.
+        Falls die Zahnschmerzen nicht besser werden,
+        soll ich morgen früh beim Med-Team noch einmal Bescheid geben.
+        Ich werde wohl am Dienstag den Notarzt aufsuchen.
+        Wir spielen noch bis 22:30 Tischtennis,
+        Medis und ab in's Bett.
+
+========================================================================
+
+Mon, 25.Dec.2023
+
+06:00 - Ich habe gut geschlafen. Das linke Ohr wird langsame besser,
+        nur noch ein wenig dicht, und auch das Piepen scheint ein wenig besser.
+        Ich rauche eine und treffe einen neuen Patienten.
+        Er ist 4 Tage hier, und hat schon einiges durch.
+        Einer der wenigen hier, der auch andere Drogen genommen hat.
+        Ab zum Med-Team, 2 Ibuprofen 600 abholen, dann zum Frühstück.
+        Rasieren, Duschen, Kaffee, Kippen.
+        Geschenke sind gepackt und es geht gleich los zu meinem Bruder.
+
+    
 
 
 
