@@ -1724,7 +1724,7 @@ Fri, 22.Dec.2023
 
 =============================================================================
 
-Sat, 22.Dec.2023
+Sat, 23.Dec.2023
 
 05:30 - Ich habe wieder wunderbar 7,5 Stunden durchgeschlafen.
         Der Traum war wieder typisch für mich.
@@ -1732,6 +1732,54 @@ Sat, 22.Dec.2023
         Mein Zimmerkumpel brüht Kaffee, wir rauchen einige Zigaretten.
         Heute fahre ich gegen 9:00 nach Hause für einen Tagesausflug.
         Einkaufen und mit Lazer Hamburger braten.
+
+09:00 - Ich gehe kurz zum NP und hole einen Energy-Drink für mich.
+        Für Lazer hole ich einen kleinen Korn.
+        Dieser reift eine Stunde im Zug.
+
+11:00 - Ich komme in Peine an, und hole Lazer ab.
+        Wir treffen uns in der City mit den Strankoswki Brüdern, Maik und Basti.
+        Maik hat eine neue Freundin, und wir gehen zusammen etwas Spielzeug einkaufen.
+        Dann zum Glühweinstand. Ich trinke zwei Kinderpunsch.
+        Beim verlassen des Lokals fühle ich mich leicht betrunken... Das ist wohl Kopfsache.
+        Beim Edeka kaufen wir für 170€ ein, wir sind 6 Personen und wir haben gut zu Fuß zu schleppen.
+        Ich lege 15€ dazu, für die Burger heute.
+
+13:30 - Wir sind bei Maik angekommen. Auspacken, und Basti macht mir Manowar an.
+        Lazer macht eine Bestandsaufnahme, und wir schreiben noch einen Einkaufszettel.
+        Vor allem Getränke fehlen; 2 Kisten Bier, 1 Träger Wasser, Cola, Multivitaminsaft,
+        2 Flaschen Bacardi und 1 Flashe Vodka.
+        Ralf und Nadine kündigen sich an.
+        Lazer, ich und Basti gehen mit dem Bollerwagen einkaufen.
+        Langsam haben die beiden gut einen im Tee.
+        Wir kaufen ein und schieben gemeinsam den schweren Bollerwagen zurück.
+        Ralf kommt uns entgegen und scheucht Basti, der den schweren Wagen zieht, ein wenig.
+
+17:00 - Lazer fängt endlich an Burger zu braten.
+        Die anderen trinken Bacardi mit Sprite, und sind ganz schön beduselt.
+        Gegröle, die Böhsen Onkelz und auch etwas Aggresiv.
+        Ich geselle mich ein wengig zu Lazer in die Küche.
+        Die Burgerdeckel sind leicht verkohlt, doch die Burger sind noch recht gelungen.
+        Derweil eskaliert in der Stube die Situation.
+        Einer zieht eine Schreckschusswaffe.
+        Zum Glück war ich nicht in der Stube dabei.
+        Ich esse einen Burger und mach mich etwas früher auf den Heimweg.
+
+19:00 - Am Peiner Bahnhof angekommen muss ich noch etwas auf den Zug warten.
+        Dieser hat auch noch 15 Minuten Verspätung.
+        Den Anschlusszug von Braunschweig nach Ringelheim schaffe ich aber noch.
+        Um 20:45 komme ich in Ringelheim an. Pusten, Medis,
+        noch ein wenig mit meinem Zimmerkumpel schnacken und ab in's Bett.
+
+===========================================================================================
+
+Sun, 24.Dec.2023
+
+06:30 - Recht gut geschlafen, nur um Mitternacht war ich einmal wegen Zahnschmerzen wach.
+        Die Zahnschmerzen machen mir ganz schön zu schaffen, und es dauert noch eine Weile,
+        bis der Zahnarzt wieder geöffnet hat. :(
+        Eine Rauchen und dann ab zum Frühstück.
+
 
 
 
