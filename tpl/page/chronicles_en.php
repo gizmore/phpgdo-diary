@@ -1818,7 +1818,52 @@ Mon, 25.Dec.2023
         Rasieren, Duschen, Kaffee, Kippen.
         Geschenke sind gepackt und es geht gleich los zu meinem Bruder.
 
-    
+10:00 - Im Braunschweiger Hauptbahnhof esse ich einen Whopper Jr. und hole mir Zigaretten.
+        Weiter nach Peine, und von dort mit dem Bus nach Ilsede.
+
+12:00 - Ich bin bei DejaVu angekommen.
+        Wir rauchen erstmal eine und quatsche.
+        Mein neues Handy ist angekommen; Ein Redmi Note 12 Pro.
+        Wir synchronisieren meine Kontakte und mein altes Handy.
+        Wir fangen an zu kochen, es gibt Rinderroulladen mit Rotkohl und Klößen.
+        Ich zerkleinere das Gemüse während DejaVu die Roulladen prepariert.
+        Zwischendurch trinken wir Kaffee und hören ManOwaR, schön laut.
+        Die Zeit vergeht wie im Flug.
+        Zwischendurch erfinde ich ein neues Produkt; Kartoffeltee - Karteefel.
+
+16:00 - Mutti kommt. Ihr Freund Hotti ist leider nicht mit dabei.
+        Wir spielen ein wenig Siedler von Catan zu fünft.
+        DejaVu's Freundin und seine Tochter Kiara sind mit von der Partie.
+
+18:00 - Es gibt essen.
+        Kiri trinkt ein wenig Behrensen, DejaVu einen Wein, und Claudia eine Schorle.
+        Mutti und ich kommen ohne Alkohol aus.
+
+19:00 - Bescherung.
+        Alle freuen sich über einige Geschenke.
+        Ich bekomme Schuhe von Mutti, beziehungsweise bekam diese bereits bevor meine Reha losging.
+        Von DejaVu erhalte ich ManOwaR Ticktes für 2025, was ich bereits wusste.
+        Außerdem noch einen neuen Tischtennisschläger.
+        Dieser macht einen guten Eindruck. Dicke Beläge und im schwarzen Design.
+        Ich habe nur einige Kleinigkeiten verschenkt, aber meine Familie freut sich.
+
+20:00 - Mit dem Zug zurück. Die Fahrt verläuft wieder reibungslos.
+        Das neue Handy ist ein wengig lauter,
+        Was gut ist für den Fußmarsch vom Bahnhof zur Klinik.
+        Ich komme gerade noch rechtzeitig an, puste, und nehme Medis.
+        Bis 22:30 probiere ich noch den neuen Schläger aus, und gehe dann erschöpft in's Bett.
+
+==========================================================================================
+
+03:30 - Ich werde wach, und habe Lust aufzustehen.
+        Die Nacht ist vorbei.
+        Ich ziehe mich leise an und gehe runter zum Rauchen.
+        Dann ab in die Küche mit dem Laptop um den Bericht hier nachzutragen.
+
+05:00 - Endlich Zeit für mein phpgdo ESL Projekt :)
+
+
+
 
 
 
