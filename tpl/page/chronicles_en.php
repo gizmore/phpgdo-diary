@@ -1861,9 +1861,37 @@ Mon, 25.Dec.2023
         Dann ab in die Küche mit dem Laptop um den Bericht hier nachzutragen.
 
 05:00 - Endlich Zeit für mein phpgdo ESL Projekt :)
+        Ich werkel ein wenig, bis es Frühstück gibt.
 
+08:30 - Frühstück - Ich habe Abwaschdienst.
+        Nach dem Abwasch lege ich mich etwas hin.
 
+11:50 - Mittagessen. Danach wieder abwaschen und ich lege mich wieder hin.
+        Ich hatte einen merkwürdigen Traum.
+        Ich träumte ich würde träumen, und das dies alles ein Experiment sei.
+        Mir war bewusst das ich träumte, aber ich konnte nicht aufwachen,
+        so sehr ich auch wollte.
 
+17:50 - Abendessen und Abwasch. Ich spiele danach noch etwas Tischtennis und gehe nach den Medis um 22:00 in's Bett.
+
+===============================================================================
+
+Wed, 27.Dec.2023
+
+06:15 - Ziemlich gut geschlafen, aber ich bin hundemüde.
+        Der Suchtdruck ist heute ziemlich stark, aber es gibt halt nichts zu trinken.
+        Ab zum Wiegen, Frühstück, und ich bekomme wieder einen Abwaschdienst aufgebrummt.
+        Ich glaube ich wurde mit einem anderen Christian verwechselt.
+        Schnell noch Bettwächse holen zum wechseln.
+
+09:00 - Ich gehe nochmal zu Metin - Ich meine damit das Med-Team - wegen meiner Zahnschmerzen.
+        Sie werden mir den Notdienst für morgen raussuchen, und ich kann mich dann dort melden.
+        Ab zur Vollversammlung, ich habe das EDV-Amt übernommen für die kommenden Wochen.
+        Dabei muss man nur die Rechner kontrollieren, Schäden melden, und Abends herunterfahren.
+        Ich werde eine kleine Textdatei mit meinem Kontakt in die Autostart eintragen,
+        so dass ich auch Hilfestellung geben kann.
+
+10:15 - Zimmervisite.
 
 
 
