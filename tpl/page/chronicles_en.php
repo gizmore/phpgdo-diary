@@ -1891,11 +1891,85 @@ Wed, 27.Dec.2023
         Ich werde eine kleine Textdatei mit meinem Kontakt in die Autostart eintragen,
         so dass ich auch Hilfestellung geben kann.
 
-10:15 - Zimmervisite.
+10:15 - Zimmervisite. Es gab keine Beanstandungen.
+        Danach Entspannungstherapie; Es wird eine Situation vorgelesen, die wir uns vorstellen sollen.
+        Das klappt ganz gut, und ich mache das eh öfters.
+        Entspannende Musik läuft, und dies tut eigentlich ganz gut.
 
+12:00 - Mittagessen. Es gibt vegatarische Buletten - Bremsklötze - in Senfsoße mit komischem Gemüse.
+        Viele mögen das nicht, aber ich esse auf. Leider immer noch hunger.
 
+13:00 - Ich stelle die neueste CodingGeeX / CGX challenge online.
+        CGX#14 - Amaze Me - Eine .exe Datei, die man auseinandernehmen muss, um an eine Lösung zu kommen.
+        Dazu gibt es auch ein Video, in dem wir Einsteiger einen Debugger und die CPU erklären.
 
+15:00 - Ich plane mich um 17:00 mit Lazer in Braunschweig zu treffen,
+        um noch etwas vernünftiges zu Essen.
+        Ich bekomme eine SMS, das ich um 19:30 eine Urinkontrolle abgeben soll.
+        Das ruiniert den Zeitplan.
+        Ich kann mich um 16:00 beim Med-Team melden, um den Termin eventuell zu verschieben.
+        Bis dahin sehe ich mir die Rechner an.
+        Ich plane eine kleine Nachricht zu hinterlegen, damit mich Patienten kontaktieren können,
+        falls Hilfestellung benötigt wird.
+        Ich bemerke aber, leider ist auf den Rechnern eine Software installiert, die Änderungen an der Festplatte rückgängig macht, wenn neu gestartet wird.
+        Bios scheint allerdings frei zu sein, ...das sehe ich mir später an :)
 
+16:00 - Das Med-Team kann meine Urinprobe jetzt schon nehmen, so dass ich nach Braunschweig kann.
+        Beim Wasserlassen frage ich, wo man IT-Sicherheitslücken melden kann.
+        Wir kommen in's Gespräch, und die Pflegekraft nennt mir seine Webseite, die er selbst erstellt hat.
+        Werde ich mir ansehen.
+        Ab geht's nach Braunschweig.
 
+17:00 - Treffen mit Lazer.
+        Wir wissen noch nicht wo wir hingehen.
+        Ich schlage Kokino vor, ein Grieche, für den ich einmal die Webseite repariert habe.
+        Die Cheffin schuldet mir noch ein Essen :)
+        Der Laden lässt sich allerdings nicht finden, also schreibe ich die Eigentümerin per Whatsapp an.
+        Wir gehen zu einem anderen Griechen, aber der entpuppt sich als sehr teuer.
+        Daraufhin gehen wir lieber zum "Peter Pane" im BraWo-Park.
+        Dort sind die Preise noch gesalzener.
+        Ich bezahle 35 Euro für einen dicken Burger, zwei große Pommes und eine Cola.
+        Das Essen war allerdings durchaus schmackhaft.
+        Die Kokino Cheffin meldet sich, erinnert sich nicht an mich, aber sie braucht jemanden der Webseiten gestaltet.
+        Wir wollen im neuen Jahr Kontakt aufnehmen :)
+        Lazer trinkt noch einen Vodka vom Edeka, und ab geht's zurück in die Klinik.
+
+21:00 - Zurück in der Klinik. Ein neuer Patient, erst drei Tage dort, ist völlig betrunken.
+        Ein Pfleger kommt, und er muss die Klinik verlassen.
+        Da er nicht gehen will gibt es einen Polizeieinsatz mit Krankenwagen.
+        Ouch :(
+
+21:30 - Tischtennis zu Dritt.
+        Ich bemerkte, das mein Tischtennispartner den Küchendienst an unser Zimmer abgegeben hat.
+        Das ist falsch! Nach seinem Zimmer 4 müsste die 5 drankommen, und wir sind die 1.
+        Ich stelle ihn zur Rede.
+        "Mir wurde gesagt ich kann mir das aussuchen" - sagt er frech.
+        Ich bin entrüstet: "Dann weisst Du ja, wer nächste Woche wieder dran ist!"
+        Ich fühle mich hintergangen.
+        Später klärt er auf, dass es ein Scherz war.
+        Mein Zimmerkumpel war auch entrüstet, aber wir haben den gelungenen Scherz gut verkraftet.
+        So sind Männer halt ^^
+
+22:45 - Ab in's Bett
+
+=====================================================================
+
+Thu, 28.Dec.2023
+
+06:00 - Ich bin die Nacht zwei mal aufgewacht, und fühle mich ganz schön müde.
+        Rauchen, Frühstück, Gruppentherapie.
+        In der Gruppentherapie sprechen wir über einen Patienten, der einen kleinen Rückfall hatte.
+        Druck aus der Familie, zwei kleine Vodka, alleine zu Hause.
+        Er hat sich aber danach gefangen und ist wieder trocken.
+        Wir reden ein wenig über Strategien gegen den Rückfall.
+        Ich will wissen wie er es geschafft hat nach 2 kleinen Schnäpschen wieder aufzuhören.
+        Das schlechte Gewissen plagte wohl.
+        Ich erzähle das Lazer mir immer sagt ich dürfe nicht trinken, und das er mir Prügel androhte, sollte ich wieder trinken.
+        Das finde ich total gemein.
+        Zuerst einmal darf ich trinken, ich will nur nicht, und zum zweiten ist das meine Entscheidung, und Gewalt androhen geht ja mal garnich.
+        Das muss ich mit ihm dringend klären.
+
+11:00 - Einzelgespräch beim Bezugstherapeuten.
+        Es entscheidet sich, ob ich Sylvester zu Hause schlafen darf.
 
 </pre>
