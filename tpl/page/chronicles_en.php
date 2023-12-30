@@ -2061,8 +2061,14 @@ Sat, 30.Dec.2023
         Zwei Zigaretten und ab zum Frühstück.
 
 08:00 - Ich fahre sehr früh nach Peine.
-
-
+        Um 9:30 komme ich Zuhause an, und programmiere ein wenig.
+        Um 11:00 kommt DejaVu und seine Freundin vorbei und bringen etwas Wasser in das Heizungssystem, um den Druck zu erhöhen.
+        Danach gehen wir ein wenig einkaufen und essen.
+        Beim Griechen nehmen wir nach dem Essen den Ouzo dankend an, doch DejaVu muss alle drei trinken. *hehe*
+        Irgendwie hilft mir das ein bisschen... Es ist ein gutes Gefühl wenn andere trinken.
+        Es stellt mich ein wenig auf die Probe.
+        Dann mit Lazer und Klein Basti noch ein kleines Sushi, wieder zurück nach Hause und etwas Programmieren.
+        So ein Tag geht ganz schön schnell vorbei.
 
 
 
