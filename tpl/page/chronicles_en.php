@@ -2060,6 +2060,7 @@ Sat, 30.Dec.2023
         ManOwaR auf die Ohren und einen Kaffee.
         Zwei Zigaretten und ab zum Frühstück.
 
+08:00 - Ich fahre sehr früh nach Peine.
 
 
 
