@@ -1971,5 +1971,98 @@ Thu, 28.Dec.2023
 
 11:00 - Einzelgespräch beim Bezugstherapeuten.
         Es entscheidet sich, ob ich Sylvester zu Hause schlafen darf.
+        Wir reden zuerst über meine Biography.
+        Über eine Stunde lang erzähle ich ihr detailliert meinen Lebenslauf.
+        Nach dem Gespräch sage ich, warum ich eigenltich da bin.
+        Ich zeige Ihr den Antrag auf meine Belastungserprobung.
+        Ich erwähne, dass wir zu 5. kurz in die Kneipe wollen (20-22 Uhr),
+        und wir sonst bei meinem Bruder sind, Gesellschaftsspiel und mit Kindersekt anstoßen.
+        Sie ist leicht schockiert, und meint sowas gelte schon als Rückfall.
+        Auch sei ein Kneipenbesuch zu gefährlich.
+        Ich sage das können wir dann auch weglassen, und sie meint sie müsse noch eine zweite Meinung einholen.
+        Ich meine wenn ich das nicht genehmigt bekomme weiss ich nicht was ich tue.
+        Ich bin echt sauer gerade.
+        Andere Patienten, die kürzere Zeit hier sind, bekommen 2 Übernachtungen genehmigt,
+        und ich nichtmal eine?
+        Ehrlichkeit und Offenheit wird bestraft... was soll das für eine Therapie sein?
+        Falls ich nicht Sylvester feiern darf werde ich wohl alleine Alkohol trinken müssen.
+
+13:00 - Ich rufe beim Zahnarzt an.
+        Die Sprechstunde war von 11:00 bis 12:00 - Pech gehabt.
+        Luca ruft an, und schlägt vor ich solle nochmal zur Therapeutin gehen,
+        damit die bei meiner Mutter anrufen. Sie könne bestätigen, dass wir nichts trinken.
+        Ich gehe sauer einkaufen und überlege.
+        Die Gedanken an Alkohol sind stark.
+
+14:00 - Ich gehe noch einmal zur Therapeutin und schlage vor meine Mutter anzurufen.
+        Sie sagt, dass sei nicht nötig... und schlägt dann vor zu unterschreiben, falls ich die Kneipe weglasse.
+        Ich willige ein, und ändere meinen Antrag entsprechend.
+        Mutti freut sich, auch weil sie dann nicht in die Garage muss, anscheinend.
+        Meine Stimmung ist nun besser... dafür kommen die Zahnschmerzen wieder.
+        Mein Zimmerkumpel kocht erstmal einen Kaffee.
+        Ich will keinen Alkohol mehr trinken.
+
+16:00 - BIS (Basis-Information Sucht)
+        Wir sprechen über Regeln hier in der Klinik.
+        War nicht wirklich interessant.
+    
+17:00 - Selbstorganisation
+        Wir wählen einen neuen Gruppensprecher.
+        Ich schlage meinen Tischtennispartner vor, er schlägt mich vor.
+        Zum Glück stimmt mir einer zu, und Marco wird schnell und einfach von ca 5 Personen mit Handzeichen gewählt.
+        Hehehe :)
+        Er ist aber auch geeignet für das Amt.
+        Hilfsbereit, nett, und lustig, nicht schüchtern und nicht so verdruggt wie ich.
+
+18:00 - Abendessen.
+        Danach helfe ich Luca die Börsenapp zu installieren.
+        Es läuft noch nicht besonders rund.
+
+19:30 - Tischtennis
+        Mein Tischtennispartner und ich spielen um meinen alten Schläger.
+        Mittlerweile habe ich die Regeln stark zu seinen Gunsten angepasst.
+        Er muss lediglich 2 Sätze hintereinander gewinnen,
+        und ich darf keine miesen Angaben machen :)
+        Bislang hat er es nicht geschafft, aber er ist schon deutlich besser geworden.
+        Er hat sich auch schon gut mit meiner alten Kelle eingespielt, es ist spannend.
+        Ich nehme heute ein wenig mehr Bedarfsmedis.
+        Weil der Tag doch recht aufregend war, und ich will sehen ob es auch auf's Tischtennisspiel eine Auswirkung hat.
+        Ich werde recht schnell müde und gehe um 22:00 in's Bett.
+
+===============================================================================
+
+Fri, 29.Dec.2023
+
+06:30 - Frühstück, Organisationsrunde, dann Termin beim Zahnarzt.
+        Ich werde von einem Mitpatienten mit dem Auto gefahren.
+        Ein Freund meines Zimmerkumpels.
+        Ein Zahn wird abgeschliffen, weil der einfach zu weit runterguckt.
+        Für einen Zahn bekomme ich eine Salbe wegen Zahnfleischrückgang.
+        Jetzt habe ich nur noch zwei weitere Problemstellen für's nächste Jahr.
+
+14:00 - Noch ein Einzelgespräch mit meinem Therapeuten.
+        Ich erzähle, dass ich sauer war und schon nen Rückfall plante, wegen Sylvester.
+        Mittlerweile verstehen wir uns wohl ganz gut.
+
+15:00 - Börsenapp und Abendessen.
+        Tischtennishalle wird von den Badminton-Spielern belegt, also weiter Börsenapp.
+
+20:45 - Medis und ab zum Tischtennis, meinen Schläger verteidigen. :)
+        Zwei Sätze gewinnt er, aber nicht hintereinander.
+        Während ich spiele läuft die Börsenapp.
+        Um 22:30 gehe ich in's Bett.
+
+========================================================================
+
+Sat, 30.Dec.2023
+
+06:00 - Ich wache auf. Mein Zimmerkumpel ist schon im Gange.
+        ManOwaR auf die Ohren und einen Kaffee.
+        Zwei Zigaretten und ab zum Frühstück.
+
+
+
+
+
 
 </pre>
