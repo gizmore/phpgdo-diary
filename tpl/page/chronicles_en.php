@@ -2070,6 +2070,44 @@ Sat, 30.Dec.2023
         Dann mit Lazer und Klein Basti noch ein kleines Sushi, wieder zurück nach Hause und etwas Programmieren.
         So ein Tag geht ganz schön schnell vorbei.
 
+19:00 - Ich fahre wieder in die Klinik.
+        In Braunschweig treffe ich einen Mitpatienten.
+        Ich meine, dass ich mir noch einen Milchshake von McDonalds holen möchte,
+        und er sagt, dass das zeitlich noch drin ist und er auf mich wartet.
+        Ich hole mir ein McRib Menu, und stelle erfreut fest, dass man auch 2x Milchshake als Beilage wählen kann.
+        Perfekt! Kann ich dem Patienten einen Milchshake schenken... so dachte ich.
+        Diesen lehnt er nämlich ab, also muss ich zwei Shakes auf meinen vollen Bauch trinken.
+        Wir kommen in Erlengrund an.
+    
+21:00 - Pusten und Medis.
+        Mein Tischtennispartner fordert mich noch zu einem Match heraus.
+        Ich bin vollgefressen und müde... und tatsächlich, er schafft es zwei Sätze hintereinander zu gewinnen.
+        Mein alter Schläger gehört nun ihm :)
+        Eigentlich hatte ich gehofft, das noch bis Februar hinauszuzögern, aber es sollte wohl nicht sein.
+        Ich habe allerdings einen Plan, wie ich ihn auf die Schippe nehmen kann,
+        eine Revanche für den Teeküchendienst.
+        Aber ich will noch nichts verraten ;)
+        Ab in's Bett!
+    
+==========================================================================
 
+Sun, 31.Dec.2023
+
+06:30 - Ich werde wach, und habe durchgeschlafen, mit einem recht schönen Traum.
+        Ich träumte ich wäre mit Lazer in einem Wald Pilze sammeln.
+        Die Pilze waren leicht zu finden und groß und wunderhübsch.
+        Der Waldboden war flauschig weich und mit viel Moos durchwachsen.
+        Es gab alle möglich Arten von Pilzen;
+        Champignons, Steinpilze, Grüner Knollenblätterpilze und auch Psylos.
+        Einen Psylo habe ich gefuttert und ich fühlte mich befreit.
+        Wie Lazer reagiert hat weiss ich nicht mehr genau.
+
+07:30 - Frühstück und fertig machen für die Abreise nach Peine.
+
+    
+    
+
+
+21:00 - Mein Tischtennispartner will noch ein Match, und eine Stunde spielen
 
 </pre>
