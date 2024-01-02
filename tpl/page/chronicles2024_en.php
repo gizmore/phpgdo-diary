@@ -1,3 +1,4 @@
+<pre>
 Mo, 1.Jan.2024
 
 14:00 - Ich habe lange geschlafen.
@@ -51,3 +52,4 @@ Tue, 2.Jan.2024
 
 17:30 - Abendessen.
 
+</pre>
