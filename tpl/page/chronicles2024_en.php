@@ -51,5 +51,22 @@ Tue, 2.Jan.2024
         Ich trage diesen Bericht nach und arbeite weiter an ESL.
 
 17:30 - Abendessen.
+        Ich werkel ein bisschen an phpgdo.
+        Um 20:30 Tischtennis bis 22:30.
+        Meine Medis nehme ich relativ spät, und weniger.
+        Mit dem Einschlafen klappt aber doch recht gut.
+
+========================================================================================
+
+Wed, 3.Jan.2024
+
+04:30 - Ich werde wach und habe 5 Stunden durchgeschlafen.
+        Ich fühle mich fit und stehe auf.
+        Würde ich noch schlafen wäre ich bestimmt gerädert.
+        Ich arbeite weiter an ESL, rauche einiges und trinke Kaffee.
+
+07:30 - Frühstück, danach Stühle für die wöchentliche Vollversammlung aufstellen.
+        Dies hat allerdings schon jemand so gut wie erledigt.
+
 
 </pre>
