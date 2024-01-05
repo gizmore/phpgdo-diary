@@ -68,5 +68,76 @@ Wed, 3.Jan.2024
 07:30 - Frühstück, danach Stühle für die wöchentliche Vollversammlung aufstellen.
         Dies hat allerdings schon jemand so gut wie erledigt.
 
+        Der Tag ist wieder voll von Gruppen und Gesprächen,
+        aber Ereignislos.
+
+        Die Zahnschmerzen werden schlimmer.
+
+        Abends installieren wir wieder die Börsenapp bei Luca.
+        Diesmal mit der Entwicklungsumgebung zusammen, um Fehlern besser auf der Spur zu kommen.
+        Dies klappt auch wieder nicht.
+        Luca ist enttäuscht und meint "Ich solle meine Hausaufgaben machen".
+        Das ärgert mich sehr.
+
+        Noch etwas Tischtennis, Medis und ab in's Bett.
+
+==================================================================================
+
+Thu, 4.Jan.2024
+
+06:40 - Ich stehe auf und fühle mich wie gerädert.
+        Ich rauche eine und Frühstücke.
+
+        Gruppentherapie - ich schlafe fast ein - und danach lege ich mich etwas hin.
+        ErgoTherapie, doch die Collagentherapie hatte ich schon, und ich lege mich bis zum Mittagessen wieder schlafen.
+
+12:00 - Mittagessen.
+        Es gibt vegetarische Nudeln Bolognese.
+        Kann man essen, aber es ist keine Bolognese.
+        Um 14:00 muss ich nach Peine zum HNO Arzt fahren und lege mich wieder etwas hin.
+
+14:00 - Ich gehe zum Bahnhof, etwas depremiert und fahre nach Peine.
+        Die Zugfahrt ist ok, und ich komme 15.36 in Peine an.
+        Ich kaufe einen Hamburger und kleine Pommes bei Kochlöffel und gehe zum Arzt.
+        Pünktlich um 15:50 komme ich dort an.
+        Er meint ich habe Wasser im Ohr und verschreibt mir Nasentropfen und Hustentabletten zum Schleim lösen.
+
+17:00 - Ich treffe mich mit Lazer einen Döner essen.
+        Er ist jetzt seit 4 Tagen trocken.
+        Wir holen uns einen einen Energy Drink und gehen zum Saray.
+        Ich gönne mir einen Dönerteller.
+        Danach noch einen Energydrink vom Edeka.
+        Vor uns an der Kasse ist einer mit einem Edeka Gutschein, der mehr Guthaben hat, als daraufsteht.
+        Die Kassiererin wundert sich, storniert und scannt alles noch einmal ein.
+        Selbes Problem.
+        Lazer's Pfandbon wurde derweil vom Warenband gefressen.
+        "Da komme ich nicht mehr ran - darum packt man Pfandbons auch nicht auf's Band" - sagt die Kassiererin genervt.
+        Lazer ist sauer und wir stellen uns an einer anderen Kasse an.
+        Ab zum Bahnhof.
+
+19:35 - Ich komme wieder im Erlengrund an.
+        Wieder versuchen wir die Börsenapp zu installieren und es klappt endlich.
+        Luca ist glücklich.
+        Ich gehe von 21:00 - 22:30 Tischtennis spielen.
+        Bei der Medizinvergabe zeigt mir ein Pfleger seine Internetseite.
+        Sieht ganz gut aus.
+        Sicherheitstechnisch hat er wohl nichts falsch gemacht, weil er PHP Serverseitig sehr sparsam einsetzt.
+        Größtenteils statischer Inhalt.
+
+=======================================================================================
+
+Fri, 5.Jan.2024
+
+05:30 - Ich werde wach.
+        Mein Zimmerkumpel sitzt auf dem Bett.
+        Ich frage ob ihn mein Schnarchen geweckt hat, und er verneint.
+        Die Zahnschmerzen sind stark, ich putze zähne und werfe eine Ibuprofen ein.
+        Dann zum rauchen, telefoniere mit Luca und ab zum Frühstück.
+
+09:00 - Organisationsgruppe.
+
+
+
+
 
 </pre>
