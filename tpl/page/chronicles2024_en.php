@@ -135,9 +135,152 @@ Fri, 5.Jan.2024
         Dann zum rauchen, telefoniere mit Luca und ab zum Frühstück.
 
 09:00 - Organisationsgruppe.
+        Diese ist schnell vorbei. Eine Verabschiedung, sonst nix.
+        Ich arbeite weiter an ESL. Das Classic Theme ist bissel kaputt. Das Bootstrap5Theme ebenfalls.
+        Das Forum ist auch total schlecht noch.
 
+11:30 - Mittagessen. Es gibt Backfisch mit Kartoffeln.
+        Ich lege mich etwas hin.
 
+14:00 - Gruppensport. Wir spielen wieder Tischtennis.
+        Ich habe ein wenig verschlafen, aber es gibt keinen Ärger.
+        Wir spielen Tischtennis danach weiter bis 17:00
 
+17:00 - Ich gehe einkaufen und gönne mir ein Eis.
+        Wegen Zahncreme bin ich losgegangen, die habe ich aber vergessen.
+        Zum Glück gibt mir mein Zimmerkumpel eine Tube die er nicht mehr braucht.
+        Nach dem Abendessen noch ein wenig programmieren, und ich mache etwas Augenpflege...
+        und ich schlafe ein.
+
+22:00 - Ich werde von der Pflege geweckt.
+        Ich habe meine Tablette vergessen, sowie mich nach dem Einkauf wieder als heimgekommen einzutragen.
+        Ich gehe meine Medis holen und lege mich wieder hin.
+
+==========================================================================================
+
+Sat, 6.Jan.2024
+
+05:30 - Ich werde früh wach und bin ausgeruht.
+        Ein paar Zigratten, und Programmieren.
+        Der Kaffee schmerzt sehr an den Zähnen.
+
+09:00 - Nach dem Frühstück geht es auf eine Wanderung.
+        Ca. 6km zum Bismarckturm in Salzgitter-Bad.
+        Auf dem Rückweg plane ich mit dem Freizeitbeauftragten, wie ich meinen Tischtennispartner reinlegen kann :)
+
+12:00 - Wieder zurück, die Füße tun ein wenig weh.
+        Zum Mittagessen gibt es Suppe.
+        Vielleicht treffe ich mich noch mit Lazer in Braunschweig.
+
+13:30 - Ich lege mich etwas hin, Lazer ruft an, um 16:00 treffen wir uns in Braunschweig.
+        Wir gehen zu Fuß 3km zu einem Asia Imbiss, essen eine Ente und fahren mit der S-Bahn zurück zum Bahnhof.
+        Am Bahnhof gönne ich mir noch einen Milchshake.
+        Ich treffe wieder den Mitpatienten, und nachdem ich Lazer an seinen Zug abliefere fahre ich mit dem Mitpatienten zurück in die Klinik.
+
+20:00 - Wieder im Erlengrund angekommen, kurz Pusten und eine Ibuprofen nehmen.
+        Ich bin recht erschöpft, und sehe mir im Bett ein Mathevideo an.
+        Professor Weitz macht schöne Vorlesungen auf Youtube.
+        Um 21:00 hole ich meine Medis, und gebe Bescheid, dass sich mein Tischtennispartner falsch eingetragen hat.
+        Er hat eingetragen, dass er heute nur einen Tagesausflug macht, dabei bleibt er über Nacht weg.
+        Zu einem Ägypten Video schlafe ich schnell ein.
+
+===========================================================================================
+
+Sun, 7.Jan.2024
+
+01:30 - Ich werde wach und gehe in Schlappen eine rauchen.
+        Auf dem Weg nach unten übersehe ich die letzte Treppenstufe.
+        Ich bin noch nicht wach und habe Muskelkater. Ich lasse mich wie ein nasser Sack aufs Knie fallen.
+        Zum Glück ist nicht viel passiert.
+
+06:30 - Ich stehe auf, Zigaretten, Kaffee der an den Zähnen schmerzt und diesen Bericht nachtragen.
+        Ab zum Frühstück und ein wenig phpgdo programmieren.
+        Die Zahnschmerzen sind schlimm, und ich bin nur bei den Mahlzeiten und am schlafen.
+        Ich habe auch gut Muskelkater, gestern war anstrengend.
+        Nach Hause fahre ich diesen Sonntag nicht.
+
+==========================================================================================
+
+Mon, 8.Jan.2024
+
+06:00 - Ich habe viel geschlafen, und bin recht ausgeruht.
+        Nach dem Frühstück gehe ich zum Zahnarzt. Vielleicht komme ich vor meinem Termin am Dienstag dran.
+        Das klappt. Es wird ein bisschen unten rechts am Weisheitszahn gebohrt.
+        Meine anderen Problemstellen rechts unten scheinen i.O. zu sein. Auch das Röntgenbild zeigt nichts.
+        Ich hoffe, dass sich die Schmerzen durchgezogen haben, und nun auch verschwinden.
+        Ein Kaffee später wird es zeigen.
+
+09:30 - Einzelgespräch mit der Psychologin.
+        Wir reden ein wenig über meinen Plan doch mal wieder eine Kleinigkeit zu trinken.
+        Sie nimmt es ganz gut auf, und will mit mir nächste mal darüber sprechen.
+
+10:00 - Selbstsicherheitstrining
+        Es geht um das verhalten und einschätzen von einigen Situationen.
+        Eigentlich recht interessant, da es mit meiner Selbstsicherheit auch nicht so gut ist.
+        Danach bekommen wir als Hausaufgabe unsere negativen Gedanken aufzuschreiben,
+        und wie wir diese positiver lenken können.
+
+12:00 - Mittagessen - Schmerzfrei.
+        Es gibt vegetarischen Bohneneintopf. Recht lecker.
+        Ein wenig chatten und programmieren.
+
+14:00 - Ergotherapie.
+        Ich will eine Schablone für einen QR-Code herstellen, der auf https://wechall.net/peace verweist.
+        Dann kann ich jederzeit steuern, was beim Aufruf des Codes passiert.
+        Als ich später mit Patienten darüber spreche kommt mir die Idee einer Friedenstaube in der Mitte.
+        Ich muss also noch ein wenig kreativ werden.
+
+15:00 - Ich wische den Gruppenflur, weil ich an der Reihe bin.
+        Danach wieder chat und programmieren.
+        Ich gestalte einen "Spreadshirt" Shop für WeChall.
+        3 Designs: Black Edition, Dark Navy UnSealed, Solid White Hacktivism.
+        Ich hoffe es kommt in der Community gut an.
+
+17:50 - Abendessen
+        An unserem Tisch gibt es viel zu lachen, ich bin sehr gut drauf.
+
+18:30 - Ich habe mich für die "Selbsthilfegruppe" eingetragen, wo sich Selbsthilfegruppen bei uns Vorstellig sind.
+        Irgendjemand hat allerdings die Pflege angerufen, und angegeben, dass dies ausfällt.
+        Ich meine scherzhaft: "Das war sicher ein Hacker!" *grins*
+        Die Gruppe findet also statt, aber anscheinend nur für ein anderes Haus.
+        Ich darf trotzdem bleiben und lerne so eine andere Gruppe etwas besser kennen.
+        Die Selbsthilfegruppe kommt aus Braunschweig, und wird von einem Ex-Peiner angeführt,
+        der aus Berkum kommt. Er kennt meinen Ex-Chef Erik.
+        Das Gespräch ist sehr interessant.
+        Alle stellen sich vor, und ich erzähle von meinem Plan in 6 Monaten mal 2 Caipi und ein paar kleine Bier zu trinken.
+        Unter Aufsicht, kontrolliert vom Arbeitskollegen.
+        Das stösst sauer auf, und ich bin mir nicht wirklich sicher ob das eine gute Idee ist.
+        Tüten rauchen kommt besser an.
+
+20:30 - Ich werkel noch kurz an meinem neuen Shop.
+
+21:10 - Tischtennis. Ich spiele gut, danach noch ein Doppel, mit meinem Tischtennispartner an der Seite.
+        Es läuft recht gut.
+
+22:45 - Ab in's Bett... Doku, keine Süßigkeiten und ich schlafe gegen 23:30 endlich ein.
+
+=========================================================================================
+
+Tue, 9.Jan.2024
+
+01:30 - Ich habe wieder geträumt.
+        Ich war in einer Art "Pong" Welt, wo ein blockiger Stein mich immer Angriff.
+        Nach jedem Block wurde der Stein gravitativ Stärker, solange, bis ich davon aufwachte.
+
+05:00 - Wieder wach, ein neuer Traum.
+        Mit irgendjemand haben wir Manowar auf eine Schallplatte gepresst und gehört.
+        Ich glaube mit meinem Patenonkel.
+        Ich dankte ihm für das Geschenk der Musik, das er mir gemacht hat.
+        Dann hat mein Ex-Chef Erik Super Mario gespielt,
+        und ich habe ihm mit einer Zwille auf die enge Lackhose geschossen.
+        Es blutete tief und es tat mir sehr leid.
+
+        Ich stehe auf und gehe rauchen.
+
+05:45 - Kaffee ist fertig, und mein Zimmerkumpel ist wach.
+        Wir gehen eine rauchen.
+
+06:30 - Dieser Bericht ist nachgetragen, und nun integriere ich den Shop in WeChall.net
 
 
 </pre>
