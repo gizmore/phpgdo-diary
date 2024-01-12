@@ -282,5 +282,72 @@ Tue, 9.Jan.2024
 
 06:30 - Dieser Bericht ist nachgetragen, und nun integriere ich den Shop in WeChall.net
 
+08:00 - Viel zu tun, und das meiste habe ich vergessen... ich schreibe mittwoch weiter -.-
+        Ich war beim Zahnarzt und habe den Flur gewischt... viel mehr weiss ich nicht mehr.
+
+===========================================================================================
+
+Wed, 10.Jan.2024
+
+06:45 - Ich werde viel zu spät wach.
+        Ich habe einige Gruppen und schlafe immer zwischendurch.
+        Erst gegen 15:00 werde ich richtig wach.
+
+16:30 - Ein alter Klassenkamerad hatte mich kontaktiert.
+        Er holt mich ab, und wir fahren nach Peine, mit Lazer essen, und vorher hole ich einen Zettel für die GEZ von daheim.
+        Er ist auch Programmierer, und wir haben einen schönen Abend beim Griechen.
+
+21:00 - Wieder in Ringelheim.
+        Ich nehme meine Medis und telefoniere mit Luca.
+        Er hat ein Problem als Steuerberater, und benötigt dringend ein Programm,
+        welches Rechnungen einscannen, und in sein Programm einpflegen kann.
+        Ich gehe Tischtennis spielen bis 22:30 und dann Ab ins Bett.
+
+=========================================================================================
+
+Thu, 11.Jan.2024
+
+05:00 - Gut durchgeschlafen und relativ fit.
+        Ich stehe auf, und bastel an dem neuen Programm für die Scanner Texterkennung.
+        In einer Stunde schaffe ich es, das Bild aus den PDF zu extrahieren.
+        Dann Frühstück und 3 Therapiegruppen hintereinander.
+
+12:30 - Nach dem Mittag installiere ich eine Texterkennung.
+        Dann Ergotherapie und diesen Bericht nachtragen.
+        Nebenbei helfe ich meinem Ex-Azubi bei einem Javascript Problem.
+        WeChall hat auch einige Probleme; Es kommt mit dem Nutzeransturm nicht zurecht.
+        tehron hilft mir zum Glück, und für's nächste mal sollte der Server hoffentlich besser standhalten.
+
+17:15 - Abendessen und dann widme ich mich dem Scanner Projekt.
+        Ich implementiere die Anbindung an ein OCR Programm "Tesseract".
+        Die ersten versuche sind nicht schlecht, aber noch verbesserungswürdig.
+        Aber vorher widme ich mich noch an die Anbindung an die Datenbank von Luca.
+        Es ist nicht einfach sich mit PHP zu einer Access Datei zu verbinden.
+        Bei Windows sind die richtigen Treiber nicht mit dabei.
+        Dann noch ein Problem... eine kryptische Fehlermeldung, irgendwas mit registry.
+        Ein wenig googlen ergibt, dass man in der Registry noch eine Berechtigung anpassen muss.
+        "Das ist absicht!" - heisst es bei Microsoft.
+        Dann noch ein Problem mit dem Passwort.
+        Es enthält Sonderzeichen und funktioniert nicht.
+        Der Trick ist, das Passwort nicht im Passwort-Parameter zu übergeben, sondern im Connect-String.
+        Um 22:30 funktionert die Anbindung endlich, und ich gehe in's Bett.
+
+========================================================================================
+
+Fri, 12.Jan.2024
+
+06:45 - Ich stehe wieder zu spät auf und bin ganz schön kaputt.
+        Diesmal versuche ich aber mich wach zu halten und nicht den ganzen Tag zu schlafen.
+        Beim Rauchen treffe ich auf einen Patienten der IT Probleme hat.
+        Das Bild aus einer Email weiterleiten... mit dem Handy.
+        Ich schlage vor dies am PC zu machen, und gebe ihm meine Nummer.
+        Danach Frühstück, und dann tauschen ein Patient und ich noch einen USB Stick,
+        um Rick&Morty hier in der Klinik zu verbreiten.
+
+09:00 - Organisationsgruppe
+    
+
+
+
 
 </pre>
