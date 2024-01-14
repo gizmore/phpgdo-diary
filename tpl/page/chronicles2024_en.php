@@ -345,6 +345,27 @@ Fri, 12.Jan.2024
         um Rick&Morty hier in der Klinik zu verbreiten.
 
 09:00 - Organisationsgruppe
+        Wir planen eine gemeinsame Gruppenaktivität.
+        Wir werden wohl zum Italiener gehen.
+        Danach wieder Texterkennung
+
+12:00 - Mittagessen und programmieren
+
+14:00 - Gruppensport, danach noch etwas Tischtennis.
+        Dann programmieren
+
+21:00 - Ich gehe enttäuscht ins Bett.
+
+===============================================================================================
+
+Sat, 13.Jan.2024
+
+04:50 - Ich werde früh wach und mache mich wieder an die Arbeit
+        Nach dem Frühstück packe ich meine Sachen, es geht ab nach Hause über's Wochenende.
+
+10:00 - Ich komme bei meinem Bruder DejaVu an.
+
+
 
 
 
