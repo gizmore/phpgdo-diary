@@ -362,10 +362,194 @@ Sat, 13.Jan.2024
 
 04:50 - Ich werde früh wach und mache mich wieder an die Arbeit
         Nach dem Frühstück packe ich meine Sachen, es geht ab nach Hause über's Wochenende.
+        Die Tablettenausgabe ist vor meiner Abreise nicht besetzt, also fahre ich ohne Tabletten los.
 
 10:00 - Ich komme bei meinem Bruder DejaVu an.
+        Es gibt ein wenig Streit zwischen ihm und seiner Freundin Claudia.
+        Wir fahren einkaufen, dann Kaffee und quatschen.
+        Ich gebe ihm ein wenig Unterricht im Programmieren für sein IT Studium.
+        Mutti kommt, und wir essen ein wenig.
+        Danach Spieleabend.
+        Wir spielen und lernen Doppelkopf von Claudia, was sehr lustig ist,
+        weil die aktuelle Spielart sehr unterschiedlich sein kann, was anhand der Karten entschieden wird.
+        Es gibt viel zu lachen :)
+        Danach spielen wir Siedler von Catan, mit einer Rittererweiterung.
+        Meine Nichte spielt auch mit.
+        Die Zeit vergeht wie im Flug, aber als wir sehr viel quatschen wird Claudia sauer.
+        Die Stimmung ist kurz gedrückt, fängt sich aber wieder.
+        Gegen 23:00 fahren ich und Mutti nach Hause.
+        Tabletten habe ich nicht dabei, kann aber recht gut einschlafen.
+
+=====================================================================================
+
+Sun, 14.Jan.2024
+
+01:30 - Ich werde mit Übelkeit, leichten Kopfschmerzen und dicken Lymphknoten wach.
+        Ich muss mich übergeben, nehme eine Ibuprofen und schlafe weiter.
+
+10:00 - Ich bin wach und fühle mich besser.
+        Ich arbeite weiter an dem Scannerprogramm für Luca.
+        Mutti hält sich in der Küche auf und spielt am Handy.
+        Marvin besucht mich und freut sich das es mir gut geht.
+        Um 16:00 gehe ich baden und entspanne mich.
+
+17:30 - Mutti hat Kasslerbraten gekocht und wir essen.
+        Ich schalte den Computer aus. Genug für Heute.
+        Ich telefoniere kurz mit DejaVu... Muttis Freund Hotti soll mein altes Handy erhalten,
+        und er soll es neu einrichten.
+        Mutti bringt das Handy dann die Tage vorbei.
+
+19:00 - Ich fahre mit dem Zug wieder zurück nach Ringelheim.
+        Die Fahrt kommt mir recht kurz vor, und verläuft ruhig und nach Plan.
+
+21:00 - Ich synchronisiere meinen Laptop und höre etwas SlayRadio.
+        Es findet eine Show statt, in der die Remixes vom letzten Jahr vorgestellt werden.
+        Es steht wieder RotY an: "Remixer of the Year" - ein schönes Event in der C64/Amiga Musikszene.
+        Tischtennis verpasse ich knapp, aber die Jungs machen eine WhatsApp Gruppe auf,
+        an der ich teilnehme, um uns besser abzustimmen.
+
+22:30 - Ich arbeite noch etwas an einer neuen WeChall/CGX Challenge "TBS Rehearsal".
+        Der Text von unserem TBS Lied wird leicht abgeändert, so das die Änderungen einen kurzen Lösungssatz ergeben.
+        Ich gehe um 23:00 schlafen.
+
+=====================================================================================================
+
+Mon, 15.Jan.2024
+
+06:30 - Ich werde recht spät wach.
+        Schnell eine rauchen und zum Frühstück.
+        Heute habe ich 6 Termine auf dem Programm... das wird anstrengend.
+
+07:30 - Nach dem Frühstück lege ich mich eine Stunde hin.
+
+08:30 - Gruppentherapie.
+        Wir erzählen von unserem Wochenende.
+
+10:00 - Selbstsicherheitstraining
+        Wir reden wieder über Kommunikation. Die Zeit geht schnell rum.
+
+12:00 - Mittagessen.
+        Spinat mit Ei und Kartoffelbrei.
+
+12:30 - Ich ruhe mich etwas aus
+    
+18:30 - Die Anonymen Alkoholiker besuchen uns.
+        Ein einzelner Redner in einem kleinen Kreis.
+        Er erzählt ein wenig, ist aber nicht sehr überzeugend.
+        Nach einer halben Stunde hat niemand mehr Fragen,
+        und er schliesst die Gruppe eine ganze Stunde eher als geplant.
+        Ich hätte schon noch was Fragen können, habe ihn aber auflaufen lassen.
+        Keine Lust... und Anonyme Alkoholiker sind komisch.
+
+19:00 - Ich gehe früh zu Bett, und verschlafe die Medis.
+
+======================================================================================
+Tue, 16.Jan.2024
+
+08:00 - Ich habe das Frühstück verpasst.
+
+08:30 - Nordic Walking... entspannt einmal um den Block
+
+09:30 - Gruppentherapie - Wir besprechen unsere Drogenkarrieren.
+        Nur 3 Leute werden in einer Stunde geschafft... nächste mal mehr.
+
+13:00 - Kognitives Training - 10 Gegenstände für 20 Minuten merken, etwas sehr einfaches Kopfrechnen.
+        Langweilig.
+
+14:00 - Ich gehe einkaufen, und werkel danach am Scanprojekt weiter.
+
+17:00 - Abendessen, danach weiter Scanprojekt.
+        Aufräumen mit meinem Ex-Zimmerkumpel, der nun ein Einzelzimmer hat.
+
+19:00 - EDV Grundkurs.
+        Nur 3 Leute neben mir... Ich wollte etwas unterstützen,
+        aber die Kursdame hat alles gut im Griff.
+        Morgen schaue ich nochmal rein, damit ich eine Visitenkarte designen kann.
+
+    
+======================================================================================
+    
+Wed, 17.Jan.2024
+
+05:00 - Heute werde ich früh wach, und werkel etwas am Scanprojekt
+
+07:00 - Frühstück, und etwas programmieren.
+        Danach rasieren und Duschen.
+
+09:00 - Vollversammlung.
+        Danach letzter Schliff am Zimmer, es ist gleich Kontrolle.
+        Ich lade meinen Tischtenniskumpel ein, ein paar Rick&Morty-Folgen auf sein Handy zu kopieren.
+
+10:30 - Zimmerkontrolle - dieses mal keine Beanstandung
+
+19:00 - Ich versuche es wieder im EDV Grundkurs.
+        Dieses mal drucken wir eine Visitenkarte.
+        Ich fühle mich total unsicher, wie ein Kind am ersten Schultag.
+        Wir nutzen ein total schlechtes Visitenkarten-Programm: "Design PRO"
+        Die externe Fortbildungskraft gibt mir endlich Feedback zu meinen Seiten.
+        Sie zeigt mir meine kleine selbstgebastelte Visitenkarte - "Sind Sie das?"
+        Ich bejahe und sie kann mit meinen Seiten nichts anfangen.
+        Sie ist trotzdem ein wenig beeindruckt.
+
+21:00 - Medis und ab ins Bett
+
+=================================================================================
+
+Thu, 18.Jan.2024
+
+08:00 - Ich verschlafe wieder das Frühstück und das "Kognitive Training".
+        Den Weckton an meinem Handy muss ich unbedingt ändern.
+
+        Unsere Gruppe will morgen Pizza essen gehen,
+        aber ein Patient will aus Kostengründen nicht mitkommen.
+        Eine Patientin organisiert heimlich eine kleine Sammlung, so dass alle mitkönnen.
+
+        Ich ruhe mich zwischen den Therapien wieder aus. Kein Programmieren heute.
+
+14:00 - Ergotherapie.
+        Ich bastel weiter an meiner QR-Code vorlage.
+        Dieses mal lasse ich die quadratischen Hilfslinien weg,
+        und markiere nur Bohrpunkte im Holz.
+        Ich hoffe es wird noch genau genug.
+        Danach ruhe ich mich wieder etwas aus.
+
+18:00 - Abendessen, danach Cafeteria Dienst.
+        Dabei muss man die Gäste ein wenig bewirten,
+        und die Einnahmen dokumentieren.
+        Ich habe eine 2L Flasche echte Cola mitgebracht,
+        weil es dort nur Zuckerfreie Getränkte - ohne Koffeein - gibt.
+        Verkaufen tun wir die Cola nicht, das wäre verboten.
+        Wir bieten Sie bei Gelegenheit gratis an.
+
+21:00 - Tischtennis.
+        Mein Partner und ich wieder im Doppel, um uns auf das Turnier vorzubereiten.
+        Medis und ab ins Bett.
 
 
+=================================================================================
+
+Fri, 19.Jan.2024
+
+08:30 - Schon wieder Frühstück verschlafen.
+        Die Zeit reicht noch für eine Zigarette, dann ab zur Organisationsgruppe.
+
+10:00 - Ich werkel ein wenig am Scanprogramm.
+        Das Entwickeln macht nicht viel Spaß, weil es einiger Schritte bedarf,
+        bis ich an die Stelle komme an der ich gerade arbeite.
+        Ich bin generell unzufrieden (noch) mit dem Ergebnis.
+
+12:00 - Mittagessen - Es gibt Fisch.
+
+13:00 - Arbeitgebergespräch.
+        Eine Therapeutin und ich warten auf meine alten Arbeitgeber.
+        Das Gespräch läuft nicht sehr gut.
+        Die beiden wollen mich vorerst nicht fest anstellen,
+        da ich erst noch beweisen müsse, das ich trocken bleibe.
+        Ich möchte allerdings eh lieber nach einer neue Arbeitstelle ausschau halten.
+        Als Hausaufgabe soll ich mich bei einigen Jobportalen registrieren.
+        Das steht eh seit längerem auf meiner ToDo.
+
+14:00 - Gruppensport
 
 
 
