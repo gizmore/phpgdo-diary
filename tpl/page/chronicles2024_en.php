@@ -553,8 +553,48 @@ Fri, 19.Jan.2024
         Wir spielen wieder Tischtennis.
         Danach gehe ich einkaufen, ich brauche noch 10 Euro Bargeld für den Italiener heute abend.
         Noch eine Stunde Tischtennis, und wir fahren mit 3 Autos los nach Salzgitter Bad.
+		
+18:00 - Beim Italiener
+		Ein Tisch für 14. Der beschenkte Patient bedankt sich.
+		Die Preise sind sehr human - 10€ für eine große Pizza, aber man kann seine Pizza nicht komplett selbst zusammenstellen.
+		Ein Patient fragt nach scharfem Chili, er ist dort schon bekannt.
+		Ich versuche auch etwas von dem Chili, und ja... höllisch scharf.
+		Ich bekomme einen roten Kopf und alle lachen :)
+		Insgesamt ein gelungener Abend.
+		
+===============================================================================
 
+Sat, 20.Jan.2024
 
+08:30 - Wieder Frühstück verschlafen -.-
+		Ich drehe mich wieder um... Keine Lust irgendetwas zu machen.
+		
+12:00 - Mittagessen. Es gibt eine Erbsensuppe mit Quarkspeise als Nachspeise.
+		Meine Motivation ist immer noch im Keller, und Muskelkater in den Beinen, also gehe ich wieder ins Bett.
+		
+18:00 - Abendessen.
+		Ich esse nur 2 Scheiben Brot.
+		Danach einen Kaffee, ich habe wieder Cafeteriadienst.
+		
+19:00 - Cafeteriadienst - Es ist nicht viel los.
+		Wir spielen ein wenig Karten.
+		Die Kasse stimmt gegen Ende, mit ganzen 1,20€ als Einnahmen.
+		
+21:00 - Medis. Ein Pfleger will nochmal ein wenig seine Internetseite besprechen.
+		Wir verabreden uns für Donnerstag, wenn er Nachtschicht hat.
+		Die Tischtennisplatten sind bereits eingepackt, also lege ich mich wieder schlafen.
+		Ein träger Tag.
+		
+===============================================================================
+
+Sun, 21.Jan.2024
+
+07:30 - Frühstück *fast* verschlafen, da es am Sonntag eine halbe Stunde später stattfindet
+		Danach packe ich meine Sachen und fahre nach Peine nach Hause.
+		
+11:00 - 
+		
+		
 
 
 
