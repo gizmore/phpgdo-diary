@@ -550,6 +550,10 @@ Fri, 19.Jan.2024
         Das steht eh seit längerem auf meiner ToDo.
 
 14:00 - Gruppensport
+        Wir spielen wieder Tischtennis.
+        Danach gehe ich einkaufen, ich brauche noch 10 Euro Bargeld für den Italiener heute abend.
+        Noch eine Stunde Tischtennis, und wir fahren mit 3 Autos los nach Salzgitter Bad.
+
 
 
 
