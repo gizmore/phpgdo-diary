@@ -592,11 +592,41 @@ Sun, 21.Jan.2024
 07:30 - Frühstück *fast* verschlafen, da es am Sonntag eine halbe Stunde später stattfindet
 		Danach packe ich meine Sachen und fahre nach Peine nach Hause.
 		
-11:00 - 
-		
-		
+11:00 - In Peine angekommen arbeite ich ein wenig am Scanner Programm.
+        Zuhause klappt das besser als am kleinen Laptop.
 
+14:00 - Lazer kommt vorbei, wir bestellen etwas beim Chinesen.
+        Dieser liefert auch schnell und lecker.
+        Wir suchen neue Folgen von Rick&Morty im Internet und kopieren auf unsere USB Sticks.
 
+15:00 - Ich gebe DejaVu ein wenig Online-Nachhilfe im Programmieren.
+        Das klappt nicht so gut.
+        Microsoft Teams versagt seinen Dienst und wir weichen auf Discord aus.
+        Eine grauenhafte Platform, aber wir schaffen noch 30 Minuten produktiv zu arbeiten.
+
+17:00 - Marvin und Mutti kommen vorbei, auch er braucht ein paar neue YouTube-Folgen auf seinen Stick.
+        Wir trinken einen Kaffe und laden eine Leiter aus dem Auto aus.
+        Die brauchen wir dann für Renovierungsarbeiten.
+
+19:00 - Schon ist wieder ein Tag daheim vorüber.
+        Mutti fährt uns zum Bahnhof, und ab geht's in's zweite Zuause in Ringelheim.
+        In Braunschweig ist der McDonalds und Burgerking zu voll, also hole ich mir ein paar Süßigkeiten im Roßmann.
+
+21:00 - Wieder in Ringelheim gehe ich Pusten und hole meine Medis.
+        Danach etwas Tischtennis, mein Partner hat allerdings keine Lust.
+        Er hat gestern den ganzen Tag gespielt.
+
+22:00 - Ich arbeite ein wenig an meiner Firmenwebsite und dem Bootstrap5Theme.
+        Nächste Woche will ich ein paar Job-Börsen für mich konfigurieren.
+
+23:30 - Ich gehe in's Bett, kann aber nur schwer einschlafen.
+        Viel auf meiner ToDo, und für neue Ideen ist keine Zeit :(
+
+===================================================================================
+
+Mon, 22.Jan.2024
+
+06:15 - Ich werde wach und stehe auf. Zwei Zigaretten und ein Kaffee zum ersten Frühstück.
 
 
 </pre>
