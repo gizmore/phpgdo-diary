@@ -649,12 +649,14 @@ Tue, 22.Jan.2024
         4h in den Sand gesetzt.
         Ich gebe auf und plane ein Seidentuch zu bemalen.
 
+17:00 - Abendessen, Medis, Tischtennis und ab ins Bett.
+
 ===================================================================================
 
 Wed, 22.Jan.2024
 
-07:00 - Frühstück
-
+07:00 - Frühstück, diesmal Rechtzeitig.
+        Ich dusche und räume noch etwas auf.
 
 09:00 - Vollversammlung und Zimmervisite
         Dies geht heute schnell über die Bühne.
@@ -675,6 +677,7 @@ Wed, 22.Jan.2024
 
 16:00 - Ich erstelle ein LinkedIn account, aber LinkedIn überzeugt nicht gerade.
         Das UserInterface ist kompliziert und funktioniert nicht richtig.
+        Ich werkel weiter an meiner itmb.online Hauptseite.
 
 ===================================================================================
 
@@ -722,6 +725,18 @@ Fri, 26.Jan.2024
         Heute will ich mal wieder etwas schaffen.
         Die Motivation ist etwas besser.
 
+09:00 - Organisation
+        Nach nur 15 Minuten sind wir fertig.
+        Ich arbeite weiter an meinem Internetauftritt.
+        Viele gravierende Probleme sind nun behoben.
+
+14:00 - Gruppensport. Wir spielen ein Spiel das ich nicht kenne.
+        Mein Zerrug im Arm macht keinen Spaß,
+        und nach einer halben Stunde wechsel ich auf die Zuschauerbank.
+
+15:00 - Wochenende!
+        Ich werde ein Debian ServerUpgrade auf Box5 durchführen.
+        Erstmal ein Backup erstellen...
 
 ===================================================================================
 
