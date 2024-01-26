@@ -627,6 +627,102 @@ Sun, 21.Jan.2024
 Mon, 22.Jan.2024
 
 06:15 - Ich werde wach und stehe auf. Zwei Zigaretten und ein Kaffee zum ersten Frühstück.
+        Ich will heute meine Firmenwebsite in Angriff nehmen.
+        Die alte Version ist grauenhaft, die neue steht ungeschliffen in den Startlöchern.
+        Ich miete mir eine neue Domain: [https://itmb.online](Firmenwebseite).
+        Danach beseitige ich unschönheiten und gebe etwas mehr Text zum Besten.
 
+        Die Therapien interessieren mich heute wenig.
+
+        Ich gehe einkaufen und verbringe den Abend mit programmieren.
+        Ich komme nur langsam voran.
+
+===================================================================================
+
+Tue, 22.Jan.2024
+
+08:00 - Wieder Frühstück verschlafen.
+        Ich schaffe es gerade noch rechtzeitig zum "Nordic Walking" zu kommen.
+
+14:00 - In der Ergotherapie zerbohre ich meine QR-Code Schablone.
+        Das Sperrholz ist zu faserig für die vielen kleinen Bohrungen.
+        4h in den Sand gesetzt.
+        Ich gebe auf und plane ein Seidentuch zu bemalen.
+
+===================================================================================
+
+Wed, 22.Jan.2024
+
+07:00 - Frühstück
+
+
+09:00 - Vollversammlung und Zimmervisite
+        Dies geht heute schnell über die Bühne.
+
+11:00 - Entspannung
+        Ich kann nicht so recht abschalten, zuviele Dinge die ich zu Erledigen habe.
+        Ich rufe beim Zahnarzt an, welcher meint ich solle mich melden, wenn ich dan Plan für nächste Woche habe.
+
+13:00 - Einzelgespräch mit Psychologin.
+        Wir bereden meinen "geplanten Rückfall" - Ich würde gerne mal wieder etwas trinken.
+        Wir wägen eine Pro- und Kontramatrix ab...
+        Ich bin immer noch unentschlossen, ob bald mal wieder etwas trinke.
+
+14:00 - Einkaufen und danach noch ein wenig arbeiten an der Firmenwebseite.
+        So langsam ist das Ergebnis ausreichend.
+        Als nächstes muss ich mich um das Portfolio kümmern.
+        Viele meiner Projekte sind grauenhaft runtergekommen.
+
+16:00 - Ich erstelle ein LinkedIn account, aber LinkedIn überzeugt nicht gerade.
+        Das UserInterface ist kompliziert und funktioniert nicht richtig.
+
+===================================================================================
+
+Thu, 22.Jan.2024
+
+07:30 - Frühstück verschlafen, ab zum Kognitiven Training.
+        Das verläuft nicht so gut... ich mache Fehler.
+        Danach Gruppentherapie.
+        Ich stelle meine Alkoholkarriere vor.
+        Mein Tischtennispartner schlägt vor, das ich doch Tüten rauchen kann, anstatt Alkhohol.
+        Ich sage da nichts zu, sonst heisst es wieder ich verhamlose Drogen.
+
+10:00 - Ich lege mich wieder hin.
+
+13:00 - Mittagessen verschlafen. Ergotherapie
+        Mein Seidentuch wird ganz schön groß; 130cm * 35cm.
+        Ich will dieses Banner [https://www.wechall.net/tpl/wc4/artwork/wechall.jpg](Banner Bild)
+        als Vorlage verwenden.
+        Ich plane ein wenig. Als Muster ein Labyrinth, mit silbernem Gutter will ich wohl die Pfade malen,
+        mit verschiedenen Blautönen als Wand- und Hintergrundfarbe.
+
+15:00 - Ich lege mich wieder hin.
+        Keine Lust irgendetwas zu unternehmen.
+
+18:00 - Abendessen.
+        Danach lege ich mich wieder hin und schaue ein wenig YouTube.
+        Nicht mein Tag.
+
+
+===================================================================================
+
+Fri, 26.Jan.2024
+
+04:00 - Ich werde wach, die Stimmung ist etwas besser.
+        Ich weiss nicht, was ich als nächstes tun will.
+        Ein YT Video aufnehmen, An meiner Bewerbung arbeiten - was eine Riesenbaustelle ist,
+        oder mich um [es-land.net](ESL) kümmern...
+        hier würde eine erste eigene Petitionsidee ausgearbeitet, oder am Forumdesign gewerkelt.
+        Es haben mich einige leute kontaktiert, und ich hatte gepennt.
+        Ich bin nicht sehr motivierend :(
+        Ich schreibe ein wenig diesen Bericht nach.
+
+07:00 - Frühstück,
+        Ich esse nur ein Brötchen ohne großen Appetit.
+        Heute will ich mal wieder etwas schaffen.
+        Die Motivation ist etwas besser.
+
+
+===================================================================================
 
 </pre>
