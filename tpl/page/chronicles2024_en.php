@@ -735,8 +735,25 @@ Fri, 26.Jan.2024
         und nach einer halben Stunde wechsel ich auf die Zuschauerbank.
 
 15:00 - Wochenende!
-        Ich werde ein Debian ServerUpgrade auf Box5 durchführen.
-        Erstmal ein Backup erstellen...
+        Ich führe ein Debian ServerUpgrade auf Box5 durch.
+        Außerdem ändere ich das Format für Links/URLs.
+        Von "module/method/param/param2.html" zu "module_method_param_param2.html".
+        Das sollte bessere Ergebnisse in Suchmaschinen hervorrufen.
+
+17:00 - Einkaufen - Ich brauche Süßigkeiten und Zigaretten
+
+18:00 - Abendessen.
+        Ich verabrede mich mit einem Patienten morgen zusammen Zug zu fahren.
+        Mutti will mich von Hoheneggelsen abholen.
+        Alles gut geplant :)
+
+19:00 - Weiter geht's mit programmieren...
+        Nach dem Server-Update habe ich volle Punktzahl bei Performance-Messungen :)
+        Nur für Blinde ist es *noch* etwas ungeeignet... da mache ich mich jetzt auch dran.
+        Es fehlen noch Texte für Bilder und einige Knöpfe.
+        Perfekt ist weit weg, aber gut ist mein phpgdo allemal *freu*
+
+22:00 - Medis
 
 ===================================================================================
 
