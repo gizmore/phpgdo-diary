@@ -882,6 +882,23 @@ Tue, 30.Jan.2024
 
 Wed, 31.Jan.2024
 
+08:00 - Wieder verschlafen -.-
+        Frühstück und Gewichtskontrolle verpasst.
+        Ich installiere endlich eine neue Wecker-App mit besseren Wecktönen.
+
+09:00 - Vollversammlung
+        Vorstellungen und Verabschiedungen.
+        Bei der Ämterverteilung haben wir schwierigkeiten einige Positionen zu besetzen.
+
+10:00 - Zimmervisite ohne Beanstandungen.
+        Ich werkel ein wenig an meinen Profilen auf den Job-Börsen.
+
+11:30 - Entspannung und Mittagessen
+        Es gibt Gyros mit Reis und Gemüse. Lecker aber etwas wenig.
+        Ich gehe noch schnell einkaufen und widme mich dann wieder meinen Webseiten.
+
+13:00 -
+
 
 
 </pre>

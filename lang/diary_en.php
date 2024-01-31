@@ -2,19 +2,19 @@
 namespace GDO\Diary\lang;
 
 return [
-	'keywords' => 'gizmore, diary, alcoholic drinking rules, crazy diaries',
+	'site_keywords' => 'gizmore, diary, alcoholic drinking rules, crazy diaries',
 
-	'mtitle_diary_welcome' => 'Welcome',
-	'mdescr_diary_welcome' => 'About gizmore and his diaries. Gizmore is a wannabe hacker from germany.',
+	'mt_diary_welcome' => 'Welcome',
+	'md_diary_welcome' => 'About gizmore and his diaries. Gizmore is a wannabe hacker from germany.',
 
-	'mtitle_diary_drinkingrules2021' => 'Drinking Rules',
-	'mdescr_diary_drinkingrules2021' => 'My (gizmore) drinking rules for 2021',
+	'mt_diary_drinkingrules2021' => 'Drinking Rules',
+	'md_diary_drinkingrules2021' => 'My (gizmore) drinking rules for 2021',
 
-	'mtitle_diary_intro' => 'Introduction',
-	'mdescr_diary_intro' => 'Introduction to the gizmore crazy diary scans',
+	'mt_diary_intro' => 'Introduction',
+	'md_diary_intro' => 'Introduction to the gizmore crazy diary scans',
 
-	'mtitle_diary_scans2014' => 'Diary Scans 2014',
-	'mdescr_diary_scans2014' => 'gizmore\'s diary Nov-Dec 2014. Badly scanned and handwritten.',
+	'mt_diary_scans2014' => 'Diary Scans 2014',
+	'md_diary_scans2014' => 'gizmore\'s diary Nov-Dec 2014. Badly scanned and handwritten.',
 
 	'link_diary' => 'Crazy Diaries',
 	'link_diary_alcrules' => 'Drinking Rules',
