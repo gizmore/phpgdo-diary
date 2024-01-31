@@ -21,4 +21,8 @@ return [
 	'link_diary_scans_diary' => 'Scans 2014 - Tagebuch',
 	'link_diary_scans_youth' => 'Scans 2014 - Geschichten',
 	'link_diary_scans_intro' => 'Scans 2014 - Einführung',
+
+    'link_gizmore_poem' => 'Gedicht 2023',
+    'link_gizmore_chronicles' => 'Chroniken 2023',
+    'link_gizmore_chronicles2024' => 'Chroniken 2024',
 ];

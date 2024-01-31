@@ -753,9 +753,135 @@ Fri, 26.Jan.2024
         Es fehlen noch Texte für Bilder und einige Knöpfe.
         Perfekt ist weit weg, aber gut ist mein phpgdo allemal *freu*
 
-22:00 - Medis
+22:00 - Medis, noch ein wenig Chat und ab in's Bett
 
 
 ===================================================================================
+
+Sat, 27.Jan.2024
+
+06:00 - Frisch und ausgeruht. Nach dem Frühstück gehe ich mit einer Patientin zum Bahnhof.
+        Ich kaufe noch schnell Kaffee und Milch im NP für zuhause ein, und los gehts.
+        Die Fahrt verläuft wieder reibungslos.
+
+09:00 - Mutti holt mich von Hoheneggelsen ab, wir fahren noch kurz zu Ihr auf einen Kaffee mit Hotti.
+        Wir verabreden uns für Morgen, wann der Sperrmüll raus soll.
+        Danach kaufen wir noch etwas ein und fahren nach Peine.
+
+12:00 - Ich repariere ein wenig meine Website, dann kommt Lazer vorbei.
+        Wir sortieren mein altes Zimmer aus.
+        Es ist schon merkwürdig. Mein ganzes Hab und Gut passt auf eine Fensterbank.
+        Abgesehen von den Computern und dem Bett, was nun im Wohnzimmer steht.
+
+16:00 - Lazer und ich gehen in die Stadt und zum Griechen was essen.
+        Ich bin ziemlich deprimiert und weiss nicht recht wie es weitergehen soll.
+        Wir gehen zum Griechen auf einen Grillteller. Meine Laune bessert sich ein wenig.
+
+18:30 - Wieder daheim kopieren wir noch zwei Folgen Rick&Morty für Lazer auf einen Stick.
+        Mutti hat schon ein paar Türen von kleinen Schränken abgebaut.
+        Ich schaue ein wenig YouTube und werde schnell müde.
+        Marvin kommt vorbei, wir planen ein wenig den Sperrmüll morgen.
+
+21:00 - Ich gehe früh zu Bett und schlafe im Wohnzimmer.
+
+==========================================================================
+
+Sun 28.Jan.2024
+
+08:00 - Ich werde wach und will nicht aufstehen... also nochmal umdrehen.
+
+13:00 - Ich stehe auf... Ein Plausch mit Mutti, Kaffee, Zigaretten.
+
+14:00 - Marvin kommt vorbei. Wir fangen langsam an ein paar Bretter und einen Schrank hinunterzutragen.
+
+15:00 - Hotti kommt mit einem Freund. Sie sortieren den Sperrmüll und nehmen verwertbares mit.
+
+15:30 - DejaVu kommt. Er baut die restlichen Schränke auseinander.
+        Seine Freundin kümmert sich mit Mutti um den Keller.
+        Es ist noch so einiges an Flohmarktzeug dort von ihr, und viel Gerümpel von Mutti.
+        Marvin und ich schleppen weiter Sperrmüll.
+
+16:00 - Das gröbste ist geschafft. Ich mache ein wenig Pause, dann helfe ich im Keller.
+
+17:00 - Wir sind fertig.
+        Alles hat gut geklappt, und ich freue mich das ich die kurze Schlepperei gut durchgestanden habe.
+        Wir planen noch was wir essen können. DejaVu und seine Freundin fahren schon einmal nach Hause.
+        Hotti und sein Freund wollen ebenfalls nichts.
+        Ich bestelle einen Dönerteller für Mutti, Marvin und mich.
+
+18:00 - Wir essen Dönerteller, danach packe ich meine Sachen und es geht schon bald wieder ab nach Hause in Ringelheim.
+        Die Bahnfahrt verläuft wieder ohne vorkommnisse.
+
+21:00 - Wieder in Ringelheim.
+        Für Tischtennis komme ich zu spät.
+        Ich hole mir noch Medis für die Nacht und gehe schlafen.
+
+=======================================================================================
+
+Mon, 30.Jan.2024
+
+05:30 - Heute bin ich ausgeruht, Ich trinke Kaffe und rauche eine,
+        dann muss ich zur Blutentnahme.
+
+07:00 - Frühstück.
+
+09:00 - Ergotherapie.
+        Ich werkel weiter an meinem Schal und habe nun einen genauen Plan.
+        Die Therapeutin ist der meinung es sollte funktionieren.
+        Hoffentlich schafft tehron bald die 100% auf WeChall, so dass der Schal ihm gebührt.
+
+12:00 - Mittagessen und ein schläfchen.
+
+14:00 - Wieder Ergotehrapie
+        Ich bin der einzige und schaffe nicht viel vom Labyrinth einzuzeichnen.
+        Das wird noch eine Weile dauern.
+
+16:15 - Themenzentrierte Gruppe.
+        Thema heute: Drogen neben dem Alkohol.
+        Zwei bis drei Patienten haben hier recht viel Erfahrung.
+        Ich erzähle auch ein wenig von meinen Erfahrungen.
+        Die Stunde ist interessant und wir überziehen 15 Minuten.
+
+17:30 - Abendessen und eine Einweisung in den Auf- und Abdeckdienst von einer Patientin.
+        Ich bin am Sonntag mit diesem Dienst an der Reihe.
+
+19:00 - Ich chatte ein wenig, dann geht es ab zum Tischtennis.
+        Die Platten sind belegt, ich schaue ein wenig zu, und spiele dann noch eine halbe Stunde.
+
+21:00 - Ich gehe wieder früh zu Bett.
+
+==================================================================================
+
+Tue, 30.Jan.2024
+
+08:30 - Frühstück und Nordic Walking verschlafen.
+        Die Reinigungsfachkraft weckt mich und will das Zimmer für einen neuen Zimmerkumpel säubern.
+        Ich gehe Richtung Rauchen und Therapiegruppe.
+
+09:30 - Gruppentherapie
+        Wir besprechen "Kontrolliertes Trinken".
+        Das offizielle Konzept ist nicht sonderlich attraktiv.
+        Ich könnte mir evtl vorstellen vllt nur 2x im Monat zu trinken...
+        Aber ich werde erst einmal nüchtern bleiben solange ich kann.
+
+11:30 - Visite beim Oberarzt
+        Ich bekomme in Lob dafür, dass ich trocken bleiben will.
+        Meine Medis will ich reduzieren... ich denke ich bin bereit dafür.
+
+12:00 - Mittagessen
+        Wieder Fisch, meine Tischnachbarin hatte mich heute beim Frühstück vermisst.
+        Danach lege ich mich wieder hin.
+
+16:00 - Ich habe die Ergotherapie heute nicht wahrgenommen.
+        Ich rauche ein paar Zigaretten, räume auf, mache Wäsche, und gehe zum Abendessen.
+        Danach einkaufen und weitere arbeiten an meinen Projekten.
+
+21:00 - Kein Tischtennis heute. Ich hole meine Medis und arbeite ein wenig.
+
+===========================================================================================
+
+Wed, 31.Jan.2024
+
+
 
 </pre>

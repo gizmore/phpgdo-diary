@@ -5,6 +5,7 @@ use GDO\Birthday\Module_Birthday;
 use GDO\Core\GDO_Module;
 use GDO\Core\Method;
 use GDO\Diary\Method\Welcome;
+use GDO\Language\Module_Language;
 use GDO\UI\GDT_Link;
 use GDO\UI\GDT_Page;
 
@@ -48,6 +49,9 @@ final class Module_Diary extends GDO_Module
 		$m = Module_Birthday::instance();
 		$m->saveConfigVar('global_min_age', '18');
 		$m->saveConfigVar('method_min_age', '18');
+
+        $m = Module_Language::instance();
+        $m->saveConfigVar('languages', '["en","de"]');
 	}
 
 	public function onIncludeScripts(): void
