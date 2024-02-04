@@ -897,8 +897,124 @@ Wed, 31.Jan.2024
         Es gibt Gyros mit Reis und Gemüse. Lecker aber etwas wenig.
         Ich gehe noch schnell einkaufen und widme mich dann wieder meinen Webseiten.
 
-13:00 -
+17:00 - Abendessen
+        Danach ruhe ich mich ein wenig aus.
+        YouTube und auf dem Bett liegen.
+
+===========================================================================================
+
+Thu, 1.Feb.2024
+
+08:30 - Gruppentherapie
+        Zwei Leute verlassen uns nächste Woche, Neuankömmlinge stellen sich etwas vor.
+        Ich verbringe die Pausen mit schlafen
+
+11:30 - Einzelgespräch mit meinem Psychologen
+        Wir reden ein wenig über meine Antriebsstörungen und meine Pläne nach der Therapie.
+    
+12:00 - Mittagessen
+        Danach arbeite ich weiter an meinem ESL Projekt.
+
+13:00 - Ergotherapie
+        Die arbeiten an meinem Schal gehen nur langsam voran.
+        Ich hoffe ich bekomme diesen noch fertig, bevor ich die Therapie abschliesse.
+
+17:00 - Selbst-Organisiation
+        Wir verteilen Dienste und sind schnell fertig.
+        Dann Abendessen und ein wenig Tischtennis
+    
+21:00 - Medis und wieder früh in's Bett.
 
 
+===========================================================================================
+
+Fri, 2.Feb.2024
+
+08:00 - Schon wieder das Frühstück verpasst, und einen Termin beim Zahnarzt.
+        Ich bekomme eine Füllung für einen Weisheitszahn.
+        Kurz und schmerzlos.
+
+09:00 - Organisationsgruppe.
+        Danach gebe meinem Ex-Azubi auf Arbeit einen kleinen Tipp zur Programmierung,
+        dann überarbeite ich mein "Instaffo Profil".
+
+12:00 - Mittagessen.
+        Es gibt wieder Fisch. Kleine Lachsröllchen glaube ich.
+
+13:00 - Ich veröffentliche 2 neue Hack-Rätsel.
+        Ein kleines Stegano, mit einer versteckten Nachricht, die man erhält wenn man 2 Songtexte miteinander vergleicht.
+        Nicht sehr kreativ, aber der Songtext wurde damals von uns verfasst, für die erste Hackerseite die ich gespielt habe.
+        [Hidden in the Hint](https://www.youtube.com/watch?v=2SZ86fI3CLU)
+
+17:00 - Abendessen.
+        Danach will ich ein wenig für das Tischtennisturnier morgen trainieren,
+        aber ich finde keinen vernünftigen Trainingspartner.
+        Alle sind erkältet oder zu Hause.
+        Ich übe ein wenig Unterschnitt mit einer neuen Patientin.
+
+21:00 - Ich gehe früh zu Bett.
+
+==========================================================================
+
+Sat, 3.Feb.2024
+
+10:00 - Wieder komplett verschlafen und Frühstück verpasst.
+        Ich mache mich fertig für das Tischtennisturnier.
+        Ich packe einen Mr.Tom Riegel ein, und zwei Wasserflaschen.
+        Ein Mitpatient und ich gehen zu zweit los.
+        Auf der Hälfte des Weges fällt ihm auf, dass er gar keinen Tischtennisschläger dabei het -.-
+        Wir drehen nochmal um.
+
+11:15 - Wir betreten die recht kleine Halle.
+        9 Platten sind aufgebaut, und es ist fast ein wenig eng.
+        Glücklicherweise ist noch eine Platte frei, so dass wir uns ein wenig warmspielen können.
+
+12:00 - Das Turnier beginnt.
+        60 Teilnehmer in 4 Kategorien; Senioren, Schüler, Damen und Herren.
+        In meiner Herrengruppe sind 20 Teilnehmer.
+        Wir werden in 4 Gruppen zu je 5 Spielern aufgeteilt.
+        Ich habe also 4 Gruppenspiele zu absolvieren.
+        2 leichte Gegner, die ich ohne Probleme schlage.
+        2 schwerere Gegner, wo ich eines knapp gewinne und eines knapp verliere.
+        Ich komme immerhin weiter.
+        Ich esse zwei Stück Kuchen (je 50 cent) und eine Wurst (1 Euro).
+        Gute Preise.
+
+14:00 - Viertelfinal. Dieser Gegner hat keine chance.
+        Im Halbfinale spiele ich gegen meinen Gruppengegner den ich nur knapp besiegt hatte.
+        Ich scheide aus und werde damit 3. oder 4. *snap*
+
+17:00 - Siegerehrung.
+        Es werden alle nacheinander aufgerufen und geehrt.
+        Ich komme auf den 4. Platz
+        Jeder darf sich einen Preis aussuchen, die von den vielen Sponsoren gestiftet wurden.
+        Jede Menge Gutscheine und Krempel.
+        Die Gutscheine kann ich nur schwer lesen - ich brauche echt ne Brille -
+        und entscheide mich für eine Tasse mit Stift und Sportsocken.
+
+18:00 - Wieder in der Klinik esse ich endlich ordentlich Abendbrot.
+        Ich erzähle von meinem 4. Platz.
+        Danach gehe ich noch mit einem Mitpatienten einkaufen.
+
+20:00 - Mir tun die Füße weh und lege mich auf's Bett.
+        Heute kein Computer mehr, nur etwas Youtube und schlafen.
+        Morgen früh habe ich Aufdeckdienst.
+
+
+=========================================================================================
+
+Sun, 4.Feb.2024
+
+07:20 - Schon wieder verschlafen, dabei hatte ich Aufdeckdienst
+        Mein Dienstpartner nimmt es zum Glück gelassen und hatte die Arbeit rechtzeitig erledigt.
+        Beim Rauchen treffe ich einen weiteren Softwareentwickler.
+
+09:00 - Ich widme mich wieder meinen Webseiten und diesem Bericht.
+
+12:00 - Mittagessen und Aufdeckdienst
+        Es gibt Rinderbraten mit Kartoffeln und Bohnen.
+        Danach fahre ich nach Braunschweig zum Tabakladen und nach Rossmann, Getränke kaufen.
+
+15:00 - Wieder arbeiten an ESL. Das Forum ist noch immer grauenhaft kaputt.
 
 </pre>
