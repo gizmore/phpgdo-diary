@@ -1016,5 +1016,103 @@ Sun, 4.Feb.2024
         Danach fahre ich nach Braunschweig zum Tabakladen und nach Rossmann, Getränke kaufen.
 
 15:00 - Wieder arbeiten an ESL. Das Forum ist noch immer grauenhaft kaputt.
+        Die Registrierung funktioniert auch nicht richtig.
+
+17:30 - Auf- und Abdeckdienst + Abendessen
+        Ich esse 3 dicke Brote.
+        Nach dem Abdecken helfe ich noch einer Gruppe beim Abwaschen.
+        Sie wären sonst nur zu zweit.
+
+========================================================================================
+
+Mon, 5.Feb.2024
+
+05:30 - Ich werde wach und stehe auf.
+        Ich habe von einem Rückfall geträumt.
+        Rum+Cola, eine Tüte. Dann am nächsten Tag Pfefferminzschnaps,
+        den ich dann ausspuckte. "Was mache ich da?!" - fragte ich mich im Traum.
+        Ich gehe runter zum rauchen.
+        Dort treffe ich meinen Partner für den Auf- und Abdeckdienst heute.
+
+06:30 - Auf- und Abdeckdienst + Frühstück
+        Mein Partner hat das Aufdecken schon innerhalb 5 Minuten erledigt.
+        Ich esse zwei Brötchen.
+
+08:00 - Filmvorführung.
+        Der Film heisst "28 Tage" mit Sandra Bullock in der Hauptrolle.
+        Nicht besonders gut... erinnert ein wenig an American Pie.
+        Das offene Ende ist allerdings OK. Die Hauptdarstellerin trennt sich von ihrem alten Leben.
+
+10:00 - Ich döse ein wenig und warte darauf, dass ich Aufdeckdienst machen kann.
+
+12:00 - Es gibt Pizzasuppe zum Mittagessen.
+        Danach Abdeckdienst.
+
+13:00 - Ich lege mich etwas hin, schlafe ein, und verpasse die Ergotherapie.
+
+16:00 - Themenzentrierte Gruppe
+        Wir besprechen den Film ein wenig.
+        Die meisten fanden ihn eher mittelmäßig, zuviel Hollywood.
+        Mein Humor war es auch nicht gerade.
+
+17:30 - Aufdecken, Abendessen, Abdecken.
+        Der Salat dieses mal war super. Broccolisalat und Käsesalat.
+        Einen Nachschlag gab es davon leider nicht
+
+18:00 - Ich lasse den Tag mit YouTube und Süßigkeiten ausklingen.
+
+20:30 - Ich hole Medis und lege mich wieder früh zu Bett.
+
+=====================================================================================
+
+Tue, 6.Feb.2024
+
+08:20 - Ich schlafe aus, habe wieder wild geträumt aber kann mich nicht erinnern.
+        Ich stehe gerade noch rechtzeitig für "Nordic Walking" auf.
+        Wieder eine halbe Stunde um den Block marschieren.
+        Ohne Zigarette! Als ich mir eine anstecken will gibt es ärger.
+
+09:30 - Gruppentherapie
+        Wir machen eine Checkliste für diese Woche.
+        Was wir uns vornehmen, und wie wir das umsetzen wollen.
+        Ich will bei meinem Schal gut vorankommen, mehr Kontakte knüpfen und weniger schlafen.
+        Mein Plan ist es, mein Bett zu machen nachdem ich aufstehe, so dass ich mich nicht wieder hinlegen kann.
+
+11:00 - Zahnarzt
+        Mir wird ein Zahn gezogen weil er schief rauswächst, da sein Gegenzahn seit langem fehlt.
+        Es geht recht schnell - und dank Betäubung - schmerzfrei über die Bühne.
+        Beim nächsten Termin will der Arzt eine Zahnreinigung machen, die ich selber Zahlen muss: 120€.
+        Danach gehe ich einkaufen. Zigaretten und Süßkram.
+
+12:00 - Mittagessen - Es gibt Backfisch.
+        Danach werkel ich ein wenig an meiner Foren-Software.
+
+14:00 - Ergotherapie
+        Ich komme ein wenig mit dem Schal voran.
+
+16:00 - Mein neuer Zimmerkumpel trifft ein.
+        Wir unterhalten uns kurz, er erzählt mir er sei starker Schnarcher.
+        Mal sehen wie die Nacht wird.
+        Ich widme mich wieder meinem Forum und unserem Admin tehron,
+        der den Schal dann erhalten soll.
+        Er lehnt diesen ab, aber ich kann ihn umstimmen. Er hat ihn wirklich verdient.
+        Naja... erstmal muss ich ihn fertig bekommen.
+        Nebenbei erstelle ich noch eine Hacker-Challenge, bei der ich nicht sicher bin,
+        ob man sie lösen kann.
+        Wieder ein schöner Punkt auf meiner ToDo.
+
+18:00 - Abendessen.
+        Danach noch ein wenig Forum.
+
+20:00 - Tischtennis
+        Wir spielen 6 Sätze doppel.
+
+22:00 - Medis und ab ins Bett.
+
+====================================================================================
+
+Wed, 7.Feb.2024
+
+06:00 -
 
 </pre>
