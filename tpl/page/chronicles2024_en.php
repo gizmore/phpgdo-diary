@@ -1113,6 +1113,109 @@ Tue, 6.Feb.2024
 
 Wed, 7.Feb.2024
 
-06:00 -
+05:00 - Ich werde wach und fühle mich fit. Der Muskelkater ist kaum merkbar.
+        Ich gehe ein paar Zigaretten rauchen, trinke Kaffee und schaue Nachrichten in der Teestube,
+        um meinen Zimmerpartner nicht zu wecken.
+
+06:00 - Gewichtskontrolle.
+        Diesmal nicht verschlafen.
+        Ich habe 1kg abgenommen. Erstaunlich, wo ich doch recht viel esse.
+        Ich gehe Duschen und zum Frühstück.
+
+08:00 - Ich wisch mein Zimmer und räume auf, für die Zimmervisite heute.
+
+09:00 - Vollversammlung
+        Neben den Vorstellungen und Abschieden werde ich für meinen Einsatz beim Tischtennisturnier gelobt.
+        Es ist ein wenig peinlich, aber auch recht wohltuend.
+        Der 4. Platz ist sicherlich ganz OK.
+
+10:00 - Zimmervisite.
+        Im mittelpunkt steht mein neuer Zimmerkumpel, es gibt einige Probleme mit dem Zimmer für ihn.
+        Ansonsten keine Beanstandungen.
+        Danach quatsche ich ein wenig mit meinem Zimmerkumpel und widme mich meinen Projekten.
+        Wir reden ein wenig über Datenschutz und Impressumspflicht.
+        WeChall hat zur zeit keine Cookie-Popups oder ein Impressum.
+        Das will ich bald nachholen.
+
+12:00 - Mittagessen
+        Es gibt Kohlrouladen, der Kohl ist noch recht knackig aber lecker.
+
+13:00 - Ich gehe einkaufen.
+        Energy Drink, Zigaretten, Schokolade
+        Danach weiter an meinem Forum basteln.
+
+14:30 - Einzelgespräch mit meinem Psychologen
+        Es gibt eine böse Überraschung.
+        In meiner letzten Blutuntersuchung wurde THC festgestellt.
+        Ich wurde erwischt.
+        Vor einigen Wochen habe ich am Wochenende etwas geraucht,
+        im Glauben, dass hier nicht auf THC getestet wird.
+        Glücklicherweise steht anscheinend nicht im Raum,
+        dass ich die Klinik verlassen muss.
+        Wir füllen ein Rückfallprotokoll aus.
+        Was dazu geführt hat, wie ich mich vorher und nachher fühlte,
+        was ich das nächste mal in so einer Situation machen will.
+        Ich plane ja, nach der Therapie weiterhin Cannabis zu konsumieren,
+        was ich auch kommuniziert habe.
+        Als echten Rückfall werte ich dies für mich nicht.
+        Mein plan ist es, nach getaner Arbeit gelegentlich etwas zu rauchen.
+        Während meiner Therapie werde ich auf jeden Fall nicht mehr konsumieren.
+        Bei einigen Fragen des Rückfallprotokolls habe ich Probleme.
+        Ich soll den Zettel mitnehmen und in Ruhe ausfüllen.
+
+15:00 - Ich schaue ein wenig YouTube und warte auf die Gruppe "Rückkehr an den Arbeitsmarkt"
+        Nebenbei fülle ich das Rückfallprotokoll weiter aus.
+
+16:00 - Ich gebe das Rückfallprotokoll ab, und bemerke, dass die Gruppe bereits um 15:00 Uhr war,
+        nicht um 16:00 -.-
+        Ich lege mich enttäuscht etwas hin.
+
+18:00 - Abendessen
+        Ich habe keinen großen Appetit, und esse zwei Brote und etwas Salat.
+        Der Käse im Aubergine Salat entpuppt sich als Tofu *blerch* :)
+        Nach dem Abendessen lege ich mich auf's Bett, YouTube gucken.
+
+21:00 - Medis, diesmal ohne Schlafmedikation, und ab in's Bett
+        Morgen werden wir meinen Rückfall besprechen
+
+=======================================================================================
+
+Thu, 8.Feb.2024
+
+08:00 - Ich hatte keine Lust aufzustehen, und stehe gerade rechtzeitig zur Therapie auf,
+        dass ich noch eine rauchen kann.
+
+08:30 - Gruppentherapie
+        Mein Zimmerkumpel und die Gruppe stellen sich vor.
+        Danach besprechen wir meinen Rückfall.
+        Ich erzähle wie wir im Stadtpark auf einige Bekannte treffen, Joint in der Hand.
+        Ich möchte auch etwas rauchen, und frage ob ich mal ziehen darf.
+        Ich wollte einfach mal ausprobieren, ob ich die Wirkung noch vertrage, und ob es angenehm ist.
+        Er gibt mir noch ein kleines Blütchen mit für zuhause und wir gehen stoned einkaufen.
+        Zuhause warte ich, bis Mutti einschläft und rauche noch etwas am Balkon.
+        Die meisten in der Gruppe finden meinen Rückfall nicht besonders schlimm.
+        Wir besprechen die negativen Folgen von Cannabis-Konsum.
+        Einige Patienten haben auch schlechte Erfahrungen mit THC gemacht.
+        unter Anderem Paranoia.
+        Ich habe auch eine Psychose, die wahrscheinlich durch THC induziert wurde.
+        Es ist auch eine genetische Veranlagung.
+        Es hat jahre gedauert, bis ich wieder ohne Angst kiffen konnte, und will mir das auch nicht nehmen lassen.
+        Eine Art Experiment, um meine Gedanken, die Welt, und Gefühle zu erforschen.
+        Ich weiss auch, dass es riskant ist, aber manchmal gehe ich auch gerne ein Risiko ein.
+        Ich hoffe das THC in Deutschland bald legal ist, weil viel der Paranoia auch daher rührt,
+        dass es illegal ist.
+        Am besten wäre es, wenn es in Apotheken gegen Ausweis verkäuflich würde,
+        anstatt der Pläne es über Vereine in Bürgerhand zu geben.
+        So könnte man es deutlich besser kontrollieren.
+        Auf jeden Fall bin ich erstmal wieder geheilt und habe auch kein Verlangen etwas zu trinken oder zu rauchen.
+
+09:30 - Ich widme mich diesem Bericht und WeChall.
+        Beim Rauchen fragt ein Mitpatient ob ich den Aufdeckdienst am Mittag übernehmen könnte.
+        Terminkollision. Ich sage das 5 Minuten Salat hinstellen kein Problem ist.
+
+12:00 - Mittagessen
+
+
+=================================================================================================
 
 </pre>
