@@ -1214,8 +1214,270 @@ Thu, 8.Feb.2024
         Terminkollision. Ich sage das 5 Minuten Salat hinstellen kein Problem ist.
 
 12:00 - Mittagessen
+        Es gibt Pizzasuppe. Diese gab es schonmal, die Gerichte wiederholen sich.
+        Die Tage ziehen sich.
+
+13:00 - Ergotherapie
+        Ich werkel weiter an der Vorlage für meinen Schal.
+        Die Vorlage ist bald fertig.
+
+16:00 - Rückkehr an den Arbeitsmarkt
+        Wir bekommen eine Liste mit positiven Adjektiven.
+        Davon streichen wir auf uns unzuteffendes durch.
+        Danach wählen wir 3 Stück aus, die auf unseren neuen Job passen sollen.
+        Ich wähle unter Anderem "Leute positiv beeinflussen".
+        Dies finden die anderen merkwürdig, undinterpretieren es anders als ich.
+        Ich denke dabei an meinen Azubi, oder wie ich anderen ein paar Tricks und Kniffe zeige.
+
+17:00 - Selbstorganisation
+        Ich und mein neuer Zimmerkumpel übernehmen das Amt des Gruppensprechers.
+        Dies bedeutet ein paar zusätzliche Aufgaben.
+        Anwesenheit beim Patientenrat sowie Vorsitz bei der Vollversammlung,
+        wenn unsere Gruppe an der Reihe ist.
+
+18:00 - Abendessen
+
+19:00 - Ich werkel ein wenig weiter an meinem Forum.
+        Die schlimmsten Mängel sind behoben.
+
+20:00 - Der vorherige Gruppensprecher zeigt mir,
+        wie das Protokoll der Vollversammlung auszufüllen, auszudrucken und zu verteilen ist.
+        Danach spielen wir ein wenig Tischtennis.
+
+22:00 - Medis, und ab in's Bett.
 
 
 =================================================================================================
+
+Fri, 9. Feb. 2024
+
+06:00 - Ich stehe früh auf. Fühle mich fit.
+        Eine neue Idee für ein Hacking Challenge kommt mir in den Sinn.
+        Diese muss ich noch ausarbeiten.
+
+09:00 - Organisation
+        Ich bin als Gruppensprecher total unvorbereitet,
+        aber das macht nichts.
+        Wir geben bekannt, wer sich um den Neuzugang kümmert, a.k.a Patenamt,
+        und wer Abends die Anwesenheitskontrolle vornimmt.
+
+10:00 - Ich lege mich etwas hin und schaue Mathevideos.
+        Endlich mal ein Video das ich verstehe. Es geht um die Mandelbrotmenge.
+
+12:00 - Mittagessen.
+        Es gibt Nudeln mit Thunfischsauce.
+        Ich bin etwas depremiert.
+        Eigentlich wollte ich ja dieses Wochenende von Freitag auf Sonntag zuhause schlafen.
+
+14:00 - Gruppensport
+        Wir spielen Völkerball.
+
+17:00 - Ich fahre nach Braunschweig und treffe mich mit Michael.
+        Wir fahren zu Pizza Hut und teilen uns eine große Pizza mit Käse im Rand.
+        Das Thema ist programmieren, er zeigt mir einige interessante YouTube Kanäle:
+        "The Coding Train"
+        Beim Quatschen vergessen wir die Zeit, und ich verpasse meinen Zug.
+        Ein Anruf bei der Klinik ist fällig, weil ich mich verspäte.
+
+22:00 - Wieder im Erlengrund.
+        Pusten, Medis und ab in's Bett.
+
+=================================================================================================
+
+Sat, 10. Feb. 2024
+
+08:30 - Verschlafen
+        Ich rauche eine und packe meine Sachen.
+        Ein Tagesausflug nach Hause.
+
+12:00 - Ich komme zuhause an.
+        Endlich mal wieder einen Kaffee mit Zigarette am PC.
+        Ich chatte ein wenig und warte auf Mutti.
+
+13:00 - Marvin und Mutti kommen.
+        Ich kopiere einige Videos auf Marvin's USB Stick.
+        Auch finde ich endlich wieder einen Weg, gestreamte Filme auf den PC zu speichern.
+        Das Chrome Plugin heisst VideoDownloadHelper, und ist nur etwas komisch zu bedienen,
+        tut aber sein Werk.
+
+14:00 - Lazer kommt vorbei.
+        Mutti plant Tapeten einzukaufen.
+
+15:00 - Wir fahren in den Baumarkt, kaufen Tapeten und Steckdosen.
+        Danach schmeisst uns Mutti in der Stadt raus, wir wollen was essen.
+        Mutti will nicht mit.
+        Wir gehen zu einem Chinesen den wir noch nicht ausprobiert haben.
+        Preise Ok. Schnelle Bedienung und lecker ist es auch.
+        Danach gehen wir zurück zu mir.
+        Der Suchtdruck nach Alkohol ist ziemlich hoch.
+
+17:00 - Wieder zuhause
+        Ich kopiere die neuesten Rick&Morty Folgen auf Lazer's USB Stick.
+        Eigentlich wollten wir nun zu meinem Bruder fahren,
+        aber dieser hat abgesagt.
+        Ich chatte noch ein wenig im Internet und quatsche mit Mutti.
+        Dann geht's ab zurück in die Klinik
+
+19:00 - Zugfahrt nach Ringelheim ohne Ereignisse.
+        Ich überlege weiter für meine Hacking Challenge,
+        und habe nun einen Plan wie ich es umsetze.
+
+21:00 - In Ringelheim angekommen.
+        Ich puste, nehme meine Medis und lege mich in's Bett.
+        Etwas YouTube zum einschlafen.
+
+=================================================================================================
+
+Sun, 11. Feb. 2024
+
+09:00 - Ich stehe recht spät auf, und mache mich an die Arbeit,
+        die neue Challenge zu implementieren.
+        Ich nehme ein fertiges Bootstrap5 Theme um eine kleine Webseite zu bauen.
+        Als Thema wähle ich eine Universitätsseite.
+        Ich baue die generelle Seitenlogik, Login, Registrierung, und ein wenig Studenten- und Professorenseiten.
+        Zwischendurch esse ich Mittag.
+        Danach geht es weiter mit PasswortVergessen, welches den eigentlichen Fehler enthält.
+        Diese Seite kann man ausnutzen, um das Passwort des Admins zurückzusetzen, wenn man weiss wie.
+        Man benötigt dazu allerdings den Nutzernamen und Email des Admins.
+        An diese Informationen gelangt man, indem man einen Ordner aufruft, der vom Versionskontrollsystem verwendet wird.
+        "Dummerweise" ist diese Seite verfügbar, und man kann so an den Quelltext der Seite gelangen.
+        Ein Anfängerfehler.
+
+18:00 - Abendessen
+
+19:00 - Ich mache mich weiter an die Challenge.
+        Es ist relativ viel Arbeit eine Webseite aus dem Boden zu stampfen, aber ich bin geübt.
+        Der eigentliche Fehler ist schön kaschiert und funktioniert.
+        Ich fange an die Einstiegseite auf WeChall einzubauen.
+        WeChall und die neue verwundbare Seite müssen interagieren, um zu prüfen wer das Rätsel geschafft hat.
+
+21:00 - Medis und ab in's Bett.
+
+=================================================================================================
+
+Mon, 12. Feb. 2024
+
+07:00 - Mein Zimmerkumpel weckt mich.
+        Ich gehe zum Frühstück.
+        Danach geht's weiter an die Challenge.
+        Mein Admin tehron hilft mir, den Mailserver und den Webserver zu konfigurieren,
+        so dass ich die Seite installieren kann.
+
+08:30 - Gruppentherapie
+        Wir besprechen das Wochenende.
+        Ich erzähle von meiner Challenge und bekomme einen roten Kopf...
+        Irgendwie ist es ein komisches Gefühl von Dingen zu erzählen, die andere nicht wirklich verstehen.
+
+11:00 - Das Challenge geht Online \o/
+        Ich hoffe sie kommt gut an.
+
+12:00 - Mittagessen
+        Danach behebe ich noch einige Probleme in der Challenge.
+        Noch hat es keiner gelöst.
+        Der Admin tehron versucht sich ein wenig, findet aber den versteckten Quelltext nicht.
+
+13:00 - Patientenrat
+        Ich habe unseren Gruppenzettel vergessen und muss ihn während der Versammlung holen. Peinlich.
+        Nach einer halben Stunde ist alles besprochen.
+
+14:00 - Ergotherapie
+        Die Vorlage des Schals ist fast vollendet.
+
+15:00 - Ich gebe tehron einen Hinweis auf den versteckten Quelltext.
+        Ich wundere mich, dass er diesen nicht gefunden hat.
+        Das der ".git" Ordner manchmal verfügbar ist, ist eine recht bekannte Schwachstelle,
+        und der Titel der Challenge "Gid Gud" ist ein kleiner Hinweis.
+
+17:00 - Themenzentrierte Gruppe
+        Wir spielen Tischtennis und Wikingerschach.
+        Ich entscheide mich für Tischtennis und wir spielen ein Doppel.
+        Meine Partnerin hat viel Spaß, mein Tischtenniskumpel und ich halten uns etwas zurück.
+        Nach der "TZG" zeigen mein Kumpel und ich einer Patienten, wie wir wirklich spielen.
+        Sie scheint beeindruckt.
+
+18:00 - Abendessen
+        Danach schaue ich wieder nach meiner Challenge.
+        Noch immer hat es keiner gelöst.
+
+19:00 - Tehron hat es endlich geschafft.
+        Er bewertet mit einer Schwierigkeit von 5/10 und Spaßfaktor 6/10.
+        Ich bin zufrieden.
+        Wir beheben noch einige Probleme mit dem Mailversand.
+
+20:00 - Tischtennis
+        Zuerst eine Stunde Doppel, dann spielen ich und mein Kumpel 3 Gewinnsätze.
+        Danach Medis und ab in's Bett.
+
+==============================================================================================
+
+Tue, 13.Feb.2024
+
+07:00 - Frühstück
+        Ich esse ein Brötchen und trinke Kaffee
+
+07:45 - Imagination
+        Wir sollen uns gedanklich einen Rückzugsort vorstellen.
+        Dies mache ich eigentlich öfters.
+        Ich stelle mir vor ich sitze vor einem Schloß im Garten und meditiere.
+        Ein kleiner Teich sprudelt in der Nähe.
+        Auf dem Schloß weht die Fahne von WeChall...
+
+08:30 - Nordic Walking
+        Wir gehen wieder eine Runde um den Block.
+        Ich habe noch Muskelkater von gestern, aber beim Laufen geht es.
+
+09:00 - Ich ruhe mich ein wenig aus
+        YouTube und auf dem Bett liegen, und ich döse ein wenig.
+        Ich bin etwas depremiert und kümmere mich nicht um das Internet heute.
+
+10:30 - Schuldenberatung
+        Meine Schulden halten sich noch in Grenzen.
+        Ich habe einen Kredit abzubezahlen und Mietschulden bei Mutti.
+        Hoffentlich bekomme ich bald eine neue Anstellung, die auch ordentlich entlohnt wird.
+        Dann sollte es keine Probleme geben.
+        Ich ruhe mich weiter aus
+
+12:00 - Mittagessen
+        Es gibt Fisch, wenig und lecker wie immer.
+        Ich ruhe mich weiter aus.
+
+14:00 - Ergotherapie
+        Die Vorlage des Schals ist endlich fertig gestellt.
+        Das nächste mal geht as an die eigentliche Seide.
+
+16:00 - Basis Information Sucht
+        Mir fehlt noch der 5. Termin auf dem Plan, aber heute ist der Termin für das 3. Thema.
+        Also wieder ab auf's Bett.
+        Ich schlafe ein.
+
+18:30 - Ich verschlafe das Abendessen, habe aber keinen Hunger.
+        Ich gehe einkaufen. Zigaretten, Süßigkeiten und Getränke.
+        Dann wasche ich wäsche und widme mich wieder meiner Webseite.
+        Immer noch kein 2er, der es gelöst hat.
+        Wir chatten ein wenig, und ich gebe einigen Leuten einen Hinweis.
+        Der Mailversand klappt nun, was ich im Forum ankündige.
+        Ich trage ein wenig diesen Bericht nach, repariere ein paar kleine Fehler und überlege,
+        was ich als nächstes angehe.
+
+22:00 - Medis und ab in's Bett.
+
+===============================================================================================
+
+Wed, 14.Feb.2024
+
+06:00 -
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </pre>
