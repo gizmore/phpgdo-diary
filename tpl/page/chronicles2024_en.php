@@ -1465,7 +1465,150 @@ Tue, 13.Feb.2024
 
 Wed, 14.Feb.2024
 
-06:00 -
+06:30 - Der Wecker klingelt aber ich schlummer noch etwas weiter.
+        Ich habe wieder geträumt.
+        Ich arbeitete in der Salzgitter AG, aber spielte nur Spiele und rauchte Bong.
+        Das gab ärger.
+
+07:10 - Ich schleppe mich müde zum Frühstück.
+        Danach geht's an's Aufräumen.
+        Ich Reinige Tische und Badamaturen, fege und sauge.
+
+09:00 - Vollversammlung
+        Dieses mal dauert's ein wenig länger.
+        Für einige Ämter finden sich nur schwer Freiwillige.
+        Ich und mein Zimmerkumpel sitzen vorne als Gruppensprecher.
+        Zum Glück müssen wir nichts sagen.
+
+09:45 - Zimmervisite
+        Mein derzeitiger Zimmerkumpel zieht aus.
+        Danach Meeting mit meinem Ex-Azubi.
+        Es gibt einige Fehler im Salgitter Monatsbericht.
+
+11:15 - Entspannung mit Traumreise, danach Mittagessen
+
+13:00 - Ich habe wieder eine neue Idee für ein Challenge.
+        Diesmal geht es um die "Goldbach Vermutung", über die ich schon einige Zeit nachdenke.
+        Goldbach vermutete, dass jede gerade Zahl durch die Summe zweier Primzahlen dargestellt werden kann.
+        Dies ist bis heute unbewiesen.
+        Ich habe ein wenig mit Zahlen gespielt, und bin zu dem Schluss gekommen eine Challenge daraus zu machen.
+        Die Aufgabe ist die Anzahl der Kombinationen auszurechnen, die die geraden Zahlen bis zu einer Obergrenze zulassen.
+        tehron und ich basteln unabhängig ein Programm, um sicherzustellen, dass wir die richtige Lösung haben.
+        Die Obergrenze setzen wir auf 31 Millionen fest.
+        Ich bastel eine Challenge Page dazu, und tehron rechnet fleißig die Lösung aus.
+        Ich muss zur Gruppe...
+
+15:10 - Rückkehr an den Arbeitsmarkt
+        Wir besprechen, wo und wie man sich bewerben kann.
+
+16:00 - Ich schliesse die Arbeiten an der neuen Challenge ab.
+        tehron hat eine Lösung und ich installiere die Challenge.
+        https://www.wechall.net/challenge/valentines_gold
+        Ich schreibe mein Programm das die Lösung errechnet um.
+        Die alte Version in PHP ist viel zu langsam, also versuche ich mich in C.
+        Nebenbei denke ich über einen möglichen Beweise für die Vermutung nach.
+        Ein guter Anfang ist evtl das summierte Primzahlen immer eine gerade Zahl ergeben.
+        Die wahrscheinlichkeit das es klappt ist somit mindestens 50% ^^
+
+18:00 - Abendessen
+        Ich esse drei kleine Brote und bin ziemlich aufgeregt über das Challenge.
+        Die Anzahl der Kombinationen nimmt stetig zu, es müsste doch recht einfach sein es zu beweisen.
+
+19:00 - Ich arbeite noch ein wenig an meinem Programm.
+        Im Chat reden wir ein wenig über das Problem im Challenge.
+        livinskull versucht sich, bemerkt aber, dass ganz schön Rechenpower notwendig ist.
+        Ich starte mein Programm und gehe Tischtennis spielen
+
+21:00 - Mein Tischtennispartner hatte keine Lust, also nach den Medis wieder zurück an den PC.
+        Mein Programm läuft immer noch.
+        Ich zeige tehron meinen Code und er meint das wird noch ewig dauern.
+        Er hat recht und ich breche ab.
+        Ich schaue ein wenig YouTube und denke über optimierungen nach.
+        Gegen 23:00 schlafe ich ein.
+
+=========================================================================================
+
+Thu, 15.Feb.2024
+
+08:30 - Ich verschlafe wieder das Frühstück, sowie meinen "Krümeldienst".
+        Eine Rauchen und dann ab zur Therapiegruppe.
+        Wir reden über Bedürfnisse und wie wir diese Erfüllen können.
+        Mein Bedürfnis für Anerkennung will ich durch meine Arbeit erfüllen.
+
+09:30 - Ich gehe einkaufen.
+
+10:30 - Mein Rechner hat sich neugestartet... und habe ein wenig Chat verpasst.
+        livinskull hat die Valentin's Challenge gelöst,
+        und tehron meint wir können die Obergrenze auf 300 Millionen setzen.
+        Das ist schon recht sportlich
+
+11:30 - Ich rauche und bin dran die Aschenbecher im Raucherbereich zu leeren.
+        Danach ruhe ich mich etwas aus und warte auf's Mittagessen.
+
+12:10 - Mittagessen und Krümeldienst
+        Es gibt vegetarisch und ich muss die Tische danach abwischen
+
+13:00 - Ich verpasse einen Termin Imagination, weil ich mir die Zeit falsch notiert habe.
+        Ich könnte früher zur Ergo, aber ich schaue lieber ein Mathe Video auf YouTube.
+
+14:00 - Ergotherapie
+        Die Vorlage ist fertig, und es geht jetzt an die Seide.
+        Ich mache einige kurze Versuche und denke ich habe eine Technik die funktioniert.
+
+15:00 - Mein Einzeltherapiegespräch fällt aus, da mein Therapeut krank ist.
+        Ich nutze die Zeit für mehr Mathevideo.
+
+16:00 - Rückkehr an den Arbeitsmarkt
+        Wir besprechen was in einen Lebenslauf gehört und wie man Lücken auffüllt,
+        sowie Fragen und Antworten in einem Vorstellungsgespräch.
+
+17:15 - Selbstorganisationsgruppe
+        Als Gruppensprecher muss ich die Aufgaben diese Woche verteilen, bzw notieren.
+        Ich schlage mich recht gut, auch wenn ich etwas nervös bin.
+        Alle Patienten machen wunderbar mit.
+        Ich erhalte ein Lob das ich es gut gemacht habe :)
+
+18:00 - Abendessen
+        Es gibt Mettwurst, ich esse drei Brote.
+        Danach muss ich mit einem Patienten wieder die Tische abwischen und fegen.
+
+18:30 - Ich schaue was der Chat macht.
+        livinskull hat das Primzahlenchallenge gelöst.
+        tehron und er vergleichen ihre Programme und überlegen die Obergrenze zu erhöhen.
+
+19:30 - Ich gehe zu meinem zweiten Ex-Zimmerkumpel, und schaue mir kurz seinen Laptop an.
+        Er meint er hätte eine SSD nachrüsten lassen, diese lässt sich aber nicht finden.
+        Wir brauchen einen Schraubendreher, den er Sonntag besorgen will.
+
+20:00 - Tischtennis
+        Wir spielen einige Doppel, aber bei mir läuft es nicht so gut.
+        Ich spiele nicht mit vollem Einsatz, der linke Fuß tut etwas weh.
+
+21:30 - Medis und früh in's Bett.
+
+=====================================================================================
+
+Fri, 16.Feb.2024
+
+09:00 - Organisationsgruppe - Ich habe etwas verschlafen.
+        Wir besprechen wieder Organisatorisches.
+        Patenämter für nächste Woche.
+        Belastungserprobungen.
+        Meine wurde dieses Wochenende genehmigt, und ich fahre von heute auf Sonntag nach Hause.
+        Ich muss noch einige Zettel drucken, dann widme ich mich meinem Primzahlenprogramm.
+
+10:30 - Mein Programm läuft nun :)
+        Meinen 1. Ex-Zimmerkumpel treffe ich beim Kaffee...
+        er hat einen Schraubendreher und wir wollen uns den Laptop mal ansehen.
+
+12:00 -
+
+
+
+
+
+
+
 
 
 
