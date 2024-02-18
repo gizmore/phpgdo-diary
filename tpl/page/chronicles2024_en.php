@@ -1590,6 +1590,13 @@ Thu, 15.Feb.2024
 
 Fri, 16.Feb.2024
 
+03:00 - Ich werde wach und habe geträumt.
+        Ich war zuhause und hatte Geburtstag.
+        Ich wollte etwas trinken, und kurt bevor ich es tat fiel mir ein,
+        dass ich ja in Therapie bin, und nicht darf.
+        Ich war sehr ärgerlich, habe aber nichts getrunken.
+        Ich gehe eine Rauchen und wieder in's Bett.
+
 09:00 - Organisationsgruppe - Ich habe etwas verschlafen.
         Wir besprechen wieder Organisatorisches.
         Patenämter für nächste Woche.
@@ -1601,7 +1608,96 @@ Fri, 16.Feb.2024
         Meinen 1. Ex-Zimmerkumpel treffe ich beim Kaffee...
         er hat einen Schraubendreher und wir wollen uns den Laptop mal ansehen.
 
-12:00 -
+12:00 - Mein Programm ist fertig, aber ohne Ausgabe.
+        Vermutung: Ich habe es aus Versehen beendet.
+        Ich hole meine Medis für das Wochenende und fahre los Richtung Peine.
+        Am Bahnhof von Ringelheim treffe ich auf jemanden, man weiss nicht ob männlich oder weiblich,
+        die auch einmal Alkoholiker war.
+        Er/sie meint, Gott half trocken zu werden.
+        Der Alkohol schmeckt einfach nicht mehr.
+        Den Anschlusszug in Braunschweig schaffe ich nicht, da der Zug Verspätung hat.
+        Ich gönne mir ein Stück Pizza und ein Croissant.
+
+14:00 - Ich komme Zuhause in Peine an.
+        Zuerst einmal mein Primzahlenprogramm starten, alles updaten, und Up- und Downloads für Lazer, Marvin
+        und meinen Tischtennispartner in der Klinik.
+
+16:00 - Marvin und ein Ex-Arbeitskollege kommen vorbei.
+        Wir wollen Currywurst essen gehen.
+
+17:00 - Mein Arbeitskollege und ich essen eine Currywurst in der Peiner Bürgerschenke.
+        Er lädt mich ein.
+        Der Kellner ist ein Bekannter aus der "Garage" in Peine, so heisst die Kneipe.
+        Wir quatschen ein wenig, vor allem über meine Therapie.
+
+18:30 - Wir trennen uns.
+        Ich gehe einkaufen, ein Fertiggericht und Getränke
+
+19:00 - Wieder daheim, mein Primzahlenprogramm läuft immer noch...
+        Ich breche ab, optimiere noch eine Kleinigkeit und starte wieder.
+        Ich schaue YouTube und entspanne auf dem Sofa.
+
+22:00 - Das Programm hat das richtige Ergebnis.
+        livinskull gratuliert, und wir reden ein wenig über weitere Optimierungen.
+        Ich will das schnellste Programm haben :)
+        Ich schaue noch ein wenig Mathevideos, nehme Medis und gehe schlafen.
+
+=======================================================================================================
+
+Sat, 17.Feb.2024
+
+12:00 - Ich habe lange geschlafen.
+        Im Traum war ich auf der Hochzeit meiner Tante.
+        Ich sollte den DJ spielen, aber ihr MacBook war ganz komisch eingerichtet,
+        und ich konnte damit nicht umgehen... Ich fühlte mich hilflos.
+
+13:00 - Ich optimiere mein Programm weiter.
+        Als ich keine weiteren optimierungen finde baue ich Threading ein,
+        was ich mir von tehron's Code klaue.
+        Seine Verteilung auf die unterschiedlichen Threads ist optimal.
+
+15:00 - Marvin kommt und möchte noch einige Filme haben.
+        Das Primzahlenprogramm ist letzten Endes nicht wirklich schneller als die der Anderen.
+        Etwas enttäuscht lasse ich es gut sein und schaue ein wenig YouTube.
+
+17:00 - Mutti kommt vorbei.
+        Wir fahren einkaufen und zu meinem Bruder zum Spieleabend.
+
+18:00 - Bei meinem Bruder angekommen essen wir erst einmal was.
+        Er hat gerade Streit mit seiner Freundin, sie spielt nicht mit.
+        Das Thema Alkohol kommt auf, und mein Bruder meint, dass er nicht zum ManOwaR Konzert mit mir fährt,
+        falls ich wieder trinke.
+        Das ist ein kleiner Ansporn trocken zu bleiben.
+        Wir spielen mit 4 Personen. Mutti, meine Nichte, mein Bruder und ich.
+        Zuerst Risiko, dann Siedler von Catan.
+        Beim Risiko reiben mein Bruder und ich, wie immer, uns in Australien auf.
+        Catan ist ausgeglichener.
+        Ich habe immer noch Primzahlen im Kopf, und die Zeit verfliegt.
+
+00:30 - Mutti und ich sind wieder zuhause.
+        Medis und ein YouTube Video zum einschlafen.
+
+====================================================================================================
+
+Sun, 18.Feb.2024
+
+11:30 - Ich habe lange geschlafen, fühle mich aber nicht sehr erholt.
+        Ich mache mich wieder an die Primzahlen ^^
+        Dieses mal versuche ich, ob ChatGPT es lösen kann.
+        Es nutzt einen etwas anderen Algorithmus, aber nach einigem rumprobieren stellt sich heraus,
+        dass unser Algorithmus etwas schneller ist für höhere Obergrenzen.
+        Dafür brauchen wir deutlich mehr Speicher.
+        Einerseits schade, dass das Rechnen so lange dauert,
+        andererseits beruhigend, dass Menschen doch noch etwas besser sind als ChatGPT.
+
+14:00 - Ich lasse die Primzahlen ruhen und widme mich meinem Lebenslauf.
+        Ich optimiere das Layout für Handys und ergänze meine alten Jobs durch explizite Tätigkeiten.
+
+
+
+
+
+
 
 
 
