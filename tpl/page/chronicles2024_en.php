@@ -1693,6 +1693,57 @@ Sun, 18.Feb.2024
 14:00 - Ich lasse die Primzahlen ruhen und widme mich meinem Lebenslauf.
         Ich optimiere das Layout für Handys und ergänze meine alten Jobs durch explizite Tätigkeiten.
 
+16:00 - Marvin kommt nochmal vorbei, Herr der Ringe ist die falsche Version.
+        Wir trinken einen Kaffee.
+
+17:00 - Mutti hat gefüllte Paprikaschoten gemacht.
+        Wir essen. Ich ruhe mich danach etwas aus.
+
+19:00 - Wir fahren wieder Richtung Mutti.
+        Sie bringt mich nach Hoheneggelsen zum Bahnhof.
+        Die Zugfahrt verläuft wieder ohne Vorkommnisse.
+
+21:00 - Ich bin in Ringelheim angekommen und spiele noch eine Stunde Tischennis.
+
+22:00 - Medis und ab in's Bett.
+        Ich schaue noch etwas YouTube zum einschlafen.
+
+=========================================================================================
+
+Mon, 19.Feb.2024
+
+07:30 - Frühstück verschlafen, ich stehe auf.
+        Zwei Zigaretten und einen Kaffee,
+        dann zur Gruppentherapie.
+        Wir verabschieden drei Patienten. Schade das die alten Hasen gehen.
+        Danach besprechen wir das Wochenende
+
+10:30 - Ergotherapie
+        Ich fange nun an Farbe auf den Schal aufzutragen.
+        Mit Silberfarbe male ich freihand das Labyrinth auf den Stoff.
+
+12:00 - Mittagessen. Kichererbsensuppe.
+
+13:00 - Ich bin etwas demotiviert und lege mich etwas hin.
+        Ich schlafe durch bis 16:00
+
+16:00 - Themenzentrierte Gruppe
+        Das Thema heute ist Verlängerung der Therapie.
+        Dies hat keiner vor, allein ich spiele mit dem Gedanken.
+        Der Suchtdruck ist wieder ganz schön stark.
+
+17:00 - Ich gehe einkaufen. Etwas Milch, was zu trinken und Süßigkeiten.
+
+18:00 - Abendessen
+        Es gibt viel zu wenig Brot. Die die später kommen gehen leer aus.
+        Ich ergattere die letzten zwei Scheiben Graubrot.
+    
+18:30 - Luca ruft an. Jetzt will er wieder an einer anderen Software weiterbasteln.
+    
+
+
+
+
 
 
 
