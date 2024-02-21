@@ -1739,7 +1739,24 @@ Mon, 19.Feb.2024
         Ich ergattere die letzten zwei Scheiben Graubrot.
     
 18:30 - Luca ruft an. Jetzt will er wieder an einer anderen Software weiterbasteln.
+        Meine Laune bessert sich nicht.
+        Die Primzahlen schwirren noch in meinem Kopf.
+        Ich bastel aber lieber an meinem Lebenslauf und bewerbe mich bei einer Firma in Frankfurt.
+
+20:00 - Ich spiele eine Stunde Tischtennis, aber gute Laune will nicht aufkommen.
+
+21:00 - Medis und Dusche.
+        YouTube und ab in's Bett.
+
+============================================================================================
+
+Tue, 20.Feb.2024
+
+06:00 - Ich werde wach und stehe auf und bin ausgeruht.
+        Frühstückzigarette, Kaffee und an die Arbeit
     
+
+
 
 
 
