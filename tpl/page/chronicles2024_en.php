@@ -1753,8 +1753,79 @@ Mon, 19.Feb.2024
 Tue, 20.Feb.2024
 
 06:00 - Ich werde wach und stehe auf und bin ausgeruht.
-        Frühstückzigarette, Kaffee und an die Arbeit
+        Frühstückzigarette, Kaffee und an die Arbeit.
+        Ich gestalte das Umschalten der Sprachen in meinen Webseiten hübscher.
+
+07:00 - Frühstück
+
+08:00 - Imagination
+        Finde ich nicht sehr hilfreich.
+        Einen Rückzugsort in meinen Gedanken habe ich schon lange.
+
+09:30 - Gruppentherapie
+        Es geht wieder um Gefühle
+
+10:30 - Ergotherapie
+        Das Labyrinth des Schals ist nun fertig.
+
+12:00 - Mittagessen. Ein mittleres Fischröllchen mit Kartoffelpüree.
+
+13:00 - Server 3 hat seit längerem Performance Probleme.
+        tehron kann die Ursache nicht finden.
+        Ich schreibe mit ihm eine Mail an den Support.
+
+14:00 - Ich bewerbe mich bei zwei weiteren Firmen.
+
+15:00 - Ich lege mich kurz hin... und schlafe durch bis 19:00
+
+19:30 - Ich habe das Abendessen und die Urinkontrolle verpasst.
+        Ich trinke reichlich und spiele Tischtennis, und gebe etwas verspätet ab.
+
+21:00 - Medis und YouTube
+
+=======================================================================
+
+21.Feb.2024
+
+06:30 - Der Wecker nervt und klingelt lange.
+        Ich stehe auf und gehe zum Wöchentlichen Wiegen
+
+07:00 - Frühstück, 2 Brötchen
+        Danach räume ich ein wenig auf.
+
+09:00 - Vollversammlung
+        Dieses mal dauert's wieder ein wenig länger.
+        Für kommenden Mittwoch haben alle Therapeuten ein Meeting,
+        und wir sollen den Tag für uns in den Gruppen planen.
+        Angedacht ist vielleicht eine kleine Olympiade.
+        Dies müssen wir kurzzeitig noch evaluieren.
+        Das Budget für die gesamten Stationen sind 250 Euro.
+
+10:00 - Zimmervisite.
+        Es riecht nach Tabak und das Badezimmer könnte sauberer sein.
+
+11:00 - Entspannung
+        Wieder eine kleine Traumreise.
+        Dieses mal können wir in Gedanken alles zum Schweben bringen.
+
+12:00 - Mittagessen - Pute mit Gemüse und Nudeln
+        Lecker, aber Soße fehlt.
+
+13:00 - Ich gehe einkaufen. Eine Tafel Schokolade und Milch und etwas zu trinken.
+
+14:00 - Ich helfe meinem Ex-Azubi ein halbes Stündchen.
+        
+15:00 - Ich erhalte eine Absage von einer Bewerbung. Schade.
+        Danach trage ich diesen Bericht nach.
     
+16:00 - Ich schreibe meinen Lebenslauf neu, mit LibreOffice.
+    
+    
+
+
+
+
+
 
 
 
