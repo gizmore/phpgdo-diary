@@ -1785,7 +1785,7 @@ Tue, 20.Feb.2024
 
 =======================================================================
 
-21.Feb.2024
+Wed, 21.Feb.2024
 
 06:30 - Der Wecker nervt und klingelt lange.
         Ich stehe auf und gehe zum Wöchentlichen Wiegen
@@ -1818,8 +1818,81 @@ Tue, 20.Feb.2024
 15:00 - Ich erhalte eine Absage von einer Bewerbung. Schade.
         Danach trage ich diesen Bericht nach.
     
-16:00 - Ich schreibe meinen Lebenslauf neu, mit LibreOffice.
-    
+16:00 - Ich arbeite ein wenig an einem neuen Programmierstil in Java.
+        Mehrfachvererbung durch interfaces mit "default Methoden".
+        Mehrfachvererbung kann Java eigentlich nicht, aber mit einem Trick geht es.
+        Dies will ich auf meiner Webseite als eine Art Blog-Eintrag hinzufügen,
+        um mögliche Arbeitgeber von meinen Fähigkeiten zu überzeugen.
+
+20:00 - Tischtennis, Medis, YouTube und schlafen.
+
+===========================================================================================================
+
+Thu, 22.Feb.2024
+
+07:00 - Der Wecker reisst mich aus dem Schlaf.
+        Ich mache mich frisch und gehe etwas spät zum Frühstück.
+        Wieder "Krümeldienst", d.H. Tische abwischen was recht schnell geht.
+
+08:30 - Gruppentherapie
+        Es geht wieder um Gefühle, und wie wir diese ohne Alkohol bewältigen.
+        Ich stürze mich gerne in Arbeit wenn die Gefühle kreisen.
+
+11:30 - Einzelgespräch
+        Hier geht es um meine Tagesstruktur, wenn ich mit der Therapie fertig bin.
+        Auch steht mein genauer Entlassungstermin noch im Raum,
+        da ich ja eine Woche später angetreten war, wegen einer Corona-Infektion.
+
+13:00 - Imagination
+        Wir sollen unseren Gedanklichen Rückzugsort durch einen "Anker" triggern.
+        Ich mache eine Art betende Hände.
+        Im Nachhinein ziemlich blöd, weil man das nicht unterwegs üben kann.
+
+14:00 - Ich gehe mit meinem Zimmerkumpel einkaufen.
+        Nach 10 Wochen weiss ich nun endlich wo die Cola steht -.-
+
+15:00 - Ich arbeite ein wenig an meinem Java Trick.
+        Sollte funktionieren, jetzt muss ich nur iwie einen kleinen Showcase in meine Firmenwebsite einbauen
+
+17:00 - Selbstorganisation
+        Als Gruppensprecher mache ich mich gar nicht so schlecht.
+        Beim Verteilen des Abwaschdienst für kommende Woche fange ich mit dem Wochenende an.
+        Das ist clever, weil am Wochenende nicht alle da sind.
+        Wir stimmen ab, was wir kommenden Mittwoch machen, wo wir uns alleine beschäftigen sollen.
+        Die Wahl fällt auf "Bosseln". Eine Wanderung mit Kugelstoßen.
+        Danach wollen wir Essen gehen.
+        Damit es mit dem Essen klappt, müssen wir den Abwaschdienst von der Springer Gruppe erledigen lassen.
+        Ich soll das abstimmen.
+        Es ist doch ein wenig stressig, aber ich erledige dies im Laufe des Abends.
+
+18:00 - Abendessen. Der Salat ist schon alle, als ich komme.
+        Ich finde mit einer Mitpatientin heraus, welche Gruppe nächste Woche Springerdienst hat.
+        Ich werde einen Zettel ausdrucken und in deren Gruppenraum platzieren.
+
+20:00 - Ich spiele eine Stunde Tischtennis
+        Danach Medis und YouTube
+        Ein wenig quatschen mit dem Zimmerkumpel
+
+23:00 - Es stürmt. Ich schlafe ein
+
+=================================================================================
+
+Fri, 23.Feb.2024
+
+09:00 - Organisation
+        Wir besprechen ein wenig den kommenden Mittwoch.
+        In der Gruppe haben wir gestern alles schon recht gut organisiert.
+
+10:00 - Rückmeldung der Springergruppe - alles klappt. Wunderbar.
+
+10:30 - Kurze Voruntersuchung für meine Entlassung.
+        Nur Blutdruck und Gewicht werden kontrolliert.
+
+11:00 - Ich rufe beim Zahnarzt an und mache einen Termin für kommenden Donnerstag.
+
+12:00 - Mittagessen
+
+
     
 
 
