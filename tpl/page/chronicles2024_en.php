@@ -1889,8 +1889,40 @@ Fri, 23.Feb.2024
         Nur Blutdruck und Gewicht werden kontrolliert.
 
 11:00 - Ich rufe beim Zahnarzt an und mache einen Termin für kommenden Donnerstag.
+        Telefonat mit Luca für sein neues Projekt.
+        Rückmeldung an den Stratoserver-Support.
+        Die Serverprobleme sind von selbst verschwunden.
 
 12:00 - Mittagessen
+        Es gibt Fisch mit einem Kleks Reis.
+        Sehr wässrig.
+
+13:00 - Ich ruhe mich etwas aus... schlafe ein, und verpasse den Sport.
+
+16:00 - Ab nach Braunschweig, Michael und Lazer treffen.
+        Wir gehen zum "Der Italienier" auf eine Pizza und Pasta.
+        Ich gönne mir eine Calzone, Tomatig und lecker.
+
+20:00 - Wieder zurück nach Ringelheim
+        Im WeChall Shop ist die erste Bestellung eingegangen.
+        livinskull hat vier Artikel für sich bestellt ^^
+        Ich recherchiere, wie man einen Telegram Bot erstellt,
+        aber ich werde wohl zuerst einige andere Sachen umsetzen.
+
+22:00 - Ab in's Bett
+
+==================================================================================
+
+Sat, 24.Feb.2024
+
+07:30 - Wieder Frühstück verschlafen
+        Ich rauche zwei Zigaretten und hole meine Medis für's Wochenende.
+        Beim Rauchen treffe ich Ex-Zimmerkumpel 3 und will ihm noch meinen Tischtennisschläger leihen.
+        Ich trinke noch einen Kaffee und packe meine Sachen.
+        Dieses Wochenende schlafe ich wieder zuhause.
+    
+9:00 - Ich mache mich auf den Weg nach Peine.
+    
 
 
     
