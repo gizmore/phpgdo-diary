@@ -1921,9 +1921,9 @@ Sat, 24.Feb.2024
         Ich trinke noch einen Kaffee und packe meine Sachen.
         Dieses Wochenende schlafe ich wieder zuhause.
     
-9:00 - Ich mache mich auf den Weg nach Peine.
+09:00 - Ich mache mich auf den Weg nach Peine.
     
-
+11:00 - Ankunft... Ich versuche einen Telegram Bot zu programmieren
 
     
 
