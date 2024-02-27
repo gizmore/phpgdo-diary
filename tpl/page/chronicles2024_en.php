@@ -1936,48 +1936,167 @@ Sat, 24.Feb.2024
 12:30 - Marvin kommt vorbei, wir trinken einen Kaffee und laden einen Film herunter.
 
 13:00 - Lazer kommt vorbei, wir planen einen Hamburger essen zu gehen.
+        Wir warten noch auf Mutti.
 
+15:00 - Mutti und ihr Freund Hotti kommen vorbei.
+        Hotti will einige Rohre in Muttis Schlafzimmer verkleiden.
+        Lazer und ich gehen einkaufen und Hamburger essen.
 
+18:00 - Zurück vom einkaufen.
+        Die Renovierungsarbeiten gehen nicht gut voran.
 
+20:00 - Mutti und Hotti fahren zu sich nach Hause.
+        Ich recherchiere ein wenig weiter, wie man den "Telegram Chat" in PHP Anwendungen anbindet,
+        schaue ein wenig YouTube, nehme Medis und gehe früh schlafen.
 
+=======================================================================================
 
+Sun, 25.Feb.2024
+
+09:00 - Ich stehe recht früh auf, überwinde meine Unlust und trinke Kaffee.
+        Ich mache mich an die Implementierung des Telegram Bots.
+        Dazu muss man lediglich an einen bestimmten automatisierten Kontakt schreiben, dem "BotFather"
+        Mit dem Befehl "/new" legt man einen neuen Bot an.
+        Danach wählt man nur Anzeigename und Username und schon erhält man einen "API-Key".
+        Ich schreibe ein kleines Script, was neue Nachrichten abruft.
+        Das funktioniert nicht so einfach, Fehlercode -1423525225 irgendwas.
+        Ein wenig recherche ergibt, dass den Zertifikaten nicht vertraut wird.
+        Ich aktualisiere meine Zertifikate und nun funktioniert es.
+        Meinen Bot bohre ich etwas auf. Die Telegram UserID fliesst in meinen Usernamen,
+        und ich spendiere meiner Datenbank ein neues Feld "Anzeigename", was dann den Telegram Username aufnimmt.
+
+13:00 - Marvin kommt auf einen Kaffee vorbei.
+        Wir laden noch ein wenig Disney von YouTube für seinen Sohn herunter.
+
+14:00 - Mutti und Hotti kommen wieder.
+        Er verkleidet weiter die Rohre im Schlafzimmer, und ich helfe ein wenig.
+
+16:00 - Lazer kommt vorbei und bringt Hunger mit.
+        Wir verkleiden die Rohre zuende und bestellen Pizza
+
+17:00 - Pizzatime, danach schauen Lazer und ich ein wenig Futurama.
+
+19:00 - Mutti fährt mich mit Hotti zum Bahnhof Hoheneggelsen.
+        Wir halten noch an der Tanke an, ich brauche Zigaretten.
+        Ich bringe Hotti zwei Bier mit, Suchtdruck habe ich nicht.
+        Die Zugfahrt verläuft reibungslos.
+
+21:00 - Wieder in Ringelheim.
+        Ich nehme Medis, spiele meinen neuesten Programmcode auf den Laptop ein und gehe früh schlafen.
+
+=================================================================================================
+
+Mon, 26.Feb.2024
+
+04:30 - Ich werde früh wach und stehe auf.
+        Ich trinke Kaffee und teste ein wenig mein neues Projekt.
+        Es sind noch haufenweise Fehler vorhanden, und alles ist sehr kompliziert.
+        Ich baue eine Anbindung an den Wetterbericht ein.
+        Dies mache ich auch recht kompliziert.
+        Der Befehl bei mir soll "weather" lauten, was das Wetter für den aktuellen Benutzer anzeigt.
+        Dann geht noch "weather --for=username", sowie "weather --in=Stadt" und "weather --at=Lat,Long".
+        Etwas kompliziert aber auch ganz ok, wenn man weiss wie.
+
+06:30 - Blutentnahme
+        Der Pfleger sticht in den linken Arm, aber trifft die Vene nicht richtig.
+        Mit wird ein wenig schwindelig und wir versuchen es in 20 Minuten erneut.
+
+07:00 - Frühstück
+        Ich esse zwei Brötchen.
+        Danach teste ich weiter meine Wetteranbindung.
+        Salzgitter-Ringelheim soll 36°C haben... In echt sind es eher 5°C.
+        Ich ziehe meinen Pullover aus.
+
+09:00 - Abschlussuntersuchung in der Allgemeinmedizin
+        Ich werde gefragt, wie ich meine Gewichtszunahme erkläre.
+        Das essen und Süßigkeiten seien Schuld, so meine ich.
+        Der Arzt sagt, dass ich mit 83kg angeliefert wurde, und ich lache.
+        "Ja, dies wurde falsch notiert bei der Aufnahme, es waren 93kg".
+        Dies wurde beim 2. Wiegen schon bemerkt, nur nicht nachgetragen.
+        5kg Zunahme statt 15kg sind in Ordnung, aber ich könnte ruhig wieder etwas abnehmen.
+
+10:00 - Ich verabrede mich mit meinem Ex-Azubi für 14:00 um ein Problem zu besprechen.
+
+10:45 - Sozialberatung
+        Mir wird nahegelegt, mich rechtzeitig arbeitslos zu melden.
+        Dies nehme ich auch gleich in Angriff.
+        Arbeitssuchend melden ist einfach.
+        Arbeitslos melden ist online schwierig. Dies muss ich in Peine vor Ort nachholen.
+        Auch der Antrag auf Arbeitslosengeld ist nicht so einfach.
+        Mir fehlen einige Daten für Kranken- und Übergangsgeld.
+
+12:00 - Mittagessen
+        Es gibt Kichererbsensuppe mit Mandelsplittern und Kirschnachspeise.
+        Ganz OK.
+
+13:00 - Patientenrat
+        Diesmal bin ich etwas besser vorbereitet.
+        Ich erzähle von unserem Gruppenplan Bosseln zu gehen,
+        und erfrage ob die Rest-Kosten aus der Spendenkasse bezahlt werden könnten.
+        Dies wird bejaht.
+
+13:30 - Ich gehe einkaufen, gönne mir wieder Filterzigaretten.
+        Danach lege ich mich etwas hin... und verschlafe meinen Termin mit dem Azubi.
+
+16:00 - Themenzentrierte Gruppe
+        Wir besprechen und planen das morgige Bosseln.
+
+17:00 - Ich ruhe mich ein wenig aus
+
+18:00 - Abendessen
+
+19:00 - Ich teste ein wenig meine Software.
+        Luca ruft an, er benötigt meine Fähigkeiten.
+        Geplant wird ein Onlineformular für unsere Steuersoftware.
+
+21:00 - Medis und ab in's Bett.
+
+===============================================================================================
+
+Tue, 27.Feb.2024
+
+07:45 - Ich stehe zu spät auf für's Frühstück.
+        Danach geht's zur Imagination.
+        Diesmal lernen wir den "5,4,3,2,1 Trick".
+        Man lokalisiert Dinge die man höhrt, sieht und fühlt, um schneller zur inneren Ruhe zu finden.
+        So ähnlich ist ein Mantra von mir, nur etwas schneller.
+
+08:30 - Ich lege mich etwas hin, bin wie gerädert.
+        Nordic Walking lasse ich heute ausfallen.
+
+09:30 - Gruppentherapie.
+        Wir reden wieder über Gefühle und Bewältigungsstrategien dieser; ohne Alkohol.
+        Dann wird noch eine Mitpatientin verabschiedet.
+
+10:30 - Ergotherapie
+        Ich trage blaue Hintergrundfarbe auf meinen Schal auf. Es wird langsam.
+
+12:00 - Mittagessen.
+        Panierter Backfisch mit Gemüse und Kartoffeln.
+
+13:15 - Abschlussuntersuchung beim Chefarzt.
+        Er kritisert meine Entscheidung weiterhin THC zu konsumieren.
+        Es sei sehr riskant für mich, aber ich nehme die Gefahr in kauf.
+        Ansonsten verläuft das Gespräch OK.
+        Er wünscht mir alles gute, und wir verabschieden uns.
+
+15:00 - Abschlussgespräch mit meinem Therapeuten.
+        Wir reden über meine Therapieziele, und ob ich diese erreicht habe.
+        Es stellt sich heraus das ich dies insgesamt mit ca 6/10 Punkten bewerte.
+        Vor allem einen neuen Job habe ich noch nicht, so empfinde ich.
+
+16:00 - Ich gehe einkaufen.
+        Ein Eis und etwas zu trinken.
+        Meinem ersten Ex-Zimmerkumpel bringe ich Cola mit.
+
+17:00 - Ich trage diesen Bericht nach.
+        Dies kann ganz schön mühsam sein...
+
+18:00 - Abendessen
+        Es ist wieder zu wenig Salat und Wurst da, aber für 2 Brote reicht's noch.
+
+19:00 - Ich überlege wie ich die Online Formulare für Luca umsetze.
 
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </pre>
