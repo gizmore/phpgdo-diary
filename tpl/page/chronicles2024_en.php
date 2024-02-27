@@ -1924,6 +1924,23 @@ Sat, 24.Feb.2024
 09:00 - Ich mache mich auf den Weg nach Peine.
     
 11:00 - Ankunft... Ich versuche einen Telegram Bot zu programmieren
+        Ich gehe nach Anleitung vor, und erstelle einen Bot über den offiziellen Weg.
+        Es gibt 2 Möglichkeiten um an die Chat-Nachrichten zu gelangen.
+        Entweder über HTTP polling (langsam und ressourcenfressend)
+        oder per Push über eine eigene Webseite. (Was dann?!)
+        Da der 2.Weg über eine Website zu meinem Bot auch schwierig ist,
+        entscheide ich mich für Weg 1, aber mit einem Trick.
+        Ich starte einen 2. Prozess, der das Polling übernimmt und mit meinem Bot zusammen arbeitet.
+        Dies sollte eine gute Performance bieten. (Threading in PHP ist so eine Sache...)
+
+12:30 - Marvin kommt vorbei, wir trinken einen Kaffee und laden einen Film herunter.
+
+13:00 - Lazer kommt vorbei, wir planen einen Hamburger essen zu gehen.
+
+
+
+
+
 
     
 
