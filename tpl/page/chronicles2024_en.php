@@ -2096,7 +2096,83 @@ Tue, 27.Feb.2024
         Es ist wieder zu wenig Salat und Wurst da, aber für 2 Brote reicht's noch.
 
 19:00 - Ich überlege wie ich die Online Formulare für Luca umsetze.
+        Nebenbei ein wenig YouTube.
 
-    
+20:00 - Ich gehe eine Stunde Tischtennis spielen.
+        Wir spielen Doppel. 5 Sätze á 21 Punkte.
+
+21:00 - Medis und noch eine Stunde an den Laptop.
+
+================================================================================
+
+Wed, 28.Feb.2024
+
+06:30 - Wiegen
+        Ich bringe nun 100kg auf die Waage, und solle ein wenig abnehmen.
+
+08:00 - Vollversammlung.
+        Dieses mal in Rekordzeit von 18 Minuten.
+
+09:00 - Ich verbringe den Vormittag mit dem Laptop und mit YouTube im Bett.
+
+12:00 - Mittagessen
+        Putengeschnetzeltes mit Nudeln.
+
+14:30 - Unsere Gruppe geht Bosseln.
+        In zwei Teams á 6 Patieten werfen wir Kugeln, ca. 4km, Richtung Salzgitter-Bad.
+        Ein klares unentschieden mit 71 Würfen pro Team.
+        Dann teilen wir uns auf.
+        Der Großteil der Gruppe geht zum Italiener, vier von uns zum Dönermann.
+
+17:00 - Wir essen einen Döner, gehen einkaufen und fahren mit dem Zug zurück nach Ringelheim.
+        Der Fahrkartenautomat ist etwas langsam, aber wir schaffen es rechtzeitig Karten zu ziehen.
+
+19:00 - Wieder in Ringelheim.
+        Wir witzeln über rektalen Alkoholkonsum.
+        Fast geruchlos, aber wir müssten dann wohl pupsen statt pusten gehen, wenn das auffliegt.
+
+        Ein Mitpatient hat Probleme mit seinem Laptop.
+        Die Festplatte ist hinüber, wo noch haufenweise wichtige Bilder darauf sind.
+        Wir bauen seine neue Platte ein, und ich lade Windows auf einen Stick herunter.
+        Nach der Installation geht das Touchpad nicht.
+
+21:00 - Medis und ab in's Bett.
+
+
+================================================================================
+
+Thu, 29.Feb.2024
+
+07:30 - Ich verschlafe wieder das Frühstück.
+        Keinen Hunger, und komme noch rechtzeitig zum Abwaschdienst, den ich heute und morgen habe.
+
+08:30 - Gruppentherapie
+        Wir besprechen Gedanken und Gefühle.
+
+10:00 - Ich bin nicht besonders gut drauf heute und lege mich schlafen
+
+12:30 - Mittagessen
+        Omelette mit leckerem Erbsengemüse. Sehr schmackhaft.
+        Danach wieder Abwaschen.
+
+13:30 - Ich lege mich wieder etwas hin und verschlafe einen Termin mit Marvin und den Zahnarzt.
+
+15:30 - Der Zahnarzt ruft an und weckt mich.
+        Ich entschuldige mich und wir legen den Termin auf nächste Woche.
+
+16:00 - Ich gehe einkaufen.
+        Getränke und Zigaretten
+
+17:00 - Selbstorganisation
+        Wir verteilen den Abwaschdienst für nächste Woche und wählen einen neuen Gruppensprecher,
+        da ich ja nächsten Dienstag entlassen werde.
+
+18:00 - Abendessen und Abwaschen
+
+19:30 - Ich verabrede mich mit Marvin um morgen 10:00
+        Ich soll mal wieder eine E-Mail in seinem Namen schreiben.
+
+20:00 - Ich höre Radio und programmiere ein wenig.
+
 
 </pre>
