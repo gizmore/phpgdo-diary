@@ -2174,5 +2174,71 @@ Thu, 29.Feb.2024
 
 20:00 - Ich höre Radio und programmiere ein wenig.
 
+22:00 - Medis und ab in's Bett.
+
+=======================================================================================================================
+
+Fri, 1.Mar.2024
+
+07:15 - Ich gehe leicht verspätet zum Frühstück.
+        Kein Kaffee mehr, keine normalen Brötchen mehr.
+        Danach Abwaschen. Ich kümmere mich um's Besteck. meine beiden Kollegen fangen an den Rest abzuwaschen.
+
+09:00 - Organisation
+        Neben Organisatorischem findet auch meine Verabschiedung statt.
+        Alle aus meiner Gruppe wünschen mir alles gute, und finden nette Worte, um mich zu verabscheiden.
+        Mein trockener Humor kommt gut an. Das perlt :)
+        Kritikpunkt: ich schlafe zu viel.
+
+10:00 - Ich warte auf Marvin, aber dieser möchte das Erstellen der Mail verschieben.
+        Ich schlage 15:30 vor.
+        Also kümmere ich mich ein wenig um das Luca-Projekt.
+
+12:00 - Mittagessen und Abwaschen
+
+14:00 - Gruppensport.
+        Wir spielen eine Art Tennis, und ich zerre meinen rechten Arm erneut.
+        Schon seit ca. 10 Wochen habe ich Schmerzen von einer Zerrung beim Tischtennis.
+
+15:00 - Ich gehe einkaufen. Energydrinks und Zigaretten.
+
+16:00 - Weiter geht es am Luca Project.
+
+18:00 - Abendessen und Abwaschen.
+
+20:00 - Eine Stunde Internetradio auf radio-thirty.de
+        Tina-Chan hat eine Liveshow, die ist immer ganz nett.
+
+21:00 - Ich hole Medis und spiele noch eine halbe Stunde Tischtennis.
+        Wir spielen ein Doppel mit 4 talentierten Spielern.
+        Einige schöne Ballwechsel sind dabei :)
+
+22:00 - Ein wenig YouTube und eine 5-Minuten-Terrine.
+        Dann ab in's Bett.
+        Ich schlafe gegen 00:30 ein.
+
+=================================================================================================================
+
+Sat, 2.Mar.2024
+
+06:00 - Der Wecker klingelt und ich stehe auf.
+        Ab zum Frühstück, danach Medis für's Wochenende holen.
+        Ich packe eine Tasche und einen Rucksack mit Klamotten,
+        die ich schonmal nach Hause schaffe.
+
+08:00 - Ich mache mich auf den Weg nach Peine.
+        Noch drei mal schlafen, dann ist nächsten Dienstag die Reha überstanden.
+        Nächsten Dienstag.
+        Ich würde am liebsten dann sofort was trinken, aber ich werde wohl stark bleiben.
+        Schön wäre 1x im Monat etwas Alkohol, ich werde Mutti mal fragen was sie davon hält.
+        Ich stelle mir eine Art Bonuskarte vor, die ich einmal im Monat ausspielen kann.
+        Alles nicht so einfach :/
+
+10:00 - Ich komme in Peine an, spiele den neuesten Code vom Laptop ein, trage diesen Bericht nach,
+        und mache mich an's Programmieren.
+
+
+
+
 
 </pre>
