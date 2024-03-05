@@ -2237,6 +2237,42 @@ Sat, 2.Mar.2024
 10:00 - Ich komme in Peine an, spiele den neuesten Code vom Laptop ein, trage diesen Bericht nach,
         und mache mich an's Programmieren.
 
+15:00 - Mutti und Hotti kommen vorbei.
+        Wir fahren in den Baumarkt, Farbe kaufen und ein wenig Hähnchen für's Abendessen.
+
+18:00 - Mutti kocht essen, ich ruhe mich ein wenig aus.
+        Ich habe nur den verdammten Alkohol im Kopf, und versuche mich mit YouTube abzulenken.
+        Heute wollen wir nicht mehr Renovieren.
+
+19:00 - Wir essen zu Abend und quatschen ein wenig.
+
+20:30 - Mutti und Hotti fahren nach Hause und schmeissen mich beim Rewe raus.
+        Ich hole noch eine Cola und etwas zu naschen.
+
+21:30 - Ich nehme Medis und gehe früh zu Bett und habe ein ungutes Gefühl das ich entlassen werde.
+        Ich plane Dienstag dann etwas zu trinken...
+
+=======================================================================================
+
+Sun, 3.Mar.2024
+
+
+11:30 - Ich stehe auf wie gerädert. Ich bin mehrmals wach geworden und habe viel geträumt.
+        Unter anderem habe ich im Altenheim gearbeitet und eine Kollegin war total betrunken.
+        Ich selbst fand das gut und habe die ganze Zeit einen Kugelschreiber zusammen- und auseinandergebaut.
+
+12:30 - Ich esse den Rest Hähnchen zum Früstück.
+        Ich bin nicht sonderlich gut drauf, und warte im Bett auf Mutti und Hotti.
+
+13:00 - Mutti und Hotti kommen, wir trinken Kaffee.
+    
+14:00 - Lazer kommt auch vorbei, und wir wollen in die City, das schöne Wetter geniessen.
+        Hotti und Mutti meinen wir können ruhig gehen, das Streichen läuft nicht weg.
+        Also gehen wir los, ein wenig spazieren und zum Asiaten.
+
+17:00 -
+
+
 
 
 
