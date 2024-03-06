@@ -25,4 +25,5 @@ return [
     'link_gizmore_poem' => 'Poem 2023',
     'link_gizmore_chronicles' => 'Chronicles 2023',
     'link_gizmore_chronicles2024' => 'Chronicles 2024',
+    'link_gizmore_chronicles20242' => 'Chronicles March 2024',
 ];

@@ -2270,7 +2270,96 @@ Sun, 3.Mar.2024
         Hotti und Mutti meinen wir können ruhig gehen, das Streichen läuft nicht weg.
         Also gehen wir los, ein wenig spazieren und zum Asiaten.
 
-17:00 -
+17:00 - Wieder daheim. Noch zwei Stunden etwas quatschen, Programmcode hochladen, Taschen umpacken.
+
+19:00 - Mutti und Hotti fahren mich zum Peiner Bahnhof
+
+21:00 - Wieder in Ringelheim. Ich hole Medis und gehe früh in's Bett.
+
+========================================================================================================
+
+Mon, 4.Mar.2024
+
+07:15 - Ich verschlafe wieder das Frühstück, danach wieder Abwaschen.
+        Es läuft ein Suchtfilm, aber wir gehen nicht hin, da wir noch beim Abwaschen sind.
+        Wir hätten allerdings etwas später gehen können.
+        Ich räume ein wenig auf und programmiere.
+
+10:00 - Ergotherapie
+        Ich bekomme den Schal ferig gemalt. Er sieht ein bisschen kruckelig aus, aber ganz ok.
+        [Tehron's Scarf](https://www.wechall.net/tehrons_scarf.jpg)
+
+11:00 - Ich gehe einkaufen. Der letzte Tag geht genauso schnell vorbei wie der Rest der Therapie
+
+12:00 - Mittagessen. Chili sin Carne. Das bedeutet ohne Fleisch, ist aber echt lecker.
+        Danach wieder Abwaschen.
+
+14:00 - Ich räume weiter auf und programmiere.
+
+16:00 - Themenzentrierte Gruppe
+        Wir besprechen den Film von heute morgen, und haben ein paar Aufgaben dazu erhalten.
+        Ob wir uns selbst wiedererkennen, und ähnliches.
+        Der neue Gruppensprecher schreibt.
+        Dies war für mich die letzte Gruppe.
+
+18:00 - Abendessen und ein letztes mal Abwaschen für die Klinik.
+        Für 60 Patienten den Abwasch machen dauert etwas.
+
+19:30 - Ich bringe Altpapier und Pfand weg.
+
+20:00 - Ich packe meinen Koffer und nehme *alles* mit :)
+
+21:00 - Medis und früh in's Bett
+
+====================================================================================================
+
+Thu, 5.Mar.2024
+
+07:15 - Wieder zu spät für das Frühstück aufgestanden.
+        Ich trinke einen Kaffee und mache meinen Raum fertig für die Übergabe
+        Meinen Schal muss ich noch abholen und auslösen.
+        Ich bezahle 10€ statt 6€, etwas für die Spendenkasse.
+        Ich gebe meinen Schlüssel ab und habe noch einige Zettel auszufüllen.
+
+09:10 - Mutti und Hotti holen mich ab.
+        Es ist doch einiges an Klamotten, die ich zu Fuß und mit der Bahn nicht so leicht geschleppt hätte.
+        Wir rauchen eine und fahren Richtung Peine
+
+10:00 - Mutti lässt mich beim Arbeitsamt raus, ich melde mich Arbeitslos.
+        Danach gehe ich zu meinen Ärzten und hole Rezepte für meine Medikamente.
+        Dann einkaufen...
+        Ich hole mir zwei kleine Korn... Will nochmal wissen ob ich noch Alkohol trinken will.
+        Ich gehe in den Peiner Burgpark, esse einen Hamburger und trinke etwas.
+        Die Wirkung ist nicht sonderlich stark und auf eine größere Menge habe ich keine Lust mehr.
+        Etwas beruhigend, aber ich schliesse entgültig mit dem Alkohol ab.
+        Erzählen tue ich Mutti und Lazer nichts davon.
+        Später habe ich ein wenig Kopfschmerzen als Nebenwirkung.
+
+13:00 - Ich bin zuhause :)
+        Ich will einen Arbeitslosengeldantrag online ausfüllen, aber mir fehlen einige Unterlagen.
+        Unter anderem brauche ich mein Kündigungsschreiben.
+        Dieses fordere ich nach erfolgloser Suche noch einmal bei meinem Ex-Chef an.
+
+15:00 - Ich berate ein wenig meinen Ex-Azubi bei einem PHP Problem.
+
+17:00 - Ich gehe zur Apotheke und treffe mich mit Lazer.
+        Wir essen einen Hamburger.
+
+19:00 - Wieder zu hause.
+        Mutti, Hotti und ich quatschen ein wenig in der Küche.
+
+20:00 - Ich schreibe ein wenig an meinem Lebenslauf.
+        Als ich ihn Mutti zeige ist sie enttäuscht.
+        Ich entscheide es morgen nochmal zu versuchen, mit Vorlagen aus dem Internet.
+        Diese sind deutlich hübscher als ein kahles weiss.
+
+21:00 - Medis und ab in's Bett.
+
+===================================================================================================
+
+
+
+
 
 
 

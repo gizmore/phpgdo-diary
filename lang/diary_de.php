@@ -25,4 +25,5 @@ return [
     'link_gizmore_poem' => 'Gedicht 2023',
     'link_gizmore_chronicles' => 'Chroniken 2023',
     'link_gizmore_chronicles2024' => 'Chroniken 2024',
+    'link_gizmore_chronicles20242' => 'Chroniken März 2024',
 ];
