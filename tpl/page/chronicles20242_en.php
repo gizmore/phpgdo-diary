@@ -157,12 +157,20 @@ Ich wurde aus der Therapie entlassen.
 14:00 - Ich stehe wieder viel zu spät auf.
         Mutti ist schon eingetroffen.
 
+
 ===================================================================================================
 
 # Thu, 14.Mar.2024
 
 13:00 - Ich habe wieder verschlafen und habe um 14:00 einen Zahnarzttermin in Ringelheim.
         Ich mache mich schnell fertig und gehe los.
+        In Braunschweig im Zug rufe ich beim Zahnarzt an um mitzuteilen, dass ich mich etwas verspäte.
+        Dieser teilt mir mit, dass ich den Termin erst um 16:00 habe.
+        Also raus aus dem Zug und auf einen Hamburger nach Burger King.
+
+16:00 - Beim Zahnarzt bekomme ich eine Zahnreinigung.
+        Diese muss ich selbst bezahlen, da meine Krankenkasse das nicht übernimmt.
+
 
 
 
