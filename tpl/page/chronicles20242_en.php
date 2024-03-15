@@ -157,3 +157,17 @@ Ich wurde aus der Therapie entlassen.
 14:00 - Ich stehe wieder viel zu spät auf.
         Mutti ist schon eingetroffen.
 
+===================================================================================================
+
+# Thu, 14.Mar.2024
+
+13:00 - Ich habe wieder verschlafen und habe um 14:00 einen Zahnarzttermin in Ringelheim.
+        Ich mache mich schnell fertig und gehe los.
+
+
+
+===================================================================================================
+
+# Fri, 15.Mar.2024
+
+09:00 -
