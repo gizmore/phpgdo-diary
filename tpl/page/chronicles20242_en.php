@@ -156,6 +156,8 @@ Ich wurde aus der Therapie entlassen.
 
 14:00 - Ich stehe wieder viel zu spät auf.
         Mutti ist schon eingetroffen.
+        Der WeChall-Server kann nun auch IPv6, aber tehron meldet warchall.net hat das selbe Problem.
+        Also noch ein Ticket beim Hoster aufgemacht.
 
 
 ===================================================================================================
@@ -170,12 +172,29 @@ Ich wurde aus der Therapie entlassen.
 
 16:00 - Beim Zahnarzt bekomme ich eine Zahnreinigung.
         Diese muss ich selbst bezahlen, da meine Krankenkasse das nicht übernimmt.
+        120€ für etwas weissere Zähne.
 
+18:00 - Wieder zu Hause. Ich werkel ein wenig am Luca Projekt und mache Fortschritte.
 
+20:00 - Ich fange an ein neues Modul zu programmieren.
+        Ein Mapping von IP-Adressen auf Städte.
 
+23:00 - Medis und ab in's Bett.
 
 ===================================================================================================
 
 # Fri, 15.Mar.2024
 
-09:00 -
+09:00 - Endlich mal früher wach.
+        Ich werkel weiter am IP-Adressen mapping.
+        6 Millionen Datensätze sind schon ganz ordentlich.
+        Nach einer weile klappt der Import im vernünftigem Zeitrahmen,
+        und auch die Erkennung scheint zu funktionieren.
+
+15:00 - Mutti und Hotti kommen vorbei. Ich gehe einkaufen.
+        Ein wenig Kleister, wo ich den falschen kaufe, und ein paar Getränke.
+        Unterwegs treffe ich Marvin.
+
+16:00 - Ich lade noch einen Film für Marvin herunter und füge Geokoordinaten für die IP-Erkennung hinzu.
+
+18:00 - Ich widme mich wieder meinem Chatbot. Ein wenig testen und Fehler beheben.
