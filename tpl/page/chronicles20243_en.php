@@ -1,4 +1,7 @@
+<pre>
 Ich führe diese Logbuch nun wieder etwas anders.
+
+
 # Tue, 19.Mar.2023
 
 10:00 - Ich stehe zerknittert auf.
@@ -21,3 +24,13 @@ Auf alle Fälle ist Themen abbonieren eine neue gute Idee.
 
 Manchmal fühle ich mich, als wenn ich die Welt mit einigen wenigen Keys ändern kann.
 Further reading: [Manifesto](http://phrack.org/issues/7/3.html)
+
+# Wed, 20.Mar.2023
+
+14:00 - Mutti weckt mich.
+        Ich konnte nur schlecht einschlafen und bin einigermassen motiviert.
+        Ich lese meine Aufzeichnungen von gestern durch. Keine dollen neuen Ideen die sich leicht umsetzen lassen.
+
+
+
+</pre>
