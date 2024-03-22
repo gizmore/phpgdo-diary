@@ -1,8 +1,8 @@
 <pre>
 Ich führe diese Logbuch nun wieder etwas anders.
+Weniger belangloses.
 
-
-# Tue, 19.Mar.2023
+# Tue, 19.Mar.2024
 
 10:00 - Ich stehe zerknittert auf.
         Termin beim Arbeitsamt - Quasi Coaching
@@ -25,12 +25,29 @@ Auf alle Fälle ist Themen abbonieren eine neue gute Idee.
 Manchmal fühle ich mich, als wenn ich die Welt mit einigen wenigen Keys ändern kann.
 Further reading: [Manifesto](http://phrack.org/issues/7/3.html)
 
-# Wed, 20.Mar.2023
+# Wed, 20.Mar.2024
 
 14:00 - Mutti weckt mich.
         Ich konnte nur schlecht einschlafen und bin einigermassen motiviert.
         Ich lese meine Aufzeichnungen von gestern durch. Keine dollen neuen Ideen die sich leicht umsetzen lassen.
 
+# Thu, 21.Mar.2024
 
+15:00 - Ich bewerbe mich bei einer Firma welche kurzfristig reagiert.
+        Ich solle einige Wochen geduld haben.
+        Meine Gehaltsvorstellung sind lediglich 55k Euro im Jahr.
+        Wahrscheinlich ist das niedrige Gehalt ein guter Köder für ein erstes Gespräch.
+
+19:00 - Meine Arbeiten am Bot gehen voran.
+        Ich portiere "Slapwarz" - Ein PHPIRCMMOBEAT-EM-UP.
+        Man kann andere Leute hauen und bekommt zufällig Punkte, je nach Zufalls-item.
+        Es ist im IRC recht beliebt :)
+
+        Luca ruft an.
+        Er findet keine Partner für seine Projekte.
+        Er lädt mich ein, im April einen kurzen Urlaub in Bulgarien zu machen.
+        Ich muss mir dies erstmal überlegen.
+
+20:00 - [Slayradio](https://slayradio.org) liveshow *wink
 
 </pre>
