@@ -50,4 +50,18 @@ Further reading: [Manifesto](http://phrack.org/issues/7/3.html)
 
 20:00 - [Slayradio](https://slayradio.org) liveshow *wink
 
+Sun, 24.Mar.2ß24
+
+02:00 - Ich werde wach und habe geträumt.
+    Einen Traum den ich öfters habe.
+    Ich bin ineiner Spielothek an einem PC.
+    Dort kann man u.a. auch PC spiele spielen.
+    Am meisten spiele ich dan Flipper.
+    Dieses mal war es eine Art Arkanoid.
+    Ich spiele gut und gewinne 85€.
+    Auszahlen wird halb verweigert, und ich soll morgen wiederkommen.
+    Auch bin ich betrunken... Rückfall mit einem Türken... wir gehen zu ihm... ich wache auf.
+
+    Aus der Iraum... Ich lege mich wieder hin :)
+
 </pre>
