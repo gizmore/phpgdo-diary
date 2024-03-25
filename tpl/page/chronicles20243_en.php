@@ -64,4 +64,17 @@ Sun, 24.Mar.2ß24
 
     Aus der Iraum... Ich lege mich wieder hin :)
 
+22:39 - Ich habe eine brilliante Idee, wie ich ChatGPT einbinden kann.
+    Normale nachrichten soll er lesen und verstehen, aber nur mit ACK beantworten.
+    Erste Tests mit dem Handy waren gut.
+
+
+Mon, 25.Mar.2ß24
+
+13:31 - Meine Idee ist nicht ausreichend.
+        ChatGPT scheint ein window für alte Tokens zu haben.
+        Ich implementiere es nun etwas anders.
+        Leider sind meine free trial credits aufgebraucht, so dass ich meine Kreditkarte belasten muss.
+
+
 </pre>
