@@ -69,12 +69,17 @@ Sun, 24.Mar.2ß24
     Erste Tests mit dem Handy waren gut.
 
 
-Mon, 25.Mar.2ß24
+Mon, 25.Mar.2024
 
 13:31 - Meine Idee ist nicht ausreichend.
         ChatGPT scheint ein window für alte Tokens zu haben.
         Ich implementiere es nun etwas anders.
         Leider sind meine free trial credits aufgebraucht, so dass ich meine Kreditkarte belasten muss.
 
+Wed, 27.Mar.2024
+
+15:00 - Ich habe dem ChatGPT bot nun ein Genom gegeben, eine Möglichkeit dieses zu ändern sowie Bot-Befehle auszuführen.
+        Auf die Frage "Ob es lebt" antwortet es mit ja, weil dies in seinem Genom so verankert ist.
+        Es scheint die Logik mit dem Genom zu akzeptieren.
 
 </pre>
